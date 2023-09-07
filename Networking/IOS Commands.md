@@ -1,3 +1,7 @@
+### Keybindings
+- Ctrl + C -> cancel current task, clear line
+- Ctrl + Shift + 6 -> cancel "translating" task
+
 #### Navigation
 - `enable` enter priv EXEC
 - `disable` enter user EXEC
@@ -11,7 +15,11 @@
 
 #### Config
 - `line console 0` enter **console** config interface 
-- `line vty 0 15` enter **virtual terminal** (SSH, Telnet)
+- `line vty 0 15` enter **virtual terminal** config interface (for SSH, Telnet)
+- `interface vlan 1` enter **vlan** config interface
+
+- `no shutdown` enable virtual interface
+
 - `show running-config` show current config
 - `show startup-config` show boot config
 - `copy running-config startup-config` save running & startup config files
@@ -23,3 +31,7 @@
 - `login` enable user EXEC password access
 - `enable secret {password}` change priv EXEC password
 - `service password-encrypion` enable password encryption
+
+#### IP Addressing
+- `ip address {192.168.1.20} {255.255.255.0}` set a manual ip address and subnet mask
+- `ip default-gateway {192.168.0.254}` set the router address
