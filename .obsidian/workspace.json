@@ -11,8 +11,12 @@
             "id": "eb1137f40e269552",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Networking/2-Basic Config/2.3 The Command Structure.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -21,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Overview.md",
+                "file": "Networking/2-Basic Config/2.2 IOS Navigation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b87c0a2fcbbc800",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking/IOS Commands.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Overview.md",
+                "file": "Networking/IOS Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Overview.md",
+                "file": "Networking/IOS Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Overview.md"
+                "file": "Networking/IOS Commands.md"
               }
             }
           }
@@ -147,6 +163,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "syncthing-integration:Open Syncthing conflict manager modal": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -155,9 +172,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5f3aa82ec2d8682",
+  "active": "8b87c0a2fcbbc800",
   "lastOpenFiles": [
-    "Overview.md",
-    "Module 1"
+    "Networking/2-Basic Config/2.3 The Command Structure.md",
+    "README.md",
+    "Networking/1-Networking Today/Overview.md",
+    "Networking/2-Basic Config/2.1 Cisco IOS Access.md",
+    "Networking/2-Basic Config/2.2 IOS Navigation.md",
+    "Networking/IOS Commands.md",
+    "Networking",
+    "attachments/Pasted image 20230906150609.png",
+    "attachments/Pasted image 20230906145722.png",
+    "attachments/Pasted image 20230906145551.png",
+    "attachments",
+    "attachments/Pasted image 20230906143046.png",
+    "Networking/2-Basic Config",
+    "Networking/1-Networking Today"
   ]
 }
