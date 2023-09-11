@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desktop Support & Maintenance/2-PC Technician Responsibilities/4.2 Change Management.md",
+                "file": "Desktop Support & Maintenance/2-PC Technician Responsibilities/8.1 Ticketing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desktop Support & Maintenance/2-PC Technician Responsibilities/4.2 Change Management.md",
+                "file": "Desktop Support & Maintenance/2-PC Technician Responsibilities/8.1 Ticketing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desktop Support & Maintenance/2-PC Technician Responsibilities/4.2 Change Management.md",
+                "file": "Desktop Support & Maintenance/2-PC Technician Responsibilities/8.1 Ticketing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desktop Support & Maintenance/2-PC Technician Responsibilities/4.2 Change Management.md"
+                "file": "Desktop Support & Maintenance/2-PC Technician Responsibilities/8.1 Ticketing.md"
               }
             }
           }
@@ -149,8 +149,14 @@
   },
   "active": "eb1137f40e269552",
   "lastOpenFiles": [
-    "Desktop Support & Maintenance/2-PC Technician Responsibilities/3.2 Professionalism.md",
+    "Desktop Support & Maintenance/2-PC Technician Responsibilities/7.1 Troubleshooting Process.md",
+    "Desktop Support & Maintenance/2-PC Technician Responsibilities/8.1 Ticketing.md",
+    "attachments/image/7.1 Troubleshooting Process-1694401930222.jpeg",
+    "Desktop Support & Maintenance/2-PC Technician Responsibilities/6.1 PC and Networking Tools.md",
+    "attachments/image/6.1 PC and Networking Tools-1694400662332.jpeg",
+    "Desktop Support & Maintenance/2-PC Technician Responsibilities/5.1 Maintenance Best Practices.md",
     "Desktop Support & Maintenance/2-PC Technician Responsibilities/4.2 Change Management.md",
+    "Desktop Support & Maintenance/2-PC Technician Responsibilities/3.2 Professionalism.md",
     "Desktop Support & Maintenance/2-PC Technician Responsibilities/2.1 Enviromental Concerns.md",
     "Desktop Support & Maintenance/2-PC Technician Responsibilities/2.3 Protecting Power.md",
     "attachments/image/2.3 Protecting Power-1694311356305.jpeg",
@@ -179,7 +185,6 @@
     "attachments/Pasted image 20230906145722.png",
     "attachments/Pasted image 20230906145551.png",
     "attachments",
-    "attachments/Pasted image 20230906143046.png",
     "Networking/2-Basic Config",
     "Networking/1-Networking Today"
   ]
