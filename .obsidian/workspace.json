@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Console with Linux.md",
+                "file": "Networking/IOS Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Console with Linux.md",
+                "file": "Networking/IOS Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Console with Linux.md",
+                "file": "Networking/IOS Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Console with Linux.md"
+                "file": "Networking/IOS Commands.md"
               }
             }
           }
@@ -184,10 +184,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7cff6b15a3f0a196",
+  "active": "4f75e50b9f68a9a0",
   "lastOpenFiles": [
-    "Networking/IOS Commands.md",
     "Networking/Console with Linux.md",
+    "Networking/IOS Commands.md",
     "Networking/2-Basic Config/2.1 Cisco IOS Access.md",
     "README.md",
     "attachments/image/7.1 Troubleshooting Process-1694401930222.jpeg",
