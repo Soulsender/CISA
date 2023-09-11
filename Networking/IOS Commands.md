@@ -24,7 +24,7 @@
 - `line console 0` enter **console** config interface (`line con 0`)
 - `line vty 0 15` enter **virtual terminal** config interface (for SSH, Telnet)
 - `interface vlan 1` enter **vlan** config interface
-- `interface FastEthernet 0/1` enter ethernet con
+- `interface FastEthernet 0/1` enter ethernet config interface (`int fa 0/1`)
 - `no shutdown` enable virtual interface
 - `copy running-config startup-config` save running & startup config files
 - `erase startup-config` erases startup-config
