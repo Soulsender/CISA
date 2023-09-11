@@ -13,18 +13,21 @@
 - `banner motd {banner}` create a warning banner
 - `traceroute {ip}` traceroute ip address
 
+#### Show 
+- `show version` get version and system info
+- `show interface status` show all interfaces
+- `show ip interface brief` show ip address information
+- `show running-config` show current config
+- `show startup-config` show boot config
+
 #### Config
 - `line console 0` enter **console** config interface 
 - `line vty 0 15` enter **virtual terminal** config interface (for SSH, Telnet)
 - `interface vlan 1` enter **vlan** config interface
-
 - `no shutdown` enable virtual interface
-
-- `show running-config` show current config
-- `show startup-config` show boot config
 - `copy running-config startup-config` save running & startup config files
-- `reload` restore to startup-config (device will go offline briefly)
 - `erase startup-config` erases startup-config
+- `reload` restore to startup-config (device will go offline briefly)
 
 #### Passwords
 - `password {password}` change user EXEC password (used in `line console 0` and `line vty 0 15`)
