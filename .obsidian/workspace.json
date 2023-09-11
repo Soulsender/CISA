@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desktop Support & Maintenance/2-PC Technician Responsibilities/9.1 Documentation.md",
+                "file": "Networking/2-Basic Config/2.3 The Command Structure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5f3aa82ec2d8682",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking/2-Basic Config/2.2 IOS Navigation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b87c0a2fcbbc800",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking/IOS Commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f75e50b9f68a9a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking/Console with Linux.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desktop Support & Maintenance/2-PC Technician Responsibilities/9.1 Documentation.md",
+                "file": "Networking/Console with Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desktop Support & Maintenance/2-PC Technician Responsibilities/9.1 Documentation.md",
+                "file": "Networking/Console with Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desktop Support & Maintenance/2-PC Technician Responsibilities/9.1 Documentation.md"
+                "file": "Networking/Console with Linux.md"
               }
             }
           }
@@ -138,55 +175,52 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "syncthing-integration:Open Syncthing conflict manager modal": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "syncthing-integration:Open Syncthing conflict manager modal": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "eb1137f40e269552",
+  "active": "7cff6b15a3f0a196",
   "lastOpenFiles": [
+    "Networking/IOS Commands.md",
+    "Networking/Console with Linux.md",
+    "Networking/2-Basic Config/2.1 Cisco IOS Access.md",
+    "README.md",
+    "attachments/image/7.1 Troubleshooting Process-1694401930222.jpeg",
+    "attachments/image/6.1 PC and Networking Tools-1694400662332.jpeg",
+    "attachments/image/2.3 Protecting Power-1694311356305.jpeg",
+    "attachments/image/1.10 Network and Server Cabinets-1694305810834.jpeg",
+    "attachments/image/1.10 Network and Server Cabinets-1694305788284.jpeg",
+    "attachments/image",
     "Desktop Support & Maintenance/2-PC Technician Responsibilities/9.3 Onboarding and Offboarding Checklists.md",
     "Desktop Support & Maintenance/2-PC Technician Responsibilities/9.1 Documentation.md",
     "Desktop Support & Maintenance/2-PC Technician Responsibilities/8.1 Ticketing.md",
     "Desktop Support & Maintenance/2-PC Technician Responsibilities/7.1 Troubleshooting Process.md",
-    "attachments/image/7.1 Troubleshooting Process-1694401930222.jpeg",
     "Desktop Support & Maintenance/2-PC Technician Responsibilities/6.1 PC and Networking Tools.md",
-    "attachments/image/6.1 PC and Networking Tools-1694400662332.jpeg",
     "Desktop Support & Maintenance/2-PC Technician Responsibilities/5.1 Maintenance Best Practices.md",
     "Desktop Support & Maintenance/2-PC Technician Responsibilities/4.2 Change Management.md",
     "Desktop Support & Maintenance/2-PC Technician Responsibilities/3.2 Professionalism.md",
-    "Desktop Support & Maintenance/2-PC Technician Responsibilities/2.1 Enviromental Concerns.md",
     "Desktop Support & Maintenance/2-PC Technician Responsibilities/2.3 Protecting Power.md",
-    "attachments/image/2.3 Protecting Power-1694311356305.jpeg",
+    "Desktop Support & Maintenance/2-PC Technician Responsibilities/2.1 Enviromental Concerns.md",
     "Desktop Support & Maintenance/2-PC Technician Responsibilities/1.1 Safety.md",
+    "Desktop Support & Maintenance/1-Introduction/1.2 Computing Basics.md",
     "Desktop Support & Maintenance/1-Introduction/1.10 Network and Server Cabinets.md",
     "Desktop Support & Maintenance/2-PC Technician Responsibilities",
-    "attachments/image/1.10 Network and Server Cabinets-1694305810834.jpeg",
-    "attachments/image",
-    "attachments/image/1.10 Network and Server Cabinets-1694305788284.jpeg",
-    "Pasted image 20230909172752.png.md",
-    "attachments/Pasted image 20230909172813.png",
-    "attachments/Pasted image 20230906150609.png",
-    "attachments/Pasted image 20230909172752.png",
-    "Desktop Support & Maintenance/1-Introduction/1.2 Computing Basics.md",
-    "Desktop Support & Maintenance/Untitled.md",
     "Desktop Support & Maintenance/1-Introduction",
-    "Networking/2-Basic Config/2.2 IOS Navigation.md",
-    "Desktop Support & Maintenance/Untitled 1.md",
-    "Networking/IOS Commands.md",
     "Desktop Support & Maintenance",
     "Networking/2-Basic Config/2.3 The Command Structure.md",
-    "README.md",
     "Networking/1-Networking Today/Overview.md",
-    "Networking/2-Basic Config/2.1 Cisco IOS Access.md",
+    "Networking/2-Basic Config/2.2 IOS Navigation.md",
     "Networking",
+    "attachments/Pasted image 20230906150609.png",
     "attachments/Pasted image 20230906145722.png",
     "attachments/Pasted image 20230906145551.png",
     "attachments",
+    "attachments/Pasted image 20230906143046.png",
     "Networking/2-Basic Config",
     "Networking/1-Networking Today"
   ]
