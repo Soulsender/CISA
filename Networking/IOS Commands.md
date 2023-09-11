@@ -5,7 +5,7 @@
 #### Navigation
 - `enable` enter priv EXEC (`en`)
 - `disable` enter user EXEC
-- `configure terminal` global mode
+- `configure terminal` global mode (`conf t`)
 - `end` enter from any mode to priv EXEC mode
 
 #### Misc
