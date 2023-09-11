@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desktop Support & Maintenance/2-PC Technician Responsibilities/8.1 Ticketing.md",
+                "file": "Desktop Support & Maintenance/2-PC Technician Responsibilities/9.1 Documentation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desktop Support & Maintenance/2-PC Technician Responsibilities/8.1 Ticketing.md",
+                "file": "Desktop Support & Maintenance/2-PC Technician Responsibilities/9.1 Documentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desktop Support & Maintenance/2-PC Technician Responsibilities/8.1 Ticketing.md",
+                "file": "Desktop Support & Maintenance/2-PC Technician Responsibilities/9.1 Documentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desktop Support & Maintenance/2-PC Technician Responsibilities/8.1 Ticketing.md"
+                "file": "Desktop Support & Maintenance/2-PC Technician Responsibilities/9.1 Documentation.md"
               }
             }
           }
@@ -149,8 +149,10 @@
   },
   "active": "eb1137f40e269552",
   "lastOpenFiles": [
-    "Desktop Support & Maintenance/2-PC Technician Responsibilities/7.1 Troubleshooting Process.md",
+    "Desktop Support & Maintenance/2-PC Technician Responsibilities/9.3 Onboarding and Offboarding Checklists.md",
+    "Desktop Support & Maintenance/2-PC Technician Responsibilities/9.1 Documentation.md",
     "Desktop Support & Maintenance/2-PC Technician Responsibilities/8.1 Ticketing.md",
+    "Desktop Support & Maintenance/2-PC Technician Responsibilities/7.1 Troubleshooting Process.md",
     "attachments/image/7.1 Troubleshooting Process-1694401930222.jpeg",
     "Desktop Support & Maintenance/2-PC Technician Responsibilities/6.1 PC and Networking Tools.md",
     "attachments/image/6.1 PC and Networking Tools-1694400662332.jpeg",
