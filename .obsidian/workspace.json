@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desktop Support & Maintenance/2-PC Technician Responsibilities/9.1 Documentation.md",
+                "file": "Networking/3-Protocols and Models/3.2 Protocol Suites.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desktop Support & Maintenance/2-PC Technician Responsibilities/9.1 Documentation.md",
+                "file": "Networking/3-Protocols and Models/3.2 Protocol Suites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desktop Support & Maintenance/2-PC Technician Responsibilities/9.1 Documentation.md",
+                "file": "Networking/3-Protocols and Models/3.2 Protocol Suites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desktop Support & Maintenance/2-PC Technician Responsibilities/9.1 Documentation.md"
+                "file": "Networking/3-Protocols and Models/3.2 Protocol Suites.md"
               }
             }
           }
@@ -149,11 +149,13 @@
   },
   "active": "eb1137f40e269552",
   "lastOpenFiles": [
+    "attachments/image/3.2 Protocol Suites-1694476431093.jpeg",
+    "Desktop Support & Maintenance/2-PC Technician Responsibilities/9.1 Documentation.md",
+    "Networking/3-Protocols and Models/3.2 Protocol Suites.md",
     "Networking/Console with Linux.md",
     "Networking/3-Protocols and Models/3.1 The Rules.md",
     "Networking/3-Protocols and Models",
     "Desktop Support & Maintenance/2-PC Technician Responsibilities/9.3 Onboarding and Offboarding Checklists.md",
-    "Desktop Support & Maintenance/2-PC Technician Responsibilities/9.1 Documentation.md",
     "Desktop Support & Maintenance/2-PC Technician Responsibilities/8.1 Ticketing.md",
     "Desktop Support & Maintenance/2-PC Technician Responsibilities/7.1 Troubleshooting Process.md",
     "attachments/image/7.1 Troubleshooting Process-1694401930222.jpeg",
