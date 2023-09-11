@@ -13,14 +13,14 @@
 - `banner motd {banner}` create a warning banner
 - `traceroute {ip}` traceroute ip address
 
-#### Show 
+#### Show (`sh`)
 - `show version` get version and system info
 - `show interface status` show all interfaces
 - `show ip interface brief` show ip address information
 - `show running-config` show current config
 - `show startup-config` show boot config
 
-#### Config
+#### Config (`conf`)
 - `line console 0` enter **console** config interface (`line con 0`)
 - `line vty 0 15` enter **virtual terminal** config interface (for SSH, Telnet)
 - `interface vlan 1` enter **vlan** config interface
