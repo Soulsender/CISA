@@ -3,7 +3,7 @@
 - Ctrl + Shift + 6 -> cancel "translating" task
 
 #### Navigation
-- `enable` enter priv EXEC
+- `enable` enter priv EXEC (`en`)
 - `disable` enter user EXEC
 - `configure terminal` global mode
 - `end` enter from any mode to priv EXEC mode
