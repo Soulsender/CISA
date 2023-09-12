@@ -63,4 +63,7 @@ Basic categories of Servers
 - operating environment
 - programming interfaces for specific applications
 - fax server
-- print and file storage
+- file storage
+- print and document services
+- remote desktop services
+- web server (IIS)
