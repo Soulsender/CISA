@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/OSI Model.md",
+                "file": "Networking/Reference Models.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/OSI Model.md",
+                "file": "Networking/Reference Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/OSI Model.md",
+                "file": "Networking/Reference Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/OSI Model.md"
+                "file": "Networking/Reference Models.md"
               }
             }
           },
@@ -220,7 +220,7 @@
   "lastOpenFiles": [
     "attachments/image/OSI Model-1694547590772.jpeg",
     "Networking/3-Protocols and Models/3.4 Standards Organizations.md",
-    "Networking/OSI Model.md",
+    "Networking/Reference Models.md",
     "Database/Windows Server.md",
     "conflict-files-obsidian-git.md",
     "Database/Untitled",
