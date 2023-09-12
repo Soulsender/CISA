@@ -1,0 +1,3 @@
+```py
+print("Monty", "Python")
+```

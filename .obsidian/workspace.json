@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Reference Models.md",
+                "file": "Programming/String Arguments.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Reference Models.md",
+                "file": "Programming/String Arguments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Reference Models.md",
+                "file": "Programming/String Arguments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Reference Models.md"
+                "file": "Programming/String Arguments.md"
               }
             }
           },
@@ -218,9 +218,11 @@
   },
   "active": "d4ad09cd27318a63",
   "lastOpenFiles": [
+    "Networking/Reference Models.md",
+    "Programming/String Arguments.md",
+    "Programming",
     "attachments/image/OSI Model-1694547590772.jpeg",
     "Networking/3-Protocols and Models/3.4 Standards Organizations.md",
-    "Networking/Reference Models.md",
     "Database/Windows Server.md",
     "conflict-files-obsidian-git.md",
     "Database/Untitled",
@@ -261,8 +263,6 @@
     "attachments/Pasted image 20230906150609.png",
     "attachments/Pasted image 20230906145722.png",
     "attachments/Pasted image 20230906145551.png",
-    "attachments",
-    "attachments/Pasted image 20230906143046.png",
-    "Networking/2-Basic Config"
+    "attachments"
   ]
 }
