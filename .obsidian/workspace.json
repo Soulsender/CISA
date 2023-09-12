@@ -76,9 +76,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0c57ecb8a6578236",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -216,7 +226,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4ad09cd27318a63",
+  "active": "0c57ecb8a6578236",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Database/Windows Server.md",
