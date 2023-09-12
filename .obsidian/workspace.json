@@ -71,24 +71,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Windows Server.md",
+                "file": "Networking/3-Protocols and Models/3.4 Standards Organizations.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "0c57ecb8a6578236",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.12"
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -154,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Windows Server.md",
+                "file": "Networking/3-Protocols and Models/3.4 Standards Organizations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/Windows Server.md",
+                "file": "Networking/3-Protocols and Models/3.4 Standards Organizations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/Windows Server.md"
+                "file": "Networking/3-Protocols and Models/3.4 Standards Organizations.md"
               }
             }
           },
@@ -226,10 +216,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0c57ecb8a6578236",
+  "active": "d4ad09cd27318a63",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Database/Windows Server.md",
+    "Networking/3-Protocols and Models/3.4 Standards Organizations.md",
+    "conflict-files-obsidian-git.md",
     "Database/Untitled",
     "Database",
     "attachments/image/3.2 Protocol Suites-1694476431093.jpeg",
