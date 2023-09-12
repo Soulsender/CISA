@@ -54,9 +54,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f12144ea84017782",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.10"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -165,6 +175,16 @@
                 "file": "Networking/3-Protocols and Models/3.1 The Rules.md"
               }
             }
+          },
+          {
+            "id": "deee7027238a21fe",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
@@ -184,7 +204,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7cff6b15a3f0a196",
+  "active": "f12144ea84017782",
   "lastOpenFiles": [
     "Networking/IOS Commands.md",
     "Networking/3-Protocols and Models/3.1 The Rules.md",
