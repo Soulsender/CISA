@@ -27,9 +27,25 @@
 - Limited to 15 users
 
 ## Supporting Server Roles
+Basic categories of Servers
 
 #### Directory Services
 - store
-- organize
+- organise
 - supply info about a network and its resources
-- 
+- AD certificate services
+	- public key certification
+- AD domain services
+	- domain controller
+- AD federation services
+	- single sign-on
+- AD lightweight directory services
+	- directory-enable application
+
+#### Infrastructure Services
+- provide support services for network clients
+
+#### Application Services
+- provide communication services
+- operating environment
+- programming interfaces for specific applications
