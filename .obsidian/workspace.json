@@ -64,9 +64,33 @@
                 "currentVersion": "1.4.10"
               }
             }
+          },
+          {
+            "id": "d4ad09cd27318a63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database/Windows Server.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54ddd65706811bdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -132,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/3-Protocols and Models/3.1 The Rules.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/3-Protocols and Models/3.1 The Rules.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/3-Protocols and Models/3.1 The Rules.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -204,8 +228,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f12144ea84017782",
+  "active": "54ddd65706811bdc",
   "lastOpenFiles": [
+    "Database/Windows Server.md",
+    "conflict-files-obsidian-git.md",
+    "Database/Untitled",
+    "Database",
+    "attachments/image/3.2 Protocol Suites-1694476431093.jpeg",
+    "Networking/3-Protocols and Models/3.2 Protocol Suites.md",
     "Networking/IOS Commands.md",
     "Networking/3-Protocols and Models/3.1 The Rules.md",
     "Networking/3-Protocols and Models",
@@ -243,7 +273,6 @@
     "attachments/Pasted image 20230906145551.png",
     "attachments",
     "attachments/Pasted image 20230906143046.png",
-    "Networking/2-Basic Config",
-    "Networking/1-Networking Today"
+    "Networking/2-Basic Config"
   ]
 }
