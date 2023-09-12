@@ -25,3 +25,11 @@
 	- Application support
 - No virtualisation rights
 - Limited to 15 users
+
+## Supporting Server Roles
+
+#### Directory Services
+- store
+- organize
+- supply info about a network and its resources
+- 
