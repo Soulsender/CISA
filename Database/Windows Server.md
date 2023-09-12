@@ -51,8 +51,16 @@ Basic categories of Servers
 - VPN
 - IP routing
 - NAT
+- Volume activation services
+	- key management system (KMS)
+- Windows deployment services (WDS)
+	- install windows OS remotely
+- Windows server update services (WSUS)
+	- windows updates
 
 #### Application Services
 - provide communication services
 - operating environment
 - programming interfaces for specific applications
+- fax server
+- print and file storage
