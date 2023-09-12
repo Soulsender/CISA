@@ -44,6 +44,13 @@ Basic categories of Servers
 
 #### Infrastructure Services
 - provide support services for network clients
+- DHCP
+- DNS server
+- Hyper V
+- Remote access
+- VPN
+- IP routing
+- NAT
 
 #### Application Services
 - provide communication services
