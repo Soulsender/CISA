@@ -4,81 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "bae6ff67191a255f",
+        "id": "fa4fa3a7384b6702",
         "type": "tabs",
         "children": [
           {
-            "id": "eb1137f40e269552",
+            "id": "c8aaafc7ca31eded",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/2-Basic Config/2.3 The Command Structure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5f3aa82ec2d8682",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking/2-Basic Config/2.2 IOS Navigation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b87c0a2fcbbc800",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking/IOS Commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f75e50b9f68a9a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking/3-Protocols and Models/3.1 The Rules.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f12144ea84017782",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.10"
-              }
-            }
-          },
-          {
-            "id": "d4ad09cd27318a63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/String Arguments.md",
+                "file": "Networking/Reference Models.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/String Arguments.md",
+                "file": "Networking/Reference Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/String Arguments.md",
+                "file": "Networking/Reference Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/String Arguments.md"
+                "file": "Networking/Reference Models.md"
               }
             }
           },
@@ -216,10 +157,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4ad09cd27318a63",
+  "active": "c8aaafc7ca31eded",
   "lastOpenFiles": [
-    "Networking/Reference Models.md",
     "Programming/String Arguments.md",
+    "Networking/3-Protocols and Models/3.1 The Rules.md",
+    "Networking/IOS Commands.md",
+    "Networking/2-Basic Config/2.2 IOS Navigation.md",
+    "Networking/2-Basic Config/2.3 The Command Structure.md",
+    "Networking/Reference Models.md",
     "Programming",
     "attachments/image/OSI Model-1694547590772.jpeg",
     "Networking/3-Protocols and Models/3.4 Standards Organizations.md",
@@ -229,8 +174,6 @@
     "Database",
     "attachments/image/3.2 Protocol Suites-1694476431093.jpeg",
     "Networking/3-Protocols and Models/3.2 Protocol Suites.md",
-    "Networking/IOS Commands.md",
-    "Networking/3-Protocols and Models/3.1 The Rules.md",
     "Networking/3-Protocols and Models",
     "Networking/Console with Linux.md",
     "Networking/2-Basic Config/2.1 Cisco IOS Access.md",
@@ -257,8 +200,6 @@
     "Desktop Support & Maintenance/2-PC Technician Responsibilities",
     "Desktop Support & Maintenance/1-Introduction",
     "Desktop Support & Maintenance",
-    "Networking/2-Basic Config/2.3 The Command Structure.md",
-    "Networking/1-Networking Today/Overview.md",
     "Networking",
     "attachments/Pasted image 20230906150609.png",
     "attachments/Pasted image 20230906145722.png",
