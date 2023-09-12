@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/3-Protocols and Models/3.4 Standards Organizations.md",
+                "file": "Networking/OSI Model.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/3-Protocols and Models/3.4 Standards Organizations.md",
+                "file": "Networking/OSI Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/3-Protocols and Models/3.4 Standards Organizations.md",
+                "file": "Networking/OSI Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/3-Protocols and Models/3.4 Standards Organizations.md"
+                "file": "Networking/OSI Model.md"
               }
             }
           },
@@ -218,8 +218,10 @@
   },
   "active": "d4ad09cd27318a63",
   "lastOpenFiles": [
-    "Database/Windows Server.md",
+    "attachments/image/OSI Model-1694547590772.jpeg",
     "Networking/3-Protocols and Models/3.4 Standards Organizations.md",
+    "Networking/OSI Model.md",
+    "Database/Windows Server.md",
     "conflict-files-obsidian-git.md",
     "Database/Untitled",
     "Database",
@@ -255,7 +257,6 @@
     "Desktop Support & Maintenance",
     "Networking/2-Basic Config/2.3 The Command Structure.md",
     "Networking/1-Networking Today/Overview.md",
-    "Networking/2-Basic Config/2.2 IOS Navigation.md",
     "Networking",
     "attachments/Pasted image 20230906150609.png",
     "attachments/Pasted image 20230906145722.png",
