@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Reference Models.md",
+                "file": "Networking/3-Protocols and Models/3.6 Data Encapsulation.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Reference Models.md",
+                "file": "Networking/3-Protocols and Models/3.6 Data Encapsulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Reference Models.md",
+                "file": "Networking/3-Protocols and Models/3.6 Data Encapsulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Reference Models.md"
+                "file": "Networking/3-Protocols and Models/3.6 Data Encapsulation.md"
               }
             }
           },
@@ -159,9 +159,10 @@
   },
   "active": "c8aaafc7ca31eded",
   "lastOpenFiles": [
+    "Networking/3-Protocols and Models/3.4 Standards Organizations.md",
+    "Networking/Reference Models.md",
     "Networking/3-Protocols and Models/3.6 Data Encapsulation.md",
     "Networking/3-Protocols and Models/3.1 The Rules.md",
-    "Networking/Reference Models.md",
     "Networking/3-Protocols and Models/3.2 Protocol Suites.md",
     "attachments/image/3.6 Data Encapsulation-1694644494950.jpeg",
     "Programming/String Arguments.md",
@@ -170,7 +171,6 @@
     "Networking/2-Basic Config/2.3 The Command Structure.md",
     "Programming",
     "attachments/image/OSI Model-1694547590772.jpeg",
-    "Networking/3-Protocols and Models/3.4 Standards Organizations.md",
     "Database/Windows Server.md",
     "conflict-files-obsidian-git.md",
     "Database/Untitled",
