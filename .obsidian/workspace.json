@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/3-Protocols and Models/3.6 Data Encapsulation.md",
-                "mode": "source",
+                "file": "Networking/Reference Models.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/3-Protocols and Models/3.6 Data Encapsulation.md",
+                "file": "Networking/Reference Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/3-Protocols and Models/3.6 Data Encapsulation.md",
+                "file": "Networking/Reference Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/3-Protocols and Models/3.6 Data Encapsulation.md"
+                "file": "Networking/Reference Models.md"
               }
             }
           },
@@ -159,11 +159,12 @@
   },
   "active": "c8aaafc7ca31eded",
   "lastOpenFiles": [
+    "Networking/3-Protocols and Models/3.2 Protocol Suites.md",
+    "Networking/3-Protocols and Models/3.1 The Rules.md",
+    "Networking/3-Protocols and Models/3.6 Data Encapsulation.md",
     "attachments/image/3.6 Data Encapsulation-1694644494950.jpeg",
     "Networking/Reference Models.md",
-    "Networking/3-Protocols and Models/3.6 Data Encapsulation.md",
     "Programming/String Arguments.md",
-    "Networking/3-Protocols and Models/3.1 The Rules.md",
     "Networking/IOS Commands.md",
     "Networking/2-Basic Config/2.2 IOS Navigation.md",
     "Networking/2-Basic Config/2.3 The Command Structure.md",
@@ -175,7 +176,6 @@
     "Database/Untitled",
     "Database",
     "attachments/image/3.2 Protocol Suites-1694476431093.jpeg",
-    "Networking/3-Protocols and Models/3.2 Protocol Suites.md",
     "Networking/3-Protocols and Models",
     "Networking/Console with Linux.md",
     "Networking/2-Basic Config/2.1 Cisco IOS Access.md",
@@ -203,7 +203,6 @@
     "Networking",
     "attachments/Pasted image 20230906150609.png",
     "attachments/Pasted image 20230906145722.png",
-    "attachments/Pasted image 20230906145551.png",
     "attachments"
   ]
 }
