@@ -1,6 +1,7 @@
 
 ![[OSI Model-1694547590772.jpeg]]
 ## OSI Model
+>"Please Do Not Teach Stupid People Acronyms"
 #### **7 - Application** 
 The application layer contains protocols used for process-to-process communications.
 #### **6 - Presentation** T
