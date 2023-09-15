@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/4-Physical Layer/4.2 Physical Layer Characteristics.md",
+                "file": "Networking/4-Physical Layer/4.3 Copper Cabling.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/4-Physical Layer/4.2 Physical Layer Characteristics.md",
+                "file": "Networking/4-Physical Layer/4.3 Copper Cabling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/4-Physical Layer/4.2 Physical Layer Characteristics.md",
+                "file": "Networking/4-Physical Layer/4.3 Copper Cabling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/4-Physical Layer/4.2 Physical Layer Characteristics.md"
+                "file": "Networking/4-Physical Layer/4.3 Copper Cabling.md"
               }
             }
           },
@@ -159,8 +159,9 @@
   },
   "active": "c8aaafc7ca31eded",
   "lastOpenFiles": [
-    "Networking/3-Protocols and Models/3.6 Data Encapsulation.md",
     "Networking/4-Physical Layer/4.2 Physical Layer Characteristics.md",
+    "Networking/4-Physical Layer/4.3 Copper Cabling.md",
+    "Networking/3-Protocols and Models/3.6 Data Encapsulation.md",
     "Networking/4-Physical Layer",
     "attachments/image/3.6 Data Encapsulation-1694721404377.jpeg",
     "attachments/image/3.6 Data Encapsulation-1694721395509.jpeg",
@@ -200,7 +201,6 @@
     "Desktop Support & Maintenance/2-PC Technician Responsibilities/3.2 Professionalism.md",
     "Desktop Support & Maintenance/2-PC Technician Responsibilities/2.3 Protecting Power.md",
     "Desktop Support & Maintenance/2-PC Technician Responsibilities/2.1 Enviromental Concerns.md",
-    "Desktop Support & Maintenance/2-PC Technician Responsibilities/1.1 Safety.md",
     "Desktop Support & Maintenance/2-PC Technician Responsibilities",
     "Desktop Support & Maintenance/1-Introduction",
     "Desktop Support & Maintenance",
