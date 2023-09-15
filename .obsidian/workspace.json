@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/4-Physical Layer/Fiber-Optic Cabling.md",
+                "file": "Networking/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,9 +23,11 @@
             "id": "b77fb6aee7628e67",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.13"
+                "file": "Networking/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/4-Physical Layer/Fiber-Optic Cabling.md",
+                "file": "Networking/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/4-Physical Layer/Fiber-Optic Cabling.md",
+                "file": "Networking/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/4-Physical Layer/Fiber-Optic Cabling.md"
+                "file": "Networking/4-Physical Layer/4.5 Fiber-Optic Cabling.md"
               }
             }
           },
@@ -170,8 +172,9 @@
   },
   "active": "b77fb6aee7628e67",
   "lastOpenFiles": [
+    "attachments/image/4.5 Fiber-Optic Cabling-1694810405905.jpeg",
     "Networking/4-Physical Layer/4.4 UTP Cabling.md",
-    "Networking/4-Physical Layer/Fiber-Optic Cabling.md",
+    "Networking/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
     "attachments/image/4.4 UTP Cabling-1694800588352.jpeg",
     "Networking/4-Physical Layer/4.3 Copper Cabling.md",
     "attachments/image/4.3 Copper Cabling-1694799667239.jpeg",
@@ -211,7 +214,6 @@
     "Desktop Support & Maintenance/2-PC Technician Responsibilities/6.1 PC and Networking Tools.md",
     "Desktop Support & Maintenance/2-PC Technician Responsibilities/5.1 Maintenance Best Practices.md",
     "Desktop Support & Maintenance/2-PC Technician Responsibilities/4.2 Change Management.md",
-    "Desktop Support & Maintenance/2-PC Technician Responsibilities/3.2 Professionalism.md",
     "Desktop Support & Maintenance/2-PC Technician Responsibilities",
     "Desktop Support & Maintenance/1-Introduction",
     "Desktop Support & Maintenance",
