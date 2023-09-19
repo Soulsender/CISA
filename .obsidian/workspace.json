@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
-                "mode": "source",
+                "file": "Networking/4-Physical Layer/4.2 Physical Layer Characteristics.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
+                "file": "Networking/4-Physical Layer/4.2 Physical Layer Characteristics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
+                "file": "Networking/4-Physical Layer/4.2 Physical Layer Characteristics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/4-Physical Layer/4.5 Fiber-Optic Cabling.md"
+                "file": "Networking/4-Physical Layer/4.2 Physical Layer Characteristics.md"
               }
             }
           },
@@ -152,7 +152,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -172,11 +173,11 @@
   },
   "active": "b77fb6aee7628e67",
   "lastOpenFiles": [
+    "Networking/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
     "Networking/4-Physical Layer/4.4 UTP Cabling.md",
     "Networking/4-Physical Layer/4.3 Copper Cabling.md",
     "Networking/4-Physical Layer/4.2 Physical Layer Characteristics.md",
     "Networking/4-Physical Layer/4.6 Wireless Media.md",
-    "Networking/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
     "attachments/image/4.5 Fiber-Optic Cabling-1695076155192.jpeg",
     "attachments/image/4.5 Fiber-Optic Cabling-1695076054845.jpeg",
     "attachments/image/4.5 Fiber-Optic Cabling-1695076025511.jpeg",
