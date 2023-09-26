@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/IOS Commands.md",
-                "mode": "preview",
+                "file": "Desktop Support & Maintenance/3-Components/Motherboards.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/IOS Commands.md",
+                "file": "Desktop Support & Maintenance/3-Components/Motherboards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/IOS Commands.md",
+                "file": "Desktop Support & Maintenance/3-Components/Motherboards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/IOS Commands.md"
+                "file": "Desktop Support & Maintenance/3-Components/Motherboards.md"
               }
             }
           },
@@ -173,6 +173,9 @@
   },
   "active": "b77fb6aee7628e67",
   "lastOpenFiles": [
+    "Networking/IOS Commands.md",
+    "Desktop Support & Maintenance/3-Components/Motherboards.md",
+    "Desktop Support & Maintenance/3-Components",
     "Networking/4-Physical Layer/4.2 Physical Layer Characteristics.md",
     "Networking/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
     "Networking/4-Physical Layer/4.4 UTP Cabling.md",
@@ -195,7 +198,6 @@
     "Networking/3-Protocols and Models/3.1 The Rules.md",
     "Networking/3-Protocols and Models/3.2 Protocol Suites.md",
     "Programming/String Arguments.md",
-    "Networking/IOS Commands.md",
     "Networking/2-Basic Config/2.2 IOS Navigation.md",
     "Networking/2-Basic Config/2.3 The Command Structure.md",
     "Programming",
@@ -214,10 +216,8 @@
     "Desktop Support & Maintenance/2-PC Technician Responsibilities/7.1 Troubleshooting Process.md",
     "Desktop Support & Maintenance/2-PC Technician Responsibilities/6.1 PC and Networking Tools.md",
     "Desktop Support & Maintenance/2-PC Technician Responsibilities/5.1 Maintenance Best Practices.md",
-    "Desktop Support & Maintenance/2-PC Technician Responsibilities/4.2 Change Management.md",
     "Desktop Support & Maintenance/2-PC Technician Responsibilities",
     "Desktop Support & Maintenance/1-Introduction",
-    "Desktop Support & Maintenance",
-    "Networking"
+    "Desktop Support & Maintenance"
   ]
 }
