@@ -14,3 +14,8 @@
 - AGP (accelerated graphics port)
 - PCIe (peripheral component interconnect express)
 - M.2 slots - next generation form factor (NGFF)
+
+#### Chipset
+- relays communication between the CPU, memory, and peripheral devices
+- Intel uses PCH platform controller hub
+- AMD uses FCH fusion controller hub
