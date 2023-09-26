@@ -23,3 +23,7 @@
 #### BIOS & UEFI
 - older motherboards use CMOS chip and battery
 - newer motherboards use EEPROM (electronically erasable programable read only memory)
+
+#### SATA
+- serial advanced technology attachment
+- supports hot swapping
