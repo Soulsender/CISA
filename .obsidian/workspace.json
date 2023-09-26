@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/6-Data Link Layer/6.1 Purpose.md",
+                "file": "Networking/6-Data Link Layer/6.3 Frames.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/6-Data Link Layer/6.1 Purpose.md",
+                "file": "Networking/6-Data Link Layer/6.3 Frames.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/6-Data Link Layer/6.1 Purpose.md",
+                "file": "Networking/6-Data Link Layer/6.3 Frames.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/6-Data Link Layer/6.1 Purpose.md"
+                "file": "Networking/6-Data Link Layer/6.3 Frames.md"
               }
             }
           },
@@ -186,6 +186,7 @@
   "active": "386e0a574d15f851",
   "lastOpenFiles": [
     "Networking/6-Data Link Layer/6.2 Topologies.md",
+    "Networking/6-Data Link Layer/6.3 Frames.md",
     "Networking/6-Data Link Layer/6.1 Purpose.md",
     "attachments/image/6.1 Purpose-1695768996798.jpeg",
     "attachments/image/6.1 Purpose-1695768830274.jpeg",
@@ -228,7 +229,6 @@
     "Desktop Support & Maintenance/2-PC Technician Responsibilities/9.3 Onboarding and Offboarding Checklists.md",
     "Desktop Support & Maintenance/2-PC Technician Responsibilities/9.1 Documentation.md",
     "Desktop Support & Maintenance/2-PC Technician Responsibilities/8.1 Ticketing.md",
-    "Desktop Support & Maintenance/2-PC Technician Responsibilities/7.1 Troubleshooting Process.md",
     "Desktop Support & Maintenance/2-PC Technician Responsibilities",
     "Desktop Support & Maintenance/1-Introduction"
   ]
