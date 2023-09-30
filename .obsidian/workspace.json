@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/7-Ethernet Switching/7.1 Encapsulation.md",
+                "file": "Desktop Support & Maintenance/3-Components/Motherboards.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/7-Ethernet Switching/7.1 Encapsulation.md",
+                "file": "Desktop Support & Maintenance/3-Components/Motherboards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/7-Ethernet Switching/7.1 Encapsulation.md",
+                "file": "Desktop Support & Maintenance/3-Components/Motherboards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/7-Ethernet Switching/7.1 Encapsulation.md"
+                "file": "Desktop Support & Maintenance/3-Components/Motherboards.md"
               }
             }
           },
@@ -185,11 +185,11 @@
   },
   "active": "386e0a574d15f851",
   "lastOpenFiles": [
+    "Networking/7-Ethernet Switching/7.1 Encapsulation.md",
     "attachments/image/7.1 Encapsulation-1696106198175.jpeg",
     "attachments/image/7.1 Encapsulation-1696105260210.jpeg",
     "attachments/image/7.1 Encapsulation-1696105132998.jpeg",
     "Networking/6-Data Link Layer/6.3 Frames.md",
-    "Networking/7-Ethernet Switching/7.1 Encapsulation.md",
     "Networking/7-Ethernet Switching",
     "Networking/6-Data Link Layer/6.2 Topologies.md",
     "Networking/6-Data Link Layer/6.1 Purpose.md",
@@ -209,7 +209,6 @@
     "attachments/image/4.5 Fiber-Optic Cabling-1695076025511.jpeg",
     "attachments/image/4.5 Fiber-Optic Cabling-1695076005638.jpeg",
     "attachments/image/4.5 Fiber-Optic Cabling-1695075840152.jpeg",
-    "attachments/image/4.5 Fiber-Optic Cabling-1695075653537.jpeg",
     "Networking/3-Protocols and Models/3.6 Data Encapsulation.md",
     "Networking/4-Physical Layer",
     "Networking/3-Protocols and Models/3.4 Standards Organizations.md",
