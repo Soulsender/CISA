@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/7-Ethernet Switching/7.2 Mac Addresses.md",
+                "file": "Networking/7-Ethernet Switching/7.3 Sending Frames.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/7-Ethernet Switching/7.2 Mac Addresses.md",
+                "file": "Networking/7-Ethernet Switching/7.3 Sending Frames.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/7-Ethernet Switching/7.2 Mac Addresses.md",
+                "file": "Networking/7-Ethernet Switching/7.3 Sending Frames.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/7-Ethernet Switching/7.2 Mac Addresses.md"
+                "file": "Networking/7-Ethernet Switching/7.3 Sending Frames.md"
               }
             }
           },
@@ -182,6 +182,7 @@
   "active": "3d1a81fe4e894d9f",
   "lastOpenFiles": [
     "Networking/7-Ethernet Switching/7.1 Encapsulation.md",
+    "Networking/7-Ethernet Switching/7.3 Sending Frames.md",
     "Networking/7-Ethernet Switching/7.2 Mac Addresses.md",
     "Networking/5-Conversions/Broadcast Address.md",
     "attachments/image/Broadcast Address-1696363079097.jpeg",
