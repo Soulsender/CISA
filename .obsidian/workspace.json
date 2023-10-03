@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/7-Ethernet Switching/7.1 Encapsulation.md",
+                "file": "Networking/5-Conversions/Broadcast Address.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/7-Ethernet Switching/7.1 Encapsulation.md",
+                "file": "Networking/5-Conversions/Broadcast Address.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/7-Ethernet Switching/7.1 Encapsulation.md",
+                "file": "Networking/5-Conversions/Broadcast Address.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/7-Ethernet Switching/7.1 Encapsulation.md"
+                "file": "Networking/5-Conversions/Broadcast Address.md"
               }
             }
           },
@@ -181,11 +181,15 @@
   },
   "active": "3d1a81fe4e894d9f",
   "lastOpenFiles": [
+    "Networking/7-Ethernet Switching/7.1 Encapsulation.md",
+    "Networking/5-Conversions/Broadcast Address.md",
+    "Networking/5-Conversions",
+    "Networking/4-Physical Layer/Untitled",
+    "Networking/Untitled.md",
     "attachments/image/Console with Linux-1696360544190.jpeg",
     "attachments/image/Console with Linux-1696360544131.jpeg",
     "attachments/image/Console with Linux-1696360544188.jpeg",
     "attachments/image/Console with Linux-1696360544145.jpeg",
-    "Networking/7-Ethernet Switching/7.1 Encapsulation.md",
     "7.1 Encapsulation-1696105260210.jpeg.md",
     "7.1 Encapsulation-1696105132998.jpeg.md",
     "attachments/image/7.1 Troubleshooting Process-1694401930222.jpeg",
@@ -220,11 +224,8 @@
     "Networking/2-Basic Config/2.2 IOS Navigation.md",
     "Networking/2-Basic Config/2.3 The Command Structure.md",
     "Programming",
-    "Database/Windows Server.md",
     "Database/Untitled",
     "Database",
-    "Networking/3-Protocols and Models",
-    "attachments/image",
-    "Desktop Support & Maintenance/2-PC Technician Responsibilities"
+    "Networking/3-Protocols and Models"
   ]
 }
