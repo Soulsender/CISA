@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desktop Support & Maintenance/3-Components/Motherboards.md",
+                "file": "Networking/Console with Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desktop Support & Maintenance/3-Components/Motherboards.md",
+                "file": "Networking/Console with Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desktop Support & Maintenance/3-Components/Motherboards.md",
+                "file": "Networking/Console with Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desktop Support & Maintenance/3-Components/Motherboards.md"
+                "file": "Networking/Console with Linux.md"
               }
             }
           },
@@ -173,8 +173,8 @@
   },
   "active": "b77fb6aee7628e67",
   "lastOpenFiles": [
-    "Networking/IOS Commands.md",
     "Desktop Support & Maintenance/3-Components/Motherboards.md",
+    "Networking/IOS Commands.md",
     "Desktop Support & Maintenance/3-Components",
     "Networking/4-Physical Layer/4.2 Physical Layer Characteristics.md",
     "Networking/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
