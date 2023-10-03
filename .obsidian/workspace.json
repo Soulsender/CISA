@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "de3f63fd50e22422",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Console with Linux.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Console with Linux.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Console with Linux.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -171,8 +183,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b77fb6aee7628e67",
+  "active": "de3f63fd50e22422",
   "lastOpenFiles": [
+    "Networking/Console with Linux.md",
+    "conflict-files-obsidian-git.md",
+    "attachments/image/Console with Linux-1696360544190.jpeg",
+    "attachments/image/Console with Linux-1696360544188.jpeg",
+    "attachments/image/Console with Linux-1696360544183.jpeg",
+    "attachments/image/Console with Linux-1696360544145.jpeg",
+    "attachments/image/Console with Linux-1696360544131.jpeg",
+    "Networking/7-Ethernet Switching/7.1 Encapsulation.md",
+    "Networking/7-Ethernet Switching",
+    "Networking/6-Data Link Layer/6.3 Frames.md",
+    "Networking/6-Data Link Layer/6.2 Topologies.md",
+    "Networking/6-Data Link Layer/6.1 Purpose.md",
+    "Networking/6-Data Link Layer",
     "Desktop Support & Maintenance/3-Components/Motherboards.md",
     "Networking/IOS Commands.md",
     "Desktop Support & Maintenance/3-Components",
@@ -186,11 +211,6 @@
     "attachments/image/4.5 Fiber-Optic Cabling-1695076025511.jpeg",
     "attachments/image/4.5 Fiber-Optic Cabling-1695076005638.jpeg",
     "attachments/image/4.5 Fiber-Optic Cabling-1695075840152.jpeg",
-    "attachments/image/4.5 Fiber-Optic Cabling-1695075653537.jpeg",
-    "attachments/image/4.5 Fiber-Optic Cabling-1695075643151.jpeg",
-    "attachments/image/4.5 Fiber-Optic Cabling-1695075629286.jpeg",
-    "attachments/image/4.5 Fiber-Optic Cabling-1695075616188.jpeg",
-    "attachments/image/4.5 Fiber-Optic Cabling-1694810539722.jpeg",
     "Networking/3-Protocols and Models/3.6 Data Encapsulation.md",
     "Networking/4-Physical Layer",
     "Networking/3-Protocols and Models/3.4 Standards Organizations.md",
@@ -202,22 +222,13 @@
     "Networking/2-Basic Config/2.3 The Command Structure.md",
     "Programming",
     "Database/Windows Server.md",
-    "conflict-files-obsidian-git.md",
     "Database/Untitled",
     "Database",
     "Networking/3-Protocols and Models",
-    "Networking/Console with Linux.md",
     "Networking/2-Basic Config/2.1 Cisco IOS Access.md",
     "README.md",
     "attachments/image",
     "Desktop Support & Maintenance/2-PC Technician Responsibilities/9.3 Onboarding and Offboarding Checklists.md",
-    "Desktop Support & Maintenance/2-PC Technician Responsibilities/9.1 Documentation.md",
-    "Desktop Support & Maintenance/2-PC Technician Responsibilities/8.1 Ticketing.md",
-    "Desktop Support & Maintenance/2-PC Technician Responsibilities/7.1 Troubleshooting Process.md",
-    "Desktop Support & Maintenance/2-PC Technician Responsibilities/6.1 PC and Networking Tools.md",
-    "Desktop Support & Maintenance/2-PC Technician Responsibilities/5.1 Maintenance Best Practices.md",
-    "Desktop Support & Maintenance/2-PC Technician Responsibilities",
-    "Desktop Support & Maintenance/1-Introduction",
-    "Desktop Support & Maintenance"
+    "Desktop Support & Maintenance/2-PC Technician Responsibilities"
   ]
 }
