@@ -4,43 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "d805bfd24851342d",
+        "id": "fa4fa3a7384b6702",
         "type": "tabs",
         "children": [
           {
-            "id": "dbb9c29884705a81",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "attachments/image/Console with Linux-1696360544190.jpeg"
-              }
-            }
-          },
-          {
-            "id": "3d1a81fe4e894d9f",
+            "id": "c8aaafc7ca31eded",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/7-Ethernet Switching/7.1 Encapsulation.md",
+                "file": "Networking/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fa4655fbb1a0ba3a",
+            "id": "b77fb6aee7628e67",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "attachments/image/Console with Linux-1696360544131.jpeg"
+                "file": "Desktop Support & Maintenance/3-Components/Motherboards.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "386e0a574d15f851",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desktop Support & Maintenance/3-Components/Motherboards.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/7-Ethernet Switching/7.1 Encapsulation.md",
+                "file": "Desktop Support & Maintenance/3-Components/Motherboards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/7-Ethernet Switching/7.1 Encapsulation.md",
+                "file": "Desktop Support & Maintenance/3-Components/Motherboards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/7-Ethernet Switching/7.1 Encapsulation.md"
+                "file": "Desktop Support & Maintenance/3-Components/Motherboards.md"
               }
             }
           },
@@ -179,39 +183,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3d1a81fe4e894d9f",
+  "active": "386e0a574d15f851",
   "lastOpenFiles": [
-    "Networking/7-Ethernet Switching/7.2 Mac Addresses.md",
+    "attachments/image/Motherboards-1696460579090.jpeg",
+    "attachments/image/Motherboards-1696460579089.jpeg",
+    "attachments/image/Motherboards-1696460579088.jpeg",
+    "attachments/image/Motherboards-1696460579087.jpeg",
+    "attachments/image/Motherboards-1696460579085.jpeg",
+    "attachments/image/Motherboards-1696460579078.jpeg",
     "Networking/7-Ethernet Switching/7.3 Sending Frames.md",
-    "Networking/7-Ethernet Switching/7.1 Encapsulation.md",
+    "Networking/7-Ethernet Switching/7.2 Mac Addresses.md",
     "Networking/5-Conversions/Broadcast Address.md",
-    "attachments/image/Broadcast Address-1696363079097.jpeg",
     "Networking/5-Conversions",
-    "Networking/4-Physical Layer/Untitled",
-    "Networking/Untitled.md",
-    "attachments/image/Console with Linux-1696360544190.jpeg",
-    "attachments/image/Console with Linux-1696360544131.jpeg",
-    "attachments/image/Console with Linux-1696360544188.jpeg",
-    "attachments/image/Console with Linux-1696360544145.jpeg",
     "7.1 Encapsulation-1696105260210.jpeg.md",
     "7.1 Encapsulation-1696105132998.jpeg.md",
-    "attachments/image/7.1 Troubleshooting Process-1694401930222.jpeg",
-    "attachments/Pasted image 20230906150609.png",
-    "attachments/Pasted image 20230906145722.png",
-    "attachments/Pasted image 20230906145551.png",
-    "attachments/Pasted image 20230906143046.png",
-    "Networking/6-Data Link Layer/6.2 Topologies.md",
+    "Networking/7-Ethernet Switching/7.1 Encapsulation.md",
+    "attachments/image/7.1 Encapsulation-1696106198175.jpeg",
+    "attachments/image/7.1 Encapsulation-1696105260210.jpeg",
+    "attachments/image/7.1 Encapsulation-1696105132998.jpeg",
     "Networking/6-Data Link Layer/6.3 Frames.md",
-    "Networking/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
-    "Networking/Console with Linux.md",
-    "conflict-files-obsidian-git.md",
     "Networking/7-Ethernet Switching",
+    "Networking/6-Data Link Layer/6.2 Topologies.md",
     "Networking/6-Data Link Layer/6.1 Purpose.md",
+    "attachments/image/6.1 Purpose-1695768996798.jpeg",
+    "attachments/image/6.1 Purpose-1695768830274.jpeg",
     "Networking/6-Data Link Layer",
-    "Desktop Support & Maintenance/3-Components/Motherboards.md",
     "Networking/IOS Commands.md",
+    "Desktop Support & Maintenance/3-Components/Motherboards.md",
     "Desktop Support & Maintenance/3-Components",
     "Networking/4-Physical Layer/4.2 Physical Layer Characteristics.md",
+    "Networking/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
     "Networking/4-Physical Layer/4.4 UTP Cabling.md",
     "Networking/4-Physical Layer/4.3 Copper Cabling.md",
     "Networking/4-Physical Layer/4.6 Wireless Media.md",
@@ -223,9 +224,12 @@
     "Networking/3-Protocols and Models/3.2 Protocol Suites.md",
     "Programming/String Arguments.md",
     "Networking/2-Basic Config/2.2 IOS Navigation.md",
+    "Networking/2-Basic Config/2.3 The Command Structure.md",
     "Programming",
+    "Database/Windows Server.md",
     "Database/Untitled",
     "Database",
-    "Networking/3-Protocols and Models"
+    "Networking/3-Protocols and Models",
+    "attachments/image"
   ]
 }
