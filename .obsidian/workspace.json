@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dbb9c29884705a81",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "attachments/image/Console with Linux-1696360544190.jpeg"
-              }
-            }
-          },
-          {
             "id": "3d1a81fe4e894d9f",
             "type": "leaf",
             "state": {
@@ -42,12 +32,14 @@
             }
           },
           {
-            "id": "fa4655fbb1a0ba3a",
+            "id": "a44734f84b0e81d4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "attachments/image/Console with Linux-1696360544131.jpeg"
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -118,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desktop Support & Maintenance/Advanced Components.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desktop Support & Maintenance/Advanced Components.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desktop Support & Maintenance/Advanced Components.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -191,10 +183,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "08557f5c32f8161a",
+  "active": "a44734f84b0e81d4",
   "lastOpenFiles": [
-    "attachments/image/Advanced Components-1696529253400.jpeg",
     "Desktop Support & Maintenance/Advanced Components.md",
+    "conflict-files-obsidian-git.md",
+    "attachments/image/Advanced Components-1696529324589.jpeg",
+    "attachments/image/Advanced Components-1696529324588.jpeg",
+    "attachments/image/Advanced Components-1696529324587.jpeg",
+    "attachments/image/Advanced Components-1696529324586.jpeg",
+    "attachments/image/Advanced Components-1696529324584.jpeg",
+    "attachments/image/Advanced Components-1696529324557.jpeg",
+    "attachments/image/Advanced Components-1696529253400.jpeg",
     "Networking/7-Ethernet Switching/7.2 Mac Addresses.md",
     "Networking/7-Ethernet Switching/7.3 Sending Frames.md",
     "Networking/7-Ethernet Switching/7.1 Encapsulation.md",
@@ -205,20 +204,12 @@
     "Networking/Untitled.md",
     "attachments/image/Console with Linux-1696360544190.jpeg",
     "attachments/image/Console with Linux-1696360544131.jpeg",
-    "attachments/image/Console with Linux-1696360544188.jpeg",
-    "attachments/image/Console with Linux-1696360544145.jpeg",
     "7.1 Encapsulation-1696105260210.jpeg.md",
     "7.1 Encapsulation-1696105132998.jpeg.md",
-    "attachments/image/7.1 Troubleshooting Process-1694401930222.jpeg",
-    "attachments/Pasted image 20230906150609.png",
-    "attachments/Pasted image 20230906145722.png",
-    "attachments/Pasted image 20230906145551.png",
-    "attachments/Pasted image 20230906143046.png",
     "Networking/6-Data Link Layer/6.2 Topologies.md",
     "Networking/6-Data Link Layer/6.3 Frames.md",
     "Networking/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
     "Networking/Console with Linux.md",
-    "conflict-files-obsidian-git.md",
     "Networking/7-Ethernet Switching",
     "Networking/6-Data Link Layer/6.1 Purpose.md",
     "Networking/6-Data Link Layer",
