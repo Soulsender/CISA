@@ -26,5 +26,6 @@
 - defines x2, x4, x8, x16, and x32
 	- x1 is one lane transmission
 	- x16 is sixteen lane transmission
-	- (x16 does not really exist)
-- 
+- cross size compatible
+	- smaller cards can fit in larger PCIe slots
+	- x4 card can fit in 8x slot
