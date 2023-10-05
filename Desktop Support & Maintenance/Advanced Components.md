@@ -30,4 +30,9 @@
 - cross size compatible
 	- smaller cards can fit in larger PCIe slots
 	- x4 card can fit in 8x slot
+- Safeslot
+	- orginally by ASUS
+	- for x16
+	- reinforced slot with metal frame that provides additional structural support
+- multiple Gbps by 8 to get GBps
 ![[Pasted image 20231005110733.png]]
