@@ -30,6 +30,18 @@
             }
           },
           {
+            "id": "08557f5c32f8161a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desktop Support & Maintenance/Advanced Components.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "fa4655fbb1a0ba3a",
             "type": "leaf",
             "state": {
@@ -40,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/7-Ethernet Switching/7.1 Encapsulation.md",
+                "file": "Desktop Support & Maintenance/Advanced Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/7-Ethernet Switching/7.1 Encapsulation.md",
+                "file": "Desktop Support & Maintenance/Advanced Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/7-Ethernet Switching/7.1 Encapsulation.md"
+                "file": "Desktop Support & Maintenance/Advanced Components.md"
               }
             }
           },
@@ -179,8 +191,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3d1a81fe4e894d9f",
+  "active": "08557f5c32f8161a",
   "lastOpenFiles": [
+    "Desktop Support & Maintenance/Advanced Components.md",
     "Networking/7-Ethernet Switching/7.2 Mac Addresses.md",
     "Networking/7-Ethernet Switching/7.3 Sending Frames.md",
     "Networking/7-Ethernet Switching/7.1 Encapsulation.md",
@@ -222,7 +235,6 @@
     "Networking/3-Protocols and Models/3.1 The Rules.md",
     "Networking/3-Protocols and Models/3.2 Protocol Suites.md",
     "Programming/String Arguments.md",
-    "Networking/2-Basic Config/2.2 IOS Navigation.md",
     "Programming",
     "Database/Untitled",
     "Database",
