@@ -17,6 +17,14 @@
 - improves reliability
 
 ## Expansion Cards
-##### PCIe (peripheral component interconnect express)
 - aka dedicated cards
 - designed to use particular expansion bus standard
+- supports plug and play
+- supports **full duplex** - **simultaneous bidirectional data transfer**
+
+##### PCIe (peripheral component interconnect express)
+- defines x2, x4, x8, x16, and x32
+	- x1 is one lane transmission
+	- x16 is sixteen lane transmission
+	- (x16 does not really exist)
+- 
