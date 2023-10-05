@@ -15,3 +15,8 @@
 ##### Error Correcting Code (EEC)
 - includes additional bits for error detection and correction
 - improves reliability
+
+## Expansion Cards
+##### PCIe (peripheral component interconnect express)
+- aka dedicated cards
+- designed to use particular expansion bus standard
