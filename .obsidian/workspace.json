@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desktop Support & Maintenance/Advanced Components.md",
-                "mode": "source",
+                "file": "Networking/IOS Commands.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desktop Support & Maintenance/Advanced Components.md",
+                "file": "Networking/IOS Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desktop Support & Maintenance/Advanced Components.md",
+                "file": "Networking/IOS Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desktop Support & Maintenance/Advanced Components.md"
+                "file": "Networking/IOS Commands.md"
               }
             }
           },
@@ -173,8 +173,8 @@
   },
   "active": "08557f5c32f8161a",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Desktop Support & Maintenance/Advanced Components.md",
+    "conflict-files-obsidian-git.md",
     "attachments/image/Advanced Components-1696529324589.jpeg",
     "attachments/image/Advanced Components-1696529324588.jpeg",
     "attachments/image/Advanced Components-1696529324587.jpeg",
