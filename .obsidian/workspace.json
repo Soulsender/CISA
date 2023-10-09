@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desktop Support & Maintenance/Advanced Components.md",
+                "file": "Desktop Support & Maintenance/3-Components/RAM.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desktop Support & Maintenance/Advanced Components.md",
+                "file": "Desktop Support & Maintenance/3-Components/RAM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desktop Support & Maintenance/Advanced Components.md",
+                "file": "Desktop Support & Maintenance/3-Components/RAM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desktop Support & Maintenance/Advanced Components.md"
+                "file": "Desktop Support & Maintenance/3-Components/RAM.md"
               }
             }
           },
@@ -185,6 +185,8 @@
   },
   "active": "386e0a574d15f851",
   "lastOpenFiles": [
+    "attachments/image/RAM-1696886331951.jpeg",
+    "Desktop Support & Maintenance/Advanced Components.md",
     "Desktop Support & Maintenance/3-Components/RAM.md",
     "Networking/4-Physical Layer/4.2 Physical Layer Characteristics.md",
     "Networking/4-Physical Layer/4.3 Copper Cabling.md",
@@ -201,7 +203,6 @@
     "Desktop Support & Maintenance/2-PC Technician Responsibilities/8.1 Ticketing.md",
     "Desktop Support & Maintenance/2-PC Technician Responsibilities/2.1 Enviromental Concerns.md",
     "Desktop Support & Maintenance/2-PC Technician Responsibilities/6.1 PC and Networking Tools.md",
-    "Desktop Support & Maintenance/Advanced Components.md",
     "Desktop Support & Maintenance/3-Components/Motherboards.md",
     "attachments/image/Motherboards-1696883761989.jpeg",
     "attachments/image/Motherboards-1696883761988.jpeg",
@@ -224,7 +225,6 @@
     "Networking/6-Data Link Layer",
     "Networking/IOS Commands.md",
     "Desktop Support & Maintenance/3-Components",
-    "Networking/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
     "Networking/4-Physical Layer",
     "Programming",
     "Database/Untitled",
