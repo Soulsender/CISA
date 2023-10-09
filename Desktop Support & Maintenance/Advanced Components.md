@@ -2,7 +2,42 @@
 ## Read Only Memory (ROM)
 - located on the motherboard
 - contain instructions accessed by CPU
-- 
+- includes booting and loading the OS
+- non volatile
+##### ROM Chip
+- written when manufactured
+- cannot be erased or written - is obsolete now
+
+##### PROM
+- programmable read only memory
+- manufactured blank, then written to when needed
+- write once and cannot be erased
+
+##### EPROM
+- erasable programmable read only memory
+- non volatile
+- can be erased via strong UV light
+- transparent quartz window
+- constant changing can render chip useless
+
+##### EEPROM
+- electrically erasable programmable read only memory
+- AKA "flash ROMs"
+- often used to store BIOS and microcontrollers
+
+## Flash Memory
+
+##### NOR Flash
+- non volatile memory
+- used to store firmware like BIOS/UEFI
+- fast random access
+- high reliability
+- suitability for critical system processes
+- often used in embedded systems 
+
+##### NAND Flash
+- most popular in the market
+- NAND gate is opposite of AND g
 
 ## Memory
 ##### Buffered Memory (RDIMM)
