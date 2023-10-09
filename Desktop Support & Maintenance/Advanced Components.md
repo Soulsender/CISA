@@ -1,4 +1,9 @@
 
+## Read Only Memory (ROM)
+- located on the motherboard
+- contain instructions accessed by CPU
+- 
+
 ## Memory
 ##### Buffered Memory (RDIMM)
 - includes buffer between IMC and DRAM chips
@@ -16,6 +21,21 @@
 - includes additional bits for error detection and correction
 - improves reliability
 
+##### Timing Parameters
+- memory module performace
+- measures clock cycles
+- four parameters (ex. 5-5-5-15)
+	- cas latency
+	- tRCD row to column address
+	- tRP row precharge time
+	- tRAS row active time
+#### Serial Presence Detect (SPD)
+- stored on EEPROM chip
+- located on SDRAM
+	- module size
+	- data width
+	- speed
+	- voltage
 ## Expansion Cards
 - aka dedicated cards
 - designed to use particular expansion bus standard

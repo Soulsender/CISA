@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desktop Support & Maintenance/3-Components/RAM.md",
+                "file": "Desktop Support & Maintenance/Advanced Components.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desktop Support & Maintenance/3-Components/RAM.md",
+                "file": "Desktop Support & Maintenance/Advanced Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desktop Support & Maintenance/3-Components/RAM.md",
+                "file": "Desktop Support & Maintenance/Advanced Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desktop Support & Maintenance/3-Components/RAM.md"
+                "file": "Desktop Support & Maintenance/Advanced Components.md"
               }
             }
           },
@@ -185,8 +185,8 @@
   },
   "active": "386e0a574d15f851",
   "lastOpenFiles": [
-    "Desktop Support & Maintenance/3-Components/Motherboards.md",
     "Desktop Support & Maintenance/3-Components/RAM.md",
+    "Desktop Support & Maintenance/3-Components/Motherboards.md",
     "attachments/image/Motherboards-1696883761989.jpeg",
     "attachments/image/Motherboards-1696883761988.jpeg",
     "attachments/image/Motherboards-1696883761986.jpeg",
