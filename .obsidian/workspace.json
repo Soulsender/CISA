@@ -4,35 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "d805bfd24851342d",
+        "id": "fa4fa3a7384b6702",
         "type": "tabs",
         "children": [
           {
-            "id": "3d1a81fe4e894d9f",
+            "id": "c8aaafc7ca31eded",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/7-Ethernet Switching/7.1 Encapsulation.md",
+                "file": "Networking/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "08557f5c32f8161a",
+            "id": "b77fb6aee7628e67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/IOS Commands.md",
-                "mode": "preview",
+                "file": "Desktop Support & Maintenance/3-Components/Motherboards.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "386e0a574d15f851",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desktop Support & Maintenance/3-Components/RAM.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/IOS Commands.md",
+                "file": "Desktop Support & Maintenance/3-Components/RAM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/IOS Commands.md",
+                "file": "Desktop Support & Maintenance/3-Components/RAM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/IOS Commands.md"
+                "file": "Desktop Support & Maintenance/3-Components/RAM.md"
               }
             }
           },
@@ -171,40 +183,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "08557f5c32f8161a",
+  "active": "386e0a574d15f851",
   "lastOpenFiles": [
+    "Desktop Support & Maintenance/3-Components/Motherboards.md",
+    "Desktop Support & Maintenance/3-Components/RAM.md",
+    "attachments/image/Motherboards-1696883761989.jpeg",
+    "attachments/image/Motherboards-1696883761988.jpeg",
+    "attachments/image/Motherboards-1696883761986.jpeg",
+    "attachments/image/Motherboards-1696883761985.jpeg",
+    "attachments/image/Motherboards-1696883761983.jpeg",
+    "attachments/image/Motherboards-1696883761981.jpeg",
+    "attachments/image/Motherboards-1696883761971.jpeg",
     "Desktop Support & Maintenance/Advanced Components.md",
-    "conflict-files-obsidian-git.md",
-    "attachments/image/Advanced Components-1696529324589.jpeg",
-    "attachments/image/Advanced Components-1696529324588.jpeg",
-    "attachments/image/Advanced Components-1696529324587.jpeg",
-    "attachments/image/Advanced Components-1696529324586.jpeg",
-    "attachments/image/Advanced Components-1696529324584.jpeg",
-    "attachments/image/Advanced Components-1696529324557.jpeg",
-    "attachments/image/Advanced Components-1696529253400.jpeg",
-    "Networking/7-Ethernet Switching/7.2 Mac Addresses.md",
+    "attachments/image/Motherboards-1696460579090.jpeg",
+    "attachments/image/Motherboards-1696460579089.jpeg",
+    "attachments/image/Motherboards-1696460579088.jpeg",
     "Networking/7-Ethernet Switching/7.3 Sending Frames.md",
-    "Networking/7-Ethernet Switching/7.1 Encapsulation.md",
+    "Networking/7-Ethernet Switching/7.2 Mac Addresses.md",
     "Networking/5-Conversions/Broadcast Address.md",
-    "attachments/image/Broadcast Address-1696363079097.jpeg",
     "Networking/5-Conversions",
-    "Networking/4-Physical Layer/Untitled",
-    "Networking/Untitled.md",
-    "attachments/image/Console with Linux-1696360544190.jpeg",
-    "attachments/image/Console with Linux-1696360544131.jpeg",
     "7.1 Encapsulation-1696105260210.jpeg.md",
     "7.1 Encapsulation-1696105132998.jpeg.md",
-    "Networking/6-Data Link Layer/6.2 Topologies.md",
+    "Networking/7-Ethernet Switching/7.1 Encapsulation.md",
     "Networking/6-Data Link Layer/6.3 Frames.md",
-    "Networking/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
-    "Networking/Console with Linux.md",
     "Networking/7-Ethernet Switching",
+    "Networking/6-Data Link Layer/6.2 Topologies.md",
     "Networking/6-Data Link Layer/6.1 Purpose.md",
     "Networking/6-Data Link Layer",
-    "Desktop Support & Maintenance/3-Components/Motherboards.md",
     "Networking/IOS Commands.md",
     "Desktop Support & Maintenance/3-Components",
     "Networking/4-Physical Layer/4.2 Physical Layer Characteristics.md",
+    "Networking/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
     "Networking/4-Physical Layer/4.4 UTP Cabling.md",
     "Networking/4-Physical Layer/4.3 Copper Cabling.md",
     "Networking/4-Physical Layer/4.6 Wireless Media.md",
@@ -214,9 +223,13 @@
     "Networking/Reference Models.md",
     "Networking/3-Protocols and Models/3.1 The Rules.md",
     "Networking/3-Protocols and Models/3.2 Protocol Suites.md",
+    "Programming/String Arguments.md",
+    "Networking/2-Basic Config/2.2 IOS Navigation.md",
+    "Networking/2-Basic Config/2.3 The Command Structure.md",
     "Programming",
     "Database/Untitled",
     "Database",
-    "Networking/3-Protocols and Models"
+    "Networking/3-Protocols and Models",
+    "attachments/image"
   ]
 }
