@@ -26,7 +26,6 @@
 - often used to store BIOS and microcontrollers
 
 ## Flash Memory
-
 ##### NOR Flash
 - non volatile memory
 - used to store firmware like BIOS/UEFI
@@ -37,7 +36,12 @@
 
 ##### NAND Flash
 - most popular in the market
-- NAND gate is opposite of AND g
+- NAND gate is opposite of AND gate
+- commonly used for mass storage in SSDs, USB flash drives, and in computers for firmware
+
+##### SPI Flash
+- serial interface
+- used for storing networking, consumer, automotive, medical, gaming, communication, and IoT devices
 
 ## Memory
 ##### Buffered Memory (RDIMM)
