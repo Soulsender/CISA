@@ -1,0 +1,2 @@
+- registered memory/buffered memory
+	- hold data before its transfers
