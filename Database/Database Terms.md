@@ -64,5 +64,10 @@
 - CREATE
 	- creates SQL server database object (table/view)
 - ALTER
-	  - changes existing product
-	  - 
+	- changes existing object
+- DROP
+	- removes an object from the db
+- TRUNCATE
+	- removes rows from table and frees the space removed
+- DELETE
+	- removes rows from table but does not free spaced removed
