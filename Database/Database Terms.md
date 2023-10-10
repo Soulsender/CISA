@@ -17,8 +17,15 @@
 	- db will automatically use the defined value
 	- if not used, db will use null value
 - not null
+	- will not accept null values
 - primary key
+	- each table can only have one primary key
+	- ex. BCIT uses your A123456 number
+	- most unique
+	- more detailed, more requirements
 - foreign key
+	- reference another parent table
+	- basically like a pointer
 
 #### Database Types
 - flat-type database
