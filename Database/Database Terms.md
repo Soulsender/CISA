@@ -1,15 +1,33 @@
 - constraints
+	- limitations or rules placed on a field
+	- ex. age cannot be negative number
+	- unique
+	- check
+	- default
+	- not null
+	- primary key
+	- foreign key
+	- 
 - data definition language (DDL)
 - data manipulation language (DML)
 - database management system (DBMS)
+
+#### Database Types
 - flat-type database
 	- two dimensional table of rows and columns
 - hierarchical database
 	- similar to tree structure
-	- parent tables have chil
-- index
+	- parent tables have child tables
+	- only one parent for each child
 - relational database
+	- similar to hierarchical database
+	- can have multiple parents
+- index
 - SQL CMD
+	- command line application that allows SQL queries to be written and executed from cmd
 - table
 - transact SQL
+	- primary means of programming and managing SQL server
+	- exposes keywords
+	- SSMS is just transact SQL under the hood
 - XQuery
