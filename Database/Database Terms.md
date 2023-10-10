@@ -1,0 +1,15 @@
+- constraints
+- data definition language (DDL)
+- data manipulation language (DML)
+- database management system (DBMS)
+- flat-type database
+	- two dimensional table of rows and columns
+- hierarchical database
+	- similar to tree structure
+	- parent tables have chil
+- index
+- relational database
+- SQL CMD
+- table
+- transact SQL
+- XQuery
