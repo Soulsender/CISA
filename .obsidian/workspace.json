@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Database Terms.md",
+                "file": "Desktop Support & Maintenance/Advanced Components.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2b45dc8836eed899",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Database Terms.md",
+                "file": "Desktop Support & Maintenance/Advanced Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/Database Terms.md",
+                "file": "Desktop Support & Maintenance/Advanced Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/Database Terms.md"
+                "file": "Desktop Support & Maintenance/Advanced Components.md"
               }
             }
           },
@@ -174,22 +173,25 @@
   },
   "active": "08557f5c32f8161a",
   "lastOpenFiles": [
+    "Desktop Support & Maintenance/3-Components/RAM.md",
+    "7.1 Encapsulation-1696105260210.jpeg.md",
+    "7.1 Encapsulation-1696105132998.jpeg.md",
+    "attachments/Pasted image 20230906150609.png",
+    "attachments/Pasted image 20230906145722.png",
+    "attachments/Pasted image 20230906143046.png",
+    "attachments/Pasted image 20230906145551.png",
+    "attachments/image/6.1 PC and Networking Tools-1694400662332.jpeg",
+    "attachments/image/4.5 Fiber-Optic Cabling-1694810539722.jpeg",
+    "attachments/image/4.3 Copper Cabling-1694799667239.jpeg",
+    "attachments/image/4.3 Copper Cabling-1694798949871.jpeg",
+    "attachments/image/3.6 Data Encapsulation-1694721395509.jpeg",
+    "attachments/image/3.2 Protocol Suites-1694476431093.jpeg",
+    "Desktop Support & Maintenance/Advanced Components.md",
+    "Desktop Support & Maintenance/3-Components/Motherboards.md",
     "Database/Database Terms.md",
     "Database/Windows Server.md",
     "Networking/IOS Commands.md",
-    "attachments/image/IOS Commands-1696952292716.jpeg",
-    "attachments/image/IOS Commands-1696952292713.jpeg",
-    "attachments/image/IOS Commands-1696952292712.jpeg",
-    "attachments/image/IOS Commands-1696952292711.jpeg",
-    "attachments/image/IOS Commands-1696952292710.jpeg",
-    "attachments/image/IOS Commands-1696952292709.jpeg",
-    "attachments/image/IOS Commands-1696952292705.jpeg",
-    "attachments/image/IOS Commands-1696952292692.jpeg",
-    "Desktop Support & Maintenance/3-Components/RAM.md",
-    "Desktop Support & Maintenance/Advanced Components.md",
     "conflict-files-obsidian-git.md",
-    "attachments/image/Advanced Components-1696529324589.jpeg",
-    "attachments/image/Advanced Components-1696529324588.jpeg",
     "Networking/7-Ethernet Switching/7.2 Mac Addresses.md",
     "Networking/7-Ethernet Switching/7.3 Sending Frames.md",
     "Networking/7-Ethernet Switching/7.1 Encapsulation.md",
@@ -197,8 +199,6 @@
     "Networking/5-Conversions",
     "Networking/4-Physical Layer/Untitled",
     "Networking/Untitled.md",
-    "7.1 Encapsulation-1696105260210.jpeg.md",
-    "7.1 Encapsulation-1696105132998.jpeg.md",
     "Networking/6-Data Link Layer/6.2 Topologies.md",
     "Networking/6-Data Link Layer/6.3 Frames.md",
     "Networking/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
@@ -206,7 +206,6 @@
     "Networking/7-Ethernet Switching",
     "Networking/6-Data Link Layer/6.1 Purpose.md",
     "Networking/6-Data Link Layer",
-    "Desktop Support & Maintenance/3-Components/Motherboards.md",
     "Desktop Support & Maintenance/3-Components",
     "Networking/4-Physical Layer/4.2 Physical Layer Characteristics.md",
     "Networking/4-Physical Layer/4.4 UTP Cabling.md",
@@ -215,7 +214,6 @@
     "Networking/3-Protocols and Models/3.6 Data Encapsulation.md",
     "Networking/4-Physical Layer",
     "Networking/3-Protocols and Models/3.4 Standards Organizations.md",
-    "Networking/Reference Models.md",
     "Programming",
     "Database/Untitled",
     "Database",
