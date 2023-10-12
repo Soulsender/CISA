@@ -41,3 +41,6 @@
 - `ip default-gateway {192.168.0.254}` set the router address
 - `show ip interface brief` show ip address information
 - `ip route {network address to connect} {subnet mask} {ip of hop to network}`
+	- ex. `192.168.10.0 255.255.255.0 209.165.200.225`
+- `ip route {network address to connect} {subnet mask} {interface exit}`
+	- ex. `192.168.10.0 255.255.255.0 G0/0/1`
