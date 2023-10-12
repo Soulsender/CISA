@@ -11,7 +11,8 @@
 #### Misc
 - `description {description}` give item description
 - `banner motd {banner}` create a warning banner
-- `traceroute {ip}` traceroute ip address
+- `traceroute {ip}` traceroute ip address 
+- `no {command}` delete command specified
 
 #### Show (`sh`)
 - `show version` get version and system info

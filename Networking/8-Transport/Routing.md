@@ -12,5 +12,5 @@
 #### Static Routing
 - `192.168.10.0 255.255.255.0 209.165.200.225` static route
 - `192.168.10.0 255.255.255.0 G0/0/1` static route
-- `ip route 0.0.0.0 0.0.0.0 S0/0/0` static default route
+- `ip route 0.0.0.0 0.0.0.0 S0/0/0` static default route (for internet)
 
