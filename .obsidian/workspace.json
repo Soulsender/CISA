@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/8-Transport/Static Routing.md",
+                "file": "Networking/8-Transport/Routing.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/8-Transport/Static Routing.md",
+                "file": "Networking/8-Transport/Routing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/8-Transport/Static Routing.md",
+                "file": "Networking/8-Transport/Routing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/8-Transport/Static Routing.md"
+                "file": "Networking/8-Transport/Routing.md"
               }
             }
           },
@@ -174,7 +174,7 @@
   "active": "08557f5c32f8161a",
   "lastOpenFiles": [
     "Desktop Support & Maintenance/Advanced Components.md",
-    "Networking/8-Transport/Static Routing.md",
+    "Networking/8-Transport/Routing.md",
     "Networking/8-Transport",
     "attachments/image/Advanced Components-1697137854855.jpeg",
     "attachments/image/Advanced Components-1697137854820.jpeg",
