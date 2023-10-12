@@ -40,3 +40,4 @@
 - `ip address {192.168.1.20} {255.255.255.0}` set a manual ip address and subnet mask
 - `ip default-gateway {192.168.0.254}` set the router address
 - `show ip interface brief` show ip address information
+- `ip route {network address to connect} {subnet mask} {ip of hop to network}`
