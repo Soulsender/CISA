@@ -4,47 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "fa4fa3a7384b6702",
+        "id": "d805bfd24851342d",
         "type": "tabs",
         "children": [
           {
-            "id": "c8aaafc7ca31eded",
+            "id": "3d1a81fe4e894d9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
+                "file": "Networking/7-Ethernet Switching/7.1 Encapsulation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b77fb6aee7628e67",
+            "id": "08557f5c32f8161a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desktop Support & Maintenance/3-Components/Motherboards.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "386e0a574d15f851",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Windows/Disks.md",
+                "file": "Networking/8-Transport/Static Routing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows/Disks.md",
+                "file": "Networking/8-Transport/Static Routing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows/Disks.md",
+                "file": "Networking/8-Transport/Static Routing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows/Disks.md"
+                "file": "Networking/8-Transport/Static Routing.md"
               }
             }
           },
@@ -183,53 +171,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "386e0a574d15f851",
+  "active": "08557f5c32f8161a",
   "lastOpenFiles": [
-    "Networking/3-Protocols and Models/3.1 The Rules.md",
-    "Networking/3-Protocols and Models/3.2 Protocol Suites.md",
-    "Networking/2-Basic Config/2.3 The Command Structure.md",
-    "Networking/2-Basic Config/2.2 IOS Navigation.md",
-    "Networking/2-Basic Config/2.1 Cisco IOS Access.md",
-    "Networking/4-Physical Layer/4.6 Wireless Media.md",
-    "Networking/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
-    "Networking/5-Conversions/Broadcast Address.md",
-    "Networking/6-Data Link Layer/6.1 Purpose.md",
-    "Networking/6-Data Link Layer/6.2 Topologies.md",
-    "Networking/6-Data Link Layer/6.3 Frames.md",
-    "Networking/7-Ethernet Switching/7.1 Encapsulation.md",
-    "Networking/7-Ethernet Switching/7.3 Sending Frames.md",
-    "Networking/Console with Linux.md",
-    "Networking/IOS Commands.md",
-    "Programming/String Arguments.md",
+    "Desktop Support & Maintenance/Advanced Components.md",
+    "Networking/8-Transport/Static Routing.md",
+    "Networking/8-Transport",
+    "attachments/image/Advanced Components-1697137854855.jpeg",
+    "attachments/image/Advanced Components-1697137854820.jpeg",
+    "attachments/image/Advanced Components-1697137854784.jpeg",
+    "attachments/image/Advanced Components-1697137854782.jpeg",
+    "attachments/image/Advanced Components-1697137854780.jpeg",
+    "attachments/image/Advanced Components-1697137854779.jpeg",
+    "attachments/image/Advanced Components-1697137854776.jpeg",
     "Windows/Disks.md",
-    "Networking/4-Physical Layer/4.3 Copper Cabling.md",
-    "Networking/4-Physical Layer/4.4 UTP Cabling.md",
-    "Networking/Reference Models.md",
-    "Networking/4-Physical Layer/4.2 Physical Layer Characteristics.md",
-    "Networking/3-Protocols and Models/3.6 Data Encapsulation.md",
-    "Networking/3-Protocols and Models/3.4 Standards Organizations.md",
+    "Windows",
     "Desktop Support & Maintenance/3-Components/Motherboards.md",
     "Desktop Support & Maintenance/3-Components/RAM.md",
-    "Desktop Support & Maintenance/2-PC Technician Responsibilities/9.3 Onboarding and Offboarding Checklists.md",
-    "Windows",
-    "attachments/image/Advanced Components-1697068376515.jpeg",
-    "attachments/image/Advanced Components-1697068376514.jpeg",
-    "attachments/image/Advanced Components-1697068376512.jpeg",
-    "attachments/image/Advanced Components-1697068376511.jpeg",
-    "attachments/image/Advanced Components-1697068376510.jpeg",
-    "attachments/image/Advanced Components-1697068376508.jpeg",
-    "attachments/image/IOS Commands-1696952292705.jpeg",
-    "attachments/image/Advanced Components-1697068376134.jpeg",
-    "attachments/image/RAM-1696886331951.jpeg",
-    "attachments/image/Motherboards-1696883761989.jpeg",
+    "7.1 Encapsulation-1696105260210.jpeg.md",
+    "7.1 Encapsulation-1696105132998.jpeg.md",
+    "attachments/Pasted image 20230906150609.png",
+    "attachments/Pasted image 20230906145722.png",
+    "attachments/Pasted image 20230906143046.png",
+    "Database/Database Terms.md",
+    "Database/Windows Server.md",
+    "Networking/IOS Commands.md",
+    "conflict-files-obsidian-git.md",
+    "Networking/7-Ethernet Switching/7.2 Mac Addresses.md",
+    "Networking/7-Ethernet Switching/7.3 Sending Frames.md",
+    "Networking/7-Ethernet Switching/7.1 Encapsulation.md",
+    "Networking/5-Conversions/Broadcast Address.md",
     "Networking/5-Conversions",
+    "Networking/4-Physical Layer/Untitled",
+    "Networking/Untitled.md",
+    "Networking/6-Data Link Layer/6.2 Topologies.md",
+    "Networking/6-Data Link Layer/6.3 Frames.md",
+    "Networking/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
+    "Networking/Console with Linux.md",
     "Networking/7-Ethernet Switching",
+    "Networking/6-Data Link Layer/6.1 Purpose.md",
     "Networking/6-Data Link Layer",
     "Desktop Support & Maintenance/3-Components",
+    "Networking/4-Physical Layer/4.2 Physical Layer Characteristics.md",
+    "Networking/4-Physical Layer/4.4 UTP Cabling.md",
+    "Networking/4-Physical Layer/4.3 Copper Cabling.md",
+    "Networking/4-Physical Layer/4.6 Wireless Media.md",
+    "Networking/3-Protocols and Models/3.6 Data Encapsulation.md",
     "Networking/4-Physical Layer",
     "Programming",
-    "Database/Untitled",
-    "Database",
-    "Networking/3-Protocols and Models"
+    "Database/Untitled"
   ]
 }
