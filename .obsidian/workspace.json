@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Built in Data Types.md",
+                "file": "Database/Database Objects.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Built in Data Types.md",
+                "file": "Database/Database Objects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/Built in Data Types.md",
+                "file": "Database/Database Objects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/Built in Data Types.md"
+                "file": "Database/Database Objects.md"
               }
             }
           },
@@ -188,7 +188,7 @@
     "attachments/image/Built in Data Types-1697153965912.jpeg",
     "attachments/image/Built in Data Types-1697153915242.jpeg",
     "Database/Database Terms.md",
-    "Database/Built in Data Types.md",
+    "Database/Database Objects.md",
     "Windows/Disks.md",
     "attachments/image/Disks-1697153694863.jpeg",
     "attachments/image/Disks-1697153694862.jpeg",
