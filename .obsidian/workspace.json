@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/8-Transport/8.3 IPv4 and IPv6.md",
+                "file": "Networking/8-Transport/8.1 Routing.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/8-Transport/8.3 IPv4 and IPv6.md",
+                "file": "Networking/8-Transport/8.1 Routing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/8-Transport/8.3 IPv4 and IPv6.md",
+                "file": "Networking/8-Transport/8.1 Routing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/8-Transport/8.3 IPv4 and IPv6.md"
+                "file": "Networking/8-Transport/8.1 Routing.md"
               }
             }
           },
@@ -185,10 +185,10 @@
   },
   "active": "386e0a574d15f851",
   "lastOpenFiles": [
+    "Networking/8-Transport/8.3 IPv4 and IPv6.md",
     "attachments/image/8.3 IPv4 and IPv6-1697157860019.jpeg",
     "attachments/image/8.3 IPv4 and IPv6-1697157844428.jpeg",
     "Networking/8-Transport/8.1 Routing.md",
-    "Networking/8-Transport/8.3 IPv4 and IPv6.md",
     "Networking/7-Ethernet Switching/7.1 Encapsulation.md",
     "Database/Database Objects.md",
     "attachments/image/Built in Data Types-1697153965912.jpeg",
@@ -201,7 +201,6 @@
     "attachments/image/Disks-1697153694859.jpeg",
     "attachments/image/Disks-1697153694858.jpeg",
     "attachments/image/Disks-1697153694857.jpeg",
-    "attachments/image/Disks-1697153694853.jpeg",
     "Networking/8-Transport",
     "Networking/3-Protocols and Models/3.1 The Rules.md",
     "Networking/3-Protocols and Models/3.2 Protocol Suites.md",
