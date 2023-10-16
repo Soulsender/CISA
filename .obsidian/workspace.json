@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e6c006ae617f2dc6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -183,7 +193,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "386e0a574d15f851",
+  "active": "e6c006ae617f2dc6",
   "lastOpenFiles": [
     "Networking/8-Transport/8.3 IPv4 and IPv6.md",
     "attachments/image/8.3 IPv4 and IPv6-1697157860019.jpeg",
