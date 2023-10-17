@@ -1,0 +1,17 @@
+- questions of purpose (gateway, mask, etc.)
+- PDUs
+- calculating network addresses (host, mask)
+- addressing of each layer
+- fields of headers and trailers (highlighted)
+- router/switch behaviour
+- TCP/IP model
+- wireshark
+- CSMA
+- cable types
+- ways to access device (ssh, telnet, console)
+- fiber types
+- how frames travel
+- packet priority
+- configuration commands
+- where files are stored on devices
+- 
