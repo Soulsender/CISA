@@ -14,4 +14,8 @@
 - packet priority
 - configuration commands
 - where files are stored on devices
-- 
+- purposes of switch configs
+- protocols to osi layer
+- bin/hex/decimal conversions
+- 3 different subnet mask 
+- static routing
