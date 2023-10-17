@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Midterm Notes.md",
+                "file": "Networking/8-Transport/8.3 IPv4 and IPv6.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2b45dc8836eed899",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Midterm Notes.md",
+                "file": "Networking/8-Transport/8.3 IPv4 and IPv6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Midterm Notes.md",
+                "file": "Networking/8-Transport/8.3 IPv4 and IPv6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Midterm Notes.md"
+                "file": "Networking/8-Transport/8.3 IPv4 and IPv6.md"
               }
             }
           },
@@ -160,8 +161,8 @@
   },
   "active": "3d1a81fe4e894d9f",
   "lastOpenFiles": [
-    "Networking/8-Transport/8.1 Routing.md",
     "Networking/Midterm Notes.md",
+    "Networking/8-Transport/8.1 Routing.md",
     "Windows/Virtual Switches.md",
     "attachments/Pasted image 20230906143046.png",
     "attachments/Pasted image 20230906145551.png",
