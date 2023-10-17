@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows/Practice Questions.md",
+                "file": "Windows/6 DHCP.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2b45dc8836eed899",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows/Practice Questions.md",
+                "file": "Windows/6 DHCP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows/Practice Questions.md",
+                "file": "Windows/6 DHCP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows/Practice Questions.md"
+                "file": "Windows/6 DHCP.md"
               }
             }
           },
@@ -161,8 +160,9 @@
   },
   "active": "3d1a81fe4e894d9f",
   "lastOpenFiles": [
-    "Networking/Midterm Notes.md",
     "Windows/Practice Questions.md",
+    "Windows/6 DHCP.md",
+    "Networking/Midterm Notes.md",
     "Networking/8-Transport/8.3 IPv4 and IPv6.md",
     "Networking/8-Transport/8.1 Routing.md",
     "Windows/Virtual Switches.md",
@@ -200,7 +200,6 @@
     "Networking/4-Physical Layer/Untitled",
     "Networking/6-Data Link Layer/6.2 Topologies.md",
     "Networking/6-Data Link Layer/6.3 Frames.md",
-    "Networking/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
     "Networking/7-Ethernet Switching",
     "Networking/6-Data Link Layer",
     "Desktop Support & Maintenance/3-Components",
