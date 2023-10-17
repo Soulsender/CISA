@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows/Virtual Switches.md",
+                "file": "Windows/DNS Zones.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows/Virtual Switches.md",
+                "file": "Windows/DNS Zones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows/Virtual Switches.md",
+                "file": "Windows/DNS Zones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows/Virtual Switches.md"
+                "file": "Windows/DNS Zones.md"
               }
             }
           },
@@ -160,8 +160,9 @@
   },
   "active": "3d1a81fe4e894d9f",
   "lastOpenFiles": [
-    "Windows/Disks.md",
     "Windows/Virtual Switches.md",
+    "Windows/DNS Zones.md",
+    "Windows/Disks.md",
     "Windows/Partition Tables.md",
     "Networking/8-Transport/Routing.md",
     "attachments/image/Routing-1697564128472.jpeg",
@@ -202,7 +203,6 @@
     "Networking/6-Data Link Layer",
     "Desktop Support & Maintenance/3-Components",
     "Networking/4-Physical Layer/4.2 Physical Layer Characteristics.md",
-    "Networking/4-Physical Layer/4.4 UTP Cabling.md",
     "Networking/4-Physical Layer",
     "Programming",
     "Database/Untitled"
