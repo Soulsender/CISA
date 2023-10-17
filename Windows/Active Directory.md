@@ -27,4 +27,7 @@
 - config items (CIs) elements, components, or resources that are subject to config management
 	- includes servers, routers, software, docs, configs, and more
 - relationships between CIs
-	- understanding and documenting relationships/dependancies 
+	- understanding and documenting relationships/dependancies between CIs
+- change control
+- asset management
+- documenation
