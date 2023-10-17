@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows/DNS Zones.md",
+                "file": "Networking/8-Transport/8.1 Routing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows/DNS Zones.md",
+                "file": "Networking/8-Transport/8.1 Routing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows/DNS Zones.md",
+                "file": "Networking/8-Transport/8.1 Routing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows/DNS Zones.md"
+                "file": "Networking/8-Transport/8.1 Routing.md"
               }
             }
           },
@@ -161,6 +161,11 @@
   "active": "3d1a81fe4e894d9f",
   "lastOpenFiles": [
     "Windows/Virtual Switches.md",
+    "attachments/Pasted image 20230906143046.png",
+    "attachments/Pasted image 20230906145551.png",
+    "attachments/Pasted image 20230906145722.png",
+    "attachments/Pasted image 20230906150609.png",
+    "Networking/8-Transport/8.3 IPv4 and IPv6.md",
     "Windows/DNS Zones.md",
     "Windows/Disks.md",
     "Windows/Partition Tables.md",
@@ -171,10 +176,6 @@
     "attachments/image/Routing-1697564128462.jpeg",
     "attachments/image/Routing-1697564128461.jpeg",
     "attachments/image/Routing-1697564128460.jpeg",
-    "attachments/image/Routing-1697564128449.jpeg",
-    "attachments/image/Routing-1697564128447.jpeg",
-    "attachments/image/Routing-1697564128445.jpeg",
-    "attachments/image/Routing-1697564128444.jpeg",
     "Database/Database Objects.md",
     "Networking/IOS Commands.md",
     "Desktop Support & Maintenance/Advanced Components.md",
@@ -199,10 +200,8 @@
     "Networking/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
     "Networking/Console with Linux.md",
     "Networking/7-Ethernet Switching",
-    "Networking/6-Data Link Layer/6.1 Purpose.md",
     "Networking/6-Data Link Layer",
     "Desktop Support & Maintenance/3-Components",
-    "Networking/4-Physical Layer/4.2 Physical Layer Characteristics.md",
     "Networking/4-Physical Layer",
     "Programming",
     "Database/Untitled"
