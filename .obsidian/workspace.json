@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/8-Transport/8.1 Routing.md",
+                "file": "Networking/Midterm Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/8-Transport/8.1 Routing.md",
+                "file": "Networking/Midterm Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/8-Transport/8.1 Routing.md",
+                "file": "Networking/Midterm Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/8-Transport/8.1 Routing.md"
+                "file": "Networking/Midterm Notes.md"
               }
             }
           },
@@ -160,6 +160,8 @@
   },
   "active": "3d1a81fe4e894d9f",
   "lastOpenFiles": [
+    "Networking/8-Transport/8.1 Routing.md",
+    "Networking/Midterm Notes.md",
     "Windows/Virtual Switches.md",
     "attachments/Pasted image 20230906143046.png",
     "attachments/Pasted image 20230906145551.png",
@@ -194,7 +196,6 @@
     "Networking/5-Conversions/Broadcast Address.md",
     "Networking/5-Conversions",
     "Networking/4-Physical Layer/Untitled",
-    "Networking/Untitled.md",
     "Networking/6-Data Link Layer/6.2 Topologies.md",
     "Networking/6-Data Link Layer/6.3 Frames.md",
     "Networking/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
