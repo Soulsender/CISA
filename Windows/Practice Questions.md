@@ -4,3 +4,6 @@
 	- used to secure HTTPS
 - certificate templates
 	- configurations that specify properties and settings of certs
+- user UPN
+	- logon name
+- 

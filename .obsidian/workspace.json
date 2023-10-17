@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows/6 DHCP.md",
+                "file": "Windows/Active Directory.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows/6 DHCP.md",
+                "file": "Windows/Active Directory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows/6 DHCP.md",
+                "file": "Windows/Active Directory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows/6 DHCP.md"
+                "file": "Windows/Active Directory.md"
               }
             }
           },
@@ -161,6 +161,7 @@
   "active": "3d1a81fe4e894d9f",
   "lastOpenFiles": [
     "Windows/Practice Questions.md",
+    "Windows/Active Directory.md",
     "Windows/6 DHCP.md",
     "Networking/Midterm Notes.md",
     "Networking/8-Transport/8.3 IPv4 and IPv6.md",
@@ -199,7 +200,6 @@
     "Networking/5-Conversions",
     "Networking/4-Physical Layer/Untitled",
     "Networking/6-Data Link Layer/6.2 Topologies.md",
-    "Networking/6-Data Link Layer/6.3 Frames.md",
     "Networking/7-Ethernet Switching",
     "Networking/6-Data Link Layer",
     "Desktop Support & Maintenance/3-Components",
