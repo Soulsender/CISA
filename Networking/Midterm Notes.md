@@ -19,3 +19,4 @@
 - bin/hex/decimal conversions
 - 3 different subnet mask 
 - static routing
+- cleanup devices
