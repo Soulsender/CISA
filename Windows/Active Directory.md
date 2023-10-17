@@ -15,4 +15,16 @@
 - generates replication topology
 - generates map of connections between DCs in the forest
 - dynamic adjustments
-	- changes based on th
+	- changes based on the network
+- decides which DCs replicate with other DCs and how often
+- default runs every 15 minutes
+
+#### Metadata Information Hierarchy
+- "whenChanged" timestamp
+- version numbers
+
+#### Scope of Configuration Management
+- config items (CIs) elements, components, or resources that are subject to config management
+	- includes servers, routers, software, docs, configs, and more
+- relationships between CIs
+	- understanding and documenting relationships/dependancies 
