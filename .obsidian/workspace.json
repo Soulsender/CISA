@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows/Partition Tables.md",
+                "file": "Windows/Virtual Switches.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2b45dc8836eed899",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows/Partition Tables.md",
+                "file": "Windows/Virtual Switches.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows/Partition Tables.md",
+                "file": "Windows/Virtual Switches.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows/Partition Tables.md"
+                "file": "Windows/Virtual Switches.md"
               }
             }
           },
@@ -161,8 +160,10 @@
   },
   "active": "3d1a81fe4e894d9f",
   "lastOpenFiles": [
-    "Networking/8-Transport/Routing.md",
+    "Windows/Disks.md",
+    "Windows/Virtual Switches.md",
     "Windows/Partition Tables.md",
+    "Networking/8-Transport/Routing.md",
     "attachments/image/Routing-1697564128472.jpeg",
     "attachments/image/Routing-1697564128465.jpeg",
     "attachments/image/Routing-1697564128464.jpeg",
@@ -177,7 +178,6 @@
     "Networking/IOS Commands.md",
     "Desktop Support & Maintenance/Advanced Components.md",
     "Networking/8-Transport",
-    "Windows/Disks.md",
     "Windows",
     "Desktop Support & Maintenance/3-Components/Motherboards.md",
     "Desktop Support & Maintenance/3-Components/RAM.md",
@@ -203,7 +203,6 @@
     "Desktop Support & Maintenance/3-Components",
     "Networking/4-Physical Layer/4.2 Physical Layer Characteristics.md",
     "Networking/4-Physical Layer/4.4 UTP Cabling.md",
-    "Networking/4-Physical Layer/4.3 Copper Cabling.md",
     "Networking/4-Physical Layer",
     "Programming",
     "Database/Untitled"

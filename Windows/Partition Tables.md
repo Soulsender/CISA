@@ -4,7 +4,8 @@
 - size depends on the OS
 - nearly unlimited number of partitions
 - windows allows up to 128 partitions
-- stores multiple copies of boot data and parti
+- stores multiple copies of boot data and partitioning
+- stores CRC cyclic redundancy check to check for corruption
 
 #### MBR (Master Boot Record) - legacy
 - limited to disks less than 2 TB
