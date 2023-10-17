@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "fa4fa3a7384b6702",
+        "id": "d805bfd24851342d",
         "type": "tabs",
         "children": [
           {
-            "id": "c8aaafc7ca31eded",
+            "id": "3d1a81fe4e894d9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b77fb6aee7628e67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Desktop Support & Maintenance/3-Components/Motherboards.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "386e0a574d15f851",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking/8-Transport/8.1 Routing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e6c006ae617f2dc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking/Reference Models.md",
+                "file": "Windows/Partition Tables.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2b45dc8836eed899",
@@ -122,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Reference Models.md",
+                "file": "Windows/Partition Tables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Reference Models.md",
+                "file": "Windows/Partition Tables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Reference Models.md"
+                "file": "Windows/Partition Tables.md"
               }
             }
           },
@@ -195,53 +159,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6c006ae617f2dc6",
+  "active": "3d1a81fe4e894d9f",
   "lastOpenFiles": [
-    "Networking/3-Protocols and Models/3.1 The Rules.md",
-    "Networking/3-Protocols and Models/3.2 Protocol Suites.md",
-    "Networking/6-Data Link Layer/6.2 Topologies.md",
-    "Networking/6-Data Link Layer/6.3 Frames.md",
-    "Networking/6-Data Link Layer/6.1 Purpose.md",
-    "Networking/8-Transport/8.3 IPv4 and IPv6.md",
-    "Networking/8-Transport/8.1 Routing.md",
+    "Networking/8-Transport/Routing.md",
+    "Windows/Partition Tables.md",
+    "attachments/image/Routing-1697564128472.jpeg",
+    "attachments/image/Routing-1697564128465.jpeg",
+    "attachments/image/Routing-1697564128464.jpeg",
+    "attachments/image/Routing-1697564128462.jpeg",
+    "attachments/image/Routing-1697564128461.jpeg",
+    "attachments/image/Routing-1697564128460.jpeg",
+    "attachments/image/Routing-1697564128449.jpeg",
+    "attachments/image/Routing-1697564128447.jpeg",
+    "attachments/image/Routing-1697564128445.jpeg",
+    "attachments/image/Routing-1697564128444.jpeg",
+    "Database/Database Objects.md",
+    "Networking/IOS Commands.md",
+    "Desktop Support & Maintenance/Advanced Components.md",
+    "Networking/8-Transport",
+    "Windows/Disks.md",
+    "Windows",
+    "Desktop Support & Maintenance/3-Components/Motherboards.md",
+    "Desktop Support & Maintenance/3-Components/RAM.md",
+    "7.1 Encapsulation-1696105260210.jpeg.md",
+    "7.1 Encapsulation-1696105132998.jpeg.md",
+    "Database/Database Terms.md",
+    "Database/Windows Server.md",
+    "conflict-files-obsidian-git.md",
+    "Networking/7-Ethernet Switching/7.2 Mac Addresses.md",
     "Networking/7-Ethernet Switching/7.3 Sending Frames.md",
     "Networking/7-Ethernet Switching/7.1 Encapsulation.md",
-    "Networking/7-Ethernet Switching/7.2 Mac Addresses.md",
-    "attachments/image/8.3 IPv4 and IPv6-1697157860019.jpeg",
-    "attachments/image/8.3 IPv4 and IPv6-1697157844428.jpeg",
-    "Database/Database Objects.md",
-    "attachments/image/Built in Data Types-1697153965912.jpeg",
-    "attachments/image/Built in Data Types-1697153915242.jpeg",
-    "Database/Database Terms.md",
-    "Windows/Disks.md",
-    "attachments/image/Disks-1697153694863.jpeg",
-    "attachments/image/Disks-1697153694862.jpeg",
-    "attachments/image/Disks-1697153694860.jpeg",
-    "attachments/image/Disks-1697153694859.jpeg",
-    "attachments/image/Disks-1697153694858.jpeg",
-    "attachments/image/Disks-1697153694857.jpeg",
-    "Networking/8-Transport",
-    "Networking/2-Basic Config/2.3 The Command Structure.md",
-    "Networking/2-Basic Config/2.2 IOS Navigation.md",
-    "Networking/2-Basic Config/2.1 Cisco IOS Access.md",
-    "Networking/4-Physical Layer/4.6 Wireless Media.md",
-    "Networking/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
     "Networking/5-Conversions/Broadcast Address.md",
-    "Networking/Console with Linux.md",
-    "Networking/IOS Commands.md",
-    "Programming/String Arguments.md",
-    "Networking/4-Physical Layer/4.3 Copper Cabling.md",
-    "Networking/4-Physical Layer/4.4 UTP Cabling.md",
-    "Networking/Reference Models.md",
-    "Networking/4-Physical Layer/4.2 Physical Layer Characteristics.md",
-    "Windows",
     "Networking/5-Conversions",
+    "Networking/4-Physical Layer/Untitled",
+    "Networking/Untitled.md",
+    "Networking/6-Data Link Layer/6.2 Topologies.md",
+    "Networking/6-Data Link Layer/6.3 Frames.md",
+    "Networking/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
+    "Networking/Console with Linux.md",
     "Networking/7-Ethernet Switching",
+    "Networking/6-Data Link Layer/6.1 Purpose.md",
     "Networking/6-Data Link Layer",
     "Desktop Support & Maintenance/3-Components",
+    "Networking/4-Physical Layer/4.2 Physical Layer Characteristics.md",
+    "Networking/4-Physical Layer/4.4 UTP Cabling.md",
+    "Networking/4-Physical Layer/4.3 Copper Cabling.md",
     "Networking/4-Physical Layer",
     "Programming",
-    "Database/Untitled",
-    "Database"
+    "Database/Untitled"
   ]
 }
