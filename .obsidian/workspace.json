@@ -4,22 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "d805bfd24851342d",
+        "id": "fa4fa3a7384b6702",
         "type": "tabs",
         "children": [
           {
-            "id": "3d1a81fe4e894d9f",
+            "id": "c8aaafc7ca31eded",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows/Active Directory.md",
+                "file": "Networking/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b77fb6aee7628e67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desktop Support & Maintenance/3-Components/Motherboards.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "386e0a574d15f851",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking/8-Transport/8.1 Routing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6c006ae617f2dc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Windows/Practice Questions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows/Active Directory.md",
+                "file": "Windows/Practice Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows/Active Directory.md",
+                "file": "Windows/Practice Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows/Active Directory.md"
+                "file": "Windows/Practice Questions.md"
               }
             }
           },
@@ -158,53 +195,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3d1a81fe4e894d9f",
+  "active": "e6c006ae617f2dc6",
   "lastOpenFiles": [
-    "Windows/Practice Questions.md",
     "Windows/Active Directory.md",
+    "Database/Database Terms.md",
+    "Database/Database Objects.md",
+    "Networking/Reference Models.md",
+    "attachments/image/Reference Models-1697584223905.jpeg",
+    "attachments/image/Reference Models-1697584223904.jpeg",
+    "attachments/image/Reference Models-1697584223903.jpeg",
+    "attachments/image/Reference Models-1697584223901.jpeg",
+    "attachments/image/Reference Models-1697584223899.jpeg",
+    "attachments/image/Reference Models-1697584223898.jpeg",
+    "attachments/image/Reference Models-1697584223891.jpeg",
+    "attachments/image/Reference Models-1697584223877.jpeg",
+    "attachments/image/Reference Models-1697584223875.jpeg",
+    "attachments/image/Reference Models-1697584223873.jpeg",
+    "Windows/Virtual Switches.md",
+    "Windows/Practice Questions.md",
+    "Windows/Partition Tables.md",
+    "Windows/DNS Zones.md",
     "Windows/6 DHCP.md",
     "Networking/Midterm Notes.md",
+    "Networking/3-Protocols and Models/3.1 The Rules.md",
+    "Networking/3-Protocols and Models/3.2 Protocol Suites.md",
+    "Networking/6-Data Link Layer/6.2 Topologies.md",
+    "Networking/6-Data Link Layer/6.3 Frames.md",
+    "Networking/6-Data Link Layer/6.1 Purpose.md",
     "Networking/8-Transport/8.3 IPv4 and IPv6.md",
     "Networking/8-Transport/8.1 Routing.md",
-    "Windows/Virtual Switches.md",
-    "attachments/Pasted image 20230906143046.png",
-    "attachments/Pasted image 20230906145551.png",
-    "attachments/Pasted image 20230906145722.png",
-    "attachments/Pasted image 20230906150609.png",
-    "Windows/DNS Zones.md",
-    "Windows/Disks.md",
-    "Windows/Partition Tables.md",
-    "Networking/8-Transport/Routing.md",
-    "attachments/image/Routing-1697564128472.jpeg",
-    "attachments/image/Routing-1697564128465.jpeg",
-    "attachments/image/Routing-1697564128464.jpeg",
-    "attachments/image/Routing-1697564128462.jpeg",
-    "attachments/image/Routing-1697564128461.jpeg",
-    "attachments/image/Routing-1697564128460.jpeg",
-    "Database/Database Objects.md",
-    "Networking/IOS Commands.md",
-    "Desktop Support & Maintenance/Advanced Components.md",
-    "Networking/8-Transport",
-    "Windows",
-    "Desktop Support & Maintenance/3-Components/Motherboards.md",
-    "Desktop Support & Maintenance/3-Components/RAM.md",
-    "7.1 Encapsulation-1696105260210.jpeg.md",
-    "7.1 Encapsulation-1696105132998.jpeg.md",
-    "Database/Database Terms.md",
-    "Database/Windows Server.md",
-    "conflict-files-obsidian-git.md",
-    "Networking/7-Ethernet Switching/7.2 Mac Addresses.md",
     "Networking/7-Ethernet Switching/7.3 Sending Frames.md",
     "Networking/7-Ethernet Switching/7.1 Encapsulation.md",
-    "Networking/5-Conversions/Broadcast Address.md",
+    "Networking/7-Ethernet Switching/7.2 Mac Addresses.md",
+    "Windows/Disks.md",
+    "Networking/8-Transport",
+    "Networking/2-Basic Config/2.3 The Command Structure.md",
+    "Networking/2-Basic Config/2.2 IOS Navigation.md",
+    "Networking/2-Basic Config/2.1 Cisco IOS Access.md",
+    "Networking/4-Physical Layer/4.6 Wireless Media.md",
+    "Networking/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
+    "Windows",
     "Networking/5-Conversions",
-    "Networking/4-Physical Layer/Untitled",
-    "Networking/6-Data Link Layer/6.2 Topologies.md",
     "Networking/7-Ethernet Switching",
     "Networking/6-Data Link Layer",
     "Desktop Support & Maintenance/3-Components",
     "Networking/4-Physical Layer",
     "Programming",
-    "Database/Untitled"
+    "Database/Untitled",
+    "Database"
   ]
 }
