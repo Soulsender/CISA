@@ -4,3 +4,4 @@
 - AD based activation
 - volume activation services role
 	- supports both AD activation and KMS
+- 
