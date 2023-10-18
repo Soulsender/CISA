@@ -1,4 +1,24 @@
 - server message block
 #### Features
-- SMB transparent failover
-	- enables maintain
+- transparent failover
+	- enables maintenance of nodes in a clustered file server without interrupting their services
+- scale-out
+	- create file shares that provide simultaneous access to data
+- cluster dialect fencing
+	- provides support for cluster rolling upgrades
+- multichannel
+	- allows you to aggregate network bandwidth and network fault tolerance
+- direct
+	- supports remote direct memory access NICs
+	- perform at full speed with low data latency
+- encryption
+	- allows e2e encryption
+- compression
+	- smb automatically compresses files
+- volume shadow copy service (VSS)
+	- smb v3 and greater support this 
+	- must be on the client **and** server
+- directory leasing
+	- improves branch office response time
+- smb over quic
+	- included only in azure 
