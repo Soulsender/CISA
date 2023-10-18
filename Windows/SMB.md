@@ -20,5 +20,7 @@
 	- must be on the client **and** server
 - directory leasing
 	- improves branch office response time
-- smb over quic
-	- included only in azure 
+- smb over QUIC
+	- included only in azure
+	- uses QUIC instead of TCP for faster performance
+- powershell commands
