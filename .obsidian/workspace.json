@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows/SMB.md",
+                "file": "Windows/SMB & NFS.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows/SMB.md",
+                "file": "Windows/SMB & NFS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows/SMB.md",
+                "file": "Windows/SMB & NFS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows/SMB.md"
+                "file": "Windows/SMB & NFS.md"
               }
             }
           },
@@ -171,10 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f759ede2e1dfc434",
+  "active": "7cff6b15a3f0a196",
   "lastOpenFiles": [
     "Windows/Chapters/2 Initial Configuration.md",
-    "Windows/SMB.md",
+    "Windows/SMB & NFS.md",
     "Windows/Chapters/6 DHCP.md",
     "Windows/Active Directory.md",
     "Windows/Chapters",

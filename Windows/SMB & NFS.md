@@ -24,3 +24,7 @@
 	- included only in azure
 	- uses QUIC instead of TCP for faster performance
 - powershell commands
+#### Network File System (NFS)
+- mostly used by UNIX systems
+- NFS provides exports which are basically UNIX smb shares
+- smb has the 
