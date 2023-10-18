@@ -1,8 +1,10 @@
 #### Zones
 - primary - read/write copy of dns database
 - secondary - read only copy of dns database
-- stub - copy of a zone that contains only records used to locate name servers
+- stub
+	- copy of a zone that contains only records used to locate name servers
 	- improves performance
+	- used when the domain name is below a higher level
 - zone replication
 	- AD integrated zones
 		- perform incremental replication
