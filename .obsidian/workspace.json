@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows/Active Directory.md",
+                "file": "Windows/Chapters/2 Initial Configuration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f759ede2e1dfc434",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Windows/SMB.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows/Active Directory.md",
+                "file": "Windows/SMB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows/Active Directory.md",
+                "file": "Windows/SMB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows/Active Directory.md"
+                "file": "Windows/SMB.md"
               }
             }
           },
@@ -158,8 +171,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3d1a81fe4e894d9f",
+  "active": "f759ede2e1dfc434",
   "lastOpenFiles": [
+    "Windows/Chapters/2 Initial Configuration.md",
+    "Windows/SMB.md",
+    "Windows/Chapters/6 DHCP.md",
+    "Windows/Active Directory.md",
+    "Windows/Chapters",
     "attachments/image/Active Directory-1697646718121.jpeg",
     "attachments/image/Active Directory-1697646718119.jpeg",
     "attachments/image/Active Directory-1697646718118.jpeg",
@@ -170,11 +188,7 @@
     "attachments/image/Active Directory-1697646718102.jpeg",
     "attachments/image/Active Directory-1697646718100.jpeg",
     "attachments/image/Active Directory-1697646718098.jpeg",
-    "attachments/image/Active Directory-1697646718095.jpeg",
-    "Windows/2 Initial Configuration.md",
     "Windows/Practice Questions.md",
-    "Windows/Active Directory.md",
-    "Windows/6 DHCP.md",
     "Networking/Midterm Notes.md",
     "Networking/8-Transport/8.3 IPv4 and IPv6.md",
     "Networking/8-Transport/8.1 Routing.md",
@@ -204,7 +218,6 @@
     "Networking/6-Data Link Layer",
     "Desktop Support & Maintenance/3-Components",
     "Networking/4-Physical Layer",
-    "Programming",
-    "Database/Untitled"
+    "Programming"
   ]
 }
