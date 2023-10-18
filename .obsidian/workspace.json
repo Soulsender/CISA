@@ -4,35 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "d805bfd24851342d",
+        "id": "fa4fa3a7384b6702",
         "type": "tabs",
         "children": [
           {
-            "id": "3d1a81fe4e894d9f",
+            "id": "c8aaafc7ca31eded",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows/Chapters/2 Initial Configuration.md",
+                "file": "Networking/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f759ede2e1dfc434",
+            "id": "b77fb6aee7628e67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows/Hyper V.md",
+                "file": "Desktop Support & Maintenance/3-Components/Motherboards.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "386e0a574d15f851",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Windows/Chapters/7 DNS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows/Hyper V.md",
+                "file": "Windows/Chapters/7 DNS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows/Hyper V.md",
+                "file": "Windows/Chapters/7 DNS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows/Hyper V.md"
+                "file": "Windows/Chapters/7 DNS.md"
               }
             }
           },
@@ -171,53 +183,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f759ede2e1dfc434",
+  "active": "386e0a574d15f851",
   "lastOpenFiles": [
-    "Windows/Practice Questions.md",
-    "Windows/Hyper V.md",
+    "Networking/8-Transport/8.1 Routing.md",
+    "Windows/Chapters/7 DNS.md",
+    "Windows/2 Initial Configuration.md",
+    "attachments/image/2 Initial Configuration-1697668459367.jpeg",
+    "attachments/image/2 Initial Configuration-1697668459366.jpeg",
+    "attachments/image/2 Initial Configuration-1697668459364.jpeg",
+    "attachments/image/2 Initial Configuration-1697668459362.jpeg",
+    "attachments/image/2 Initial Configuration-1697668459361.jpeg",
+    "attachments/image/2 Initial Configuration-1697668459360.jpeg",
+    "attachments/image/2 Initial Configuration-1697668459353.jpeg",
+    "attachments/image/2 Initial Configuration-1697668459346.jpeg",
+    "attachments/image/2 Initial Configuration-1697668459344.jpeg",
+    "attachments/image/2 Initial Configuration-1697668459340.jpeg",
     "Windows/SMB & NFS.md",
+    "Windows/Hyper V.md",
     "Windows/Chapters/2 Initial Configuration.md",
     "Windows/Chapters/6 DHCP.md",
-    "Windows/Active Directory.md",
     "Windows/Chapters",
-    "attachments/image/Active Directory-1697646718121.jpeg",
-    "attachments/image/Active Directory-1697646718119.jpeg",
-    "attachments/image/Active Directory-1697646718118.jpeg",
-    "attachments/image/Active Directory-1697646718116.jpeg",
-    "attachments/image/Active Directory-1697646718115.jpeg",
-    "attachments/image/Active Directory-1697646718114.jpeg",
-    "attachments/image/Active Directory-1697646718103.jpeg",
-    "attachments/image/Active Directory-1697646718102.jpeg",
-    "attachments/image/Active Directory-1697646718100.jpeg",
-    "attachments/image/Active Directory-1697646718098.jpeg",
-    "Networking/Midterm Notes.md",
-    "Networking/8-Transport/8.3 IPv4 and IPv6.md",
-    "Networking/8-Transport/8.1 Routing.md",
-    "Windows/Virtual Switches.md",
-    "Windows/DNS Zones.md",
-    "Windows/Disks.md",
-    "Windows/Partition Tables.md",
-    "Networking/8-Transport/Routing.md",
+    "Windows/Active Directory.md",
+    "Windows/Practice Questions.md",
+    "Database/Database Terms.md",
     "Database/Database Objects.md",
-    "Networking/IOS Commands.md",
-    "Desktop Support & Maintenance/Advanced Components.md",
+    "Networking/Reference Models.md",
+    "Windows/Virtual Switches.md",
+    "Windows/Partition Tables.md",
+    "Windows/DNS Zones.md",
+    "Windows/6 DHCP.md",
+    "Networking/Midterm Notes.md",
+    "Networking/3-Protocols and Models/3.1 The Rules.md",
+    "Networking/3-Protocols and Models/3.2 Protocol Suites.md",
+    "Networking/6-Data Link Layer/6.2 Topologies.md",
+    "Networking/6-Data Link Layer/6.3 Frames.md",
+    "Networking/6-Data Link Layer/6.1 Purpose.md",
+    "Networking/8-Transport/8.3 IPv4 and IPv6.md",
+    "Networking/7-Ethernet Switching/7.3 Sending Frames.md",
+    "Networking/7-Ethernet Switching/7.1 Encapsulation.md",
+    "Networking/7-Ethernet Switching/7.2 Mac Addresses.md",
     "Networking/8-Transport",
     "Windows",
-    "Desktop Support & Maintenance/3-Components/Motherboards.md",
-    "Desktop Support & Maintenance/3-Components/RAM.md",
-    "7.1 Encapsulation-1696105260210.jpeg.md",
-    "7.1 Encapsulation-1696105132998.jpeg.md",
-    "Database/Database Terms.md",
-    "Database/Windows Server.md",
-    "conflict-files-obsidian-git.md",
-    "Networking/7-Ethernet Switching/7.2 Mac Addresses.md",
-    "Networking/7-Ethernet Switching/7.3 Sending Frames.md",
     "Networking/5-Conversions",
-    "Networking/4-Physical Layer/Untitled",
     "Networking/7-Ethernet Switching",
     "Networking/6-Data Link Layer",
     "Desktop Support & Maintenance/3-Components",
     "Networking/4-Physical Layer",
-    "Programming"
+    "Programming",
+    "Database/Untitled"
   ]
 }
