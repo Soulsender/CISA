@@ -13,4 +13,9 @@
 		- GUI
 	- automatic VM activation
 #### Updates
-- feature 
+- feature updates
+- quality updates
+#### Servicing Channels
+- determines how frequently updates are applied
+- long term servicing channel (LTSC)
+- semi annual channel (SAC)
