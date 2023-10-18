@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows/Practice Questions.md",
+                "file": "Windows/2 Initial Configuration.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows/Practice Questions.md",
+                "file": "Windows/2 Initial Configuration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows/Practice Questions.md",
+                "file": "Windows/2 Initial Configuration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows/Practice Questions.md"
+                "file": "Windows/2 Initial Configuration.md"
               }
             }
           },
@@ -197,7 +197,9 @@
   },
   "active": "e6c006ae617f2dc6",
   "lastOpenFiles": [
+    "Windows/Practice Questions.md",
     "Windows/Active Directory.md",
+    "Windows/2 Initial Configuration.md",
     "Database/Database Terms.md",
     "Database/Database Objects.md",
     "Networking/Reference Models.md",
@@ -212,7 +214,6 @@
     "attachments/image/Reference Models-1697584223875.jpeg",
     "attachments/image/Reference Models-1697584223873.jpeg",
     "Windows/Virtual Switches.md",
-    "Windows/Practice Questions.md",
     "Windows/Partition Tables.md",
     "Windows/DNS Zones.md",
     "Windows/6 DHCP.md",
@@ -233,7 +234,6 @@
     "Networking/2-Basic Config/2.2 IOS Navigation.md",
     "Networking/2-Basic Config/2.1 Cisco IOS Access.md",
     "Networking/4-Physical Layer/4.6 Wireless Media.md",
-    "Networking/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
     "Windows",
     "Networking/5-Conversions",
     "Networking/7-Ethernet Switching",
