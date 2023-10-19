@@ -1,12 +1,12 @@
 - [x] questions of purpose (gateway, mask, etc.)
 - [x] PDUs
-- [ ] calculating network addresses (host, mask)
-- [ ] addressing of each layer
+- [x] calculating network addresses (host, mask)
+- [x] addressing of each layer
 - [x] fields of headers and trailers (highlighted)
-- [ ] router/switch behaviour
-- [ ] TCP/IP model
-- [ ] wireshark
-- [ ] CSMA
+- [x] router/switch behaviour
+- [x] TCP/IP model
+- [x] wireshark
+- [x] CSMA
 - [x] cable types
 - [x] ways to access device (ssh, telnet, console)
 - [x] fiber types
