@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows/Active Directory.md",
+                "file": "Networking/IOS Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows/Active Directory.md",
+                "file": "Networking/IOS Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows/Active Directory.md",
+                "file": "Networking/IOS Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows/Active Directory.md"
+                "file": "Networking/IOS Commands.md"
               }
             }
           },
@@ -185,8 +185,10 @@
   },
   "active": "386e0a574d15f851",
   "lastOpenFiles": [
-    "Windows/Hyper V.md",
+    "Networking/Midterm Notes.md",
+    "Networking/IOS Commands.md",
     "Windows/Active Directory.md",
+    "Windows/Hyper V.md",
     "Windows/Chapters/7 DNS.md",
     "Windows/Chapters/6 DHCP.md",
     "Windows/Chapters/2 Initial Configuration.md",
@@ -212,7 +214,6 @@
     "Windows/Partition Tables.md",
     "Windows/DNS Zones.md",
     "Windows/6 DHCP.md",
-    "Networking/Midterm Notes.md",
     "Networking/3-Protocols and Models/3.1 The Rules.md",
     "Networking/3-Protocols and Models/3.2 Protocol Suites.md",
     "Networking/6-Data Link Layer/6.2 Topologies.md",
@@ -221,7 +222,6 @@
     "Networking/8-Transport/8.3 IPv4 and IPv6.md",
     "Networking/7-Ethernet Switching/7.3 Sending Frames.md",
     "Networking/7-Ethernet Switching/7.1 Encapsulation.md",
-    "Networking/7-Ethernet Switching/7.2 Mac Addresses.md",
     "Networking/8-Transport",
     "Windows",
     "Networking/5-Conversions",
