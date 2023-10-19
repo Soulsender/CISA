@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Reference Models.md",
+                "file": "Networking/7-Ethernet Switching/7.1 Encapsulation.md",
                 "mode": "preview",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Midterm Notes.md",
+                "file": "Networking/7-Ethernet Switching/7.1 Encapsulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Midterm Notes.md",
+                "file": "Networking/7-Ethernet Switching/7.1 Encapsulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Midterm Notes.md"
+                "file": "Networking/7-Ethernet Switching/7.1 Encapsulation.md"
               }
             }
           },
@@ -178,7 +178,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "976e052b8591f664",
+  "active": "386e0a574d15f851",
   "lastOpenFiles": [
     "Networking/Reference Models.md",
     "Networking/Midterm Notes.md",
