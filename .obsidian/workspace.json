@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desktop Support & Maintenance/2-PC Technician Responsibilities/2.3 Protecting Power.md",
+                "file": "Desktop Support & Maintenance/3-Components/Motherboards.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desktop Support & Maintenance/2-PC Technician Responsibilities/2.3 Protecting Power.md",
+                "file": "Desktop Support & Maintenance/3-Components/Motherboards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desktop Support & Maintenance/2-PC Technician Responsibilities/2.3 Protecting Power.md",
+                "file": "Desktop Support & Maintenance/3-Components/Motherboards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desktop Support & Maintenance/2-PC Technician Responsibilities/2.3 Protecting Power.md"
+                "file": "Desktop Support & Maintenance/3-Components/Motherboards.md"
               }
             }
           },
@@ -173,6 +173,7 @@
   },
   "active": "f759ede2e1dfc434",
   "lastOpenFiles": [
+    "Desktop Support & Maintenance/2-PC Technician Responsibilities/2.3 Protecting Power.md",
     "Desktop Support & Maintenance/2-PC Technician Responsibilities/3.2 Professionalism.md",
     "Desktop Support & Maintenance/2-PC Technician Responsibilities/4.2 Change Management.md",
     "Desktop Support & Maintenance/2-PC Technician Responsibilities/5.1 Maintenance Best Practices.md",
@@ -211,7 +212,6 @@
     "Desktop Support & Maintenance/3-Components/RAM.md",
     "7.1 Encapsulation-1696105260210.jpeg.md",
     "7.1 Encapsulation-1696105132998.jpeg.md",
-    "Database/Database Terms.md",
     "Networking/5-Conversions",
     "Networking/4-Physical Layer/Untitled",
     "Networking/7-Ethernet Switching",
