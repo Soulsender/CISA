@@ -15,3 +15,16 @@
 		- perform an incremental rather than a complete zone transfer
 #### Forwarding
 - server used to resolve external dns (ie. google.com)
+#### DNS Security
+- cache locking
+	- prevents entries from being overwritten until a TTL has passed
+- socket pool
+	- randomizes source port for issuing DNS queries
+- DANE
+	- uses TLSA records that state the CA where they should expect a cert
+- DNSSEC
+	- enables signing DNS records
+- RRL
+	- ignores DDOS queries
+- unknown record support
+	- will not do any record-specific processing for unknown records
