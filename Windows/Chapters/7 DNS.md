@@ -13,6 +13,5 @@
 	- traditional dns zones
 		- replicate between primar/secondary zones
 		- perform an incremental rather than a complete zone transfer
-
 #### Forwarding
 - server used to resolve external dns (ie. google.com)
