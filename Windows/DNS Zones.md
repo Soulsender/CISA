@@ -8,3 +8,6 @@
 - converts an IP address to a name
 - should be implemented as often as possible
 - can aid in troubleshooting
+- basically hold a copy of the primary zone
+#### Stub Zones
+- redirects to an authoritative dns server
