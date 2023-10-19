@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows/Chapters/8 Remote Access.md",
-                "mode": "source",
+                "file": "Networking/Midterm Notes.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows/Chapters/8 Remote Access.md",
+                "file": "Networking/Midterm Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows/Chapters/8 Remote Access.md",
+                "file": "Networking/Midterm Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows/Chapters/8 Remote Access.md"
+                "file": "Networking/Midterm Notes.md"
               }
             }
           },
@@ -185,8 +185,8 @@
   },
   "active": "386e0a574d15f851",
   "lastOpenFiles": [
-    "Networking/IOS Commands.md",
     "Windows/Chapters/8 Remote Access.md",
+    "Networking/IOS Commands.md",
     "attachments/image/IOS Commands-1697756111664.jpeg",
     "attachments/image/IOS Commands-1697756111663.jpeg",
     "attachments/image/IOS Commands-1697756111660.jpeg",
