@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows/Chapters/7 DNS.md",
+                "file": "Windows/Hyper V.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows/Chapters/7 DNS.md",
+                "file": "Windows/Hyper V.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows/Chapters/7 DNS.md",
+                "file": "Windows/Hyper V.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows/Chapters/7 DNS.md"
+                "file": "Windows/Hyper V.md"
               }
             }
           },
@@ -185,8 +185,12 @@
   },
   "active": "386e0a574d15f851",
   "lastOpenFiles": [
-    "Networking/8-Transport/8.1 Routing.md",
+    "Windows/Active Directory.md",
     "Windows/Chapters/7 DNS.md",
+    "Windows/Chapters/6 DHCP.md",
+    "Windows/Chapters/2 Initial Configuration.md",
+    "Windows/Practice Questions.md",
+    "Networking/8-Transport/8.1 Routing.md",
     "Windows/2 Initial Configuration.md",
     "attachments/image/2 Initial Configuration-1697668459367.jpeg",
     "attachments/image/2 Initial Configuration-1697668459366.jpeg",
@@ -200,11 +204,7 @@
     "attachments/image/2 Initial Configuration-1697668459340.jpeg",
     "Windows/SMB & NFS.md",
     "Windows/Hyper V.md",
-    "Windows/Chapters/2 Initial Configuration.md",
-    "Windows/Chapters/6 DHCP.md",
     "Windows/Chapters",
-    "Windows/Active Directory.md",
-    "Windows/Practice Questions.md",
     "Database/Database Terms.md",
     "Database/Database Objects.md",
     "Networking/Reference Models.md",
