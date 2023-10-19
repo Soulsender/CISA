@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/6-Data Link Layer/6.2 Topologies.md",
+                "file": "Networking/Midterm Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/6-Data Link Layer/6.2 Topologies.md",
+                "file": "Networking/Midterm Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/6-Data Link Layer/6.2 Topologies.md"
+                "file": "Networking/Midterm Notes.md"
               }
             }
           },
@@ -178,11 +178,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "386e0a574d15f851",
+  "active": "976e052b8591f664",
   "lastOpenFiles": [
+    "Networking/6-Data Link Layer/6.2 Topologies.md",
+    "Networking/Midterm Notes.md",
     "Networking/6-Data Link Layer/6.3 Frames.md",
     "Networking/7-Ethernet Switching/7.1 Encapsulation.md",
-    "Networking/Midterm Notes.md",
     "Networking/7-Ethernet Switching/7.3 Sending Frames.md",
     "Networking/7-Ethernet Switching/7.2 Mac Addresses.md",
     "Networking/Reference Models.md",
@@ -216,7 +217,6 @@
     "Windows/6 DHCP.md",
     "Networking/3-Protocols and Models/3.1 The Rules.md",
     "Networking/3-Protocols and Models/3.2 Protocol Suites.md",
-    "Networking/6-Data Link Layer/6.2 Topologies.md",
     "Networking/8-Transport",
     "Windows",
     "Networking/5-Conversions",

@@ -11,7 +11,7 @@
 - [x] ways to access device (ssh, telnet, console)
 - [x] fiber types
 - [ ] how frames travel
-- [ ] packet priority
+- [ ] packet priority (QoS)
 - [x] configuration commands
 - [x] where files are stored on devices
 - [x] purposes of switch configs
