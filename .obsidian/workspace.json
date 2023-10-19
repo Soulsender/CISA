@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/IOS Commands.md",
+                "file": "Windows/Chapters/8 Remote Access.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/IOS Commands.md",
+                "file": "Windows/Chapters/8 Remote Access.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/IOS Commands.md",
+                "file": "Windows/Chapters/8 Remote Access.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/IOS Commands.md"
+                "file": "Windows/Chapters/8 Remote Access.md"
               }
             }
           },
@@ -185,6 +185,8 @@
   },
   "active": "386e0a574d15f851",
   "lastOpenFiles": [
+    "Networking/IOS Commands.md",
+    "Windows/Chapters/8 Remote Access.md",
     "attachments/image/IOS Commands-1697756111664.jpeg",
     "attachments/image/IOS Commands-1697756111663.jpeg",
     "attachments/image/IOS Commands-1697756111660.jpeg",
@@ -195,9 +197,7 @@
     "attachments/image/IOS Commands-1697756111644.jpeg",
     "attachments/image/IOS Commands-1697756111640.jpeg",
     "attachments/image/IOS Commands-1697756111634.jpeg",
-    "attachments/image/IOS Commands-1697756111633.jpeg",
     "Networking/Midterm Notes.md",
-    "Networking/IOS Commands.md",
     "Windows/Active Directory.md",
     "Windows/Hyper V.md",
     "Windows/Chapters/7 DNS.md",
