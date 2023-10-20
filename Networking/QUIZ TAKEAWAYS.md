@@ -8,7 +8,7 @@
 #### Module 7
 - MAC addresses have to be globally unique
 - ethernet is supported by 802.3 IEEE
-#### Module 6
+#### Module 5
 ```
 0xC9
 C=12
@@ -16,8 +16,10 @@ C=12
 192+9=201
 0xC9 = 201
 ```
-#### Module 5
+#### Module 4
 - exchanging frames is part of data link layer
 - **bandwidth is the capacity  at which a medium can carry data**
-- **throughput is the measure of the transfer of bits over the media over a period of time**
-- **goodput is the measure of usable data transfere**
+- **throughput is the measure of the transfer of bits over a period of time**
+- **goodput is the measure of usable data transferred over a period of time**
+#### Module 3
+- 
