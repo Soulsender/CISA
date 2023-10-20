@@ -8,3 +8,4 @@
 #### Module 7
 - MAC addresses have to be globally unique
 - ethernet is supported by 802.3 IEEE
+#### Module 6
