@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/QUIZ TAKEAWAYS.md",
+                "file": "Networking/IOS Commands.md",
                 "mode": "preview",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/QUIZ TAKEAWAYS.md",
+                "file": "Networking/IOS Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/QUIZ TAKEAWAYS.md",
+                "file": "Networking/IOS Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/QUIZ TAKEAWAYS.md"
+                "file": "Networking/IOS Commands.md"
               }
             }
           },
@@ -173,6 +173,7 @@
   },
   "active": "f759ede2e1dfc434",
   "lastOpenFiles": [
+    "Networking/QUIZ TAKEAWAYS.md",
     "Windows/Chapters/6 DHCP.md",
     "Windows/Hyper V.md",
     "Windows/Partition Tables.md",
@@ -195,7 +196,6 @@
     "attachments/image/Advanced Components-1697816099499.jpeg",
     "attachments/image/Advanced Components-1697816099498.jpeg",
     "attachments/image/Advanced Components-1697816099496.jpeg",
-    "Networking/QUIZ TAKEAWAYS.md",
     "Desktop Support & Maintenance/3-Components/Motherboards.md",
     "Desktop Support & Maintenance/2-PC Technician Responsibilities/2.3 Protecting Power.md",
     "Desktop Support & Maintenance/2-PC Technician Responsibilities/3.2 Professionalism.md",
