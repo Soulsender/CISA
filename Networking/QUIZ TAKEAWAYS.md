@@ -16,3 +16,8 @@ C=12
 192+9=201
 0xC9 = 201
 ```
+#### Module 5
+- exchanging frames is part of data link layer
+- **bandwidth is the capacity  at which a medium can carry data**
+- **throughput is the measure of the transfer of bits over the media over a period of time**
+- **goodput is the measure of usable data transfere**
