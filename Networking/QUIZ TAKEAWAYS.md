@@ -9,3 +9,10 @@
 - MAC addresses have to be globally unique
 - ethernet is supported by 802.3 IEEE
 #### Module 6
+```
+0xC9
+C=12
+12x16=192
+192+9=201
+0xC9 = 201
+```
