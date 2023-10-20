@@ -6,3 +6,5 @@
 - IPv6 natively supports authentication and privacy 
 - packets on a LAN will be sent directly to their destination **they do not go through the default gateway**
 #### Module 7
+- MAC addresses have to be globally unique
+- ethernet is supported by 802.3 IEEE
