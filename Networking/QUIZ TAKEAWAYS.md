@@ -22,4 +22,4 @@ C=12
 - **throughput is the measure of the transfer of bits over a period of time**
 - **goodput is the measure of usable data transferred over a period of time**
 #### Module 3
-- 
+- **TCP COMES BEFORE IP**
