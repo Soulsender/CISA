@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows/Practice Questions.md",
+                "file": "Windows/Chapters/6 DHCP.md",
                 "mode": "preview",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows/Practice Questions.md",
+                "file": "Windows/Chapters/6 DHCP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows/Practice Questions.md",
+                "file": "Windows/Chapters/6 DHCP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows/Practice Questions.md"
+                "file": "Windows/Chapters/6 DHCP.md"
               }
             }
           },
@@ -173,10 +173,17 @@
   },
   "active": "f759ede2e1dfc434",
   "lastOpenFiles": [
-    "Windows/Partition Tables.md",
     "Windows/Hyper V.md",
-    "Windows/DNS Zones.md",
+    "Windows/Partition Tables.md",
     "Windows/Disks.md",
+    "Windows/Chapters/7 DNS.md",
+    "Windows/Chapters/6 DHCP.md",
+    "Windows/Chapters/2 Initial Configuration.md",
+    "Windows/Chapters/8 Remote Access.md",
+    "Windows/Practice Questions.md",
+    "Windows/Virtual Switches.md",
+    "Windows/SMB & NFS.md",
+    "Windows/DNS Zones.md",
     "Windows/Active Directory.md",
     "Desktop Support & Maintenance/Advanced Components.md",
     "attachments/image/Advanced Components-1697816099522.jpeg",
@@ -188,7 +195,6 @@
     "attachments/image/Advanced Components-1697816099499.jpeg",
     "attachments/image/Advanced Components-1697816099498.jpeg",
     "attachments/image/Advanced Components-1697816099496.jpeg",
-    "Windows/Chapters/8 Remote Access.md",
     "Networking/QUIZ TAKEAWAYS.md",
     "Desktop Support & Maintenance/3-Components/Motherboards.md",
     "Desktop Support & Maintenance/2-PC Technician Responsibilities/2.3 Protecting Power.md",
@@ -196,16 +202,10 @@
     "Desktop Support & Maintenance/2-PC Technician Responsibilities/4.2 Change Management.md",
     "Desktop Support & Maintenance/2-PC Technician Responsibilities/5.1 Maintenance Best Practices.md",
     "attachments/image/Hyper V-1697730896806.jpeg",
-    "Windows/Chapters/7 DNS.md",
-    "Windows/Practice Questions.md",
-    "Windows/SMB & NFS.md",
-    "Windows/Chapters/2 Initial Configuration.md",
-    "Windows/Chapters/6 DHCP.md",
     "Windows/Chapters",
     "Networking/Midterm Notes.md",
     "Networking/8-Transport/8.3 IPv4 and IPv6.md",
     "Networking/8-Transport/8.1 Routing.md",
-    "Windows/Virtual Switches.md",
     "Networking/8-Transport/Routing.md",
     "Database/Database Objects.md",
     "Networking/IOS Commands.md",
