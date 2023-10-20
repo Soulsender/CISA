@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/8-Transport/8.3 IPv4 and IPv6.md",
+                "file": "Networking/QUIZ TAKEAWAYS.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/8-Transport/8.3 IPv4 and IPv6.md",
+                "file": "Networking/QUIZ TAKEAWAYS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/8-Transport/8.3 IPv4 and IPv6.md",
+                "file": "Networking/QUIZ TAKEAWAYS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/8-Transport/8.3 IPv4 and IPv6.md"
+                "file": "Networking/QUIZ TAKEAWAYS.md"
               }
             }
           },
@@ -201,6 +201,8 @@
   },
   "active": "02a0c383954b8310",
   "lastOpenFiles": [
+    "Networking/8-Transport/8.3 IPv4 and IPv6.md",
+    "Networking/QUIZ TAKEAWAYS.md",
     "Networking/Midterm Notes.md",
     "Networking/6-Data Link Layer/6.2 Topologies.md",
     "Networking/6-Data Link Layer/6.3 Frames.md",
@@ -236,8 +238,6 @@
     "Windows/Partition Tables.md",
     "Windows/DNS Zones.md",
     "Windows/6 DHCP.md",
-    "Networking/3-Protocols and Models/3.1 The Rules.md",
-    "Networking/3-Protocols and Models/3.2 Protocol Suites.md",
     "Networking/8-Transport",
     "Windows",
     "Networking/5-Conversions",
