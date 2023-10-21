@@ -7,3 +7,6 @@
 	- `total capacity = (# of drives - 1) * smallest drive capacity`
 - RAID 1+0
 	- `total capacity = (# of drives / 2) * smallest drive capacity`
+#### Fake RAID
+- BIOS configured RAID
+- does not have an actual RAID controller
