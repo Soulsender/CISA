@@ -1,3 +1,6 @@
+#### Module 9
+- IP addresses are layer 3
+- ARP maps IP addresses to MAC addresses
 #### Module 8
 - MTU is how large a packet can be
 - IPv6 is a simpler header than IPv4
