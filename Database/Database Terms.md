@@ -47,34 +47,60 @@
 	- SSMS is just transact SQL under the hood
 
 #### Data Manipulation Language (DML)
-- SELECT
+- **SELECT**
 	- retrieves rows fromdb
 ```
 SELECT * FROM tableName
 ```
-- INSERT INTO
+- **INSERT INTO**
 	- adds one or more rows to a table or view
 ```
 INSERT INTO tableName (column1, column2, column3, ...)
-VALUES (value1, value2, value)
+VALUES (value1, value2, value3, ...);
 ```
-- UPDATE
+- **UPDATE**
 	- changes existing data
-- DELETE
+```sql
+UPDATE tableName  
+SET column1 = value1, column2 = value2, ...  
+WHERE condition;
+```
+- **DELETE**
 	- removes rows from table/view
-- MERGE
+```sql
+DELETE FROM tableName WHERE condition;
+```
+- **MERGE**
 	- performs insert, update, or delete operations on a target table
+```sql
+MERGE TargetProducts AS Target
+USING SourceProducts AS Source
+ON Source.ProductID = Target.ProductID
 
+-- For Inserts
+WHEN NOT MATCHED BY Target THEN
+    INSERT (ProductID,ProductName, Price)
+    VALUES (Source.ProductID,Source.ProductName, Source.Price)
+
+-- For Updates
+WHEN MATCHED THEN UPDATE SET
+    Target.ProductName = Source.ProductName,
+    Target.Price = Source.Price
+
+-- For Deletes
+WHEN NOT MATCHED BY Source THEN
+    DELETE;
+```
 #### Data Definition Language (DDL)
-- USE
+- **USE**
 	  changes database context
-- CREATE
+- **CREATE**
 	- creates SQL server database object (table/view)
-- ALTER
+- **ALTER**
 	- changes existing object
-- DROP
+- **DROP**
 	- removes an object from the db
-- TRUNCATE
+- **TRUNCATE**
 	- removes rows from table and frees the space removed
-- DELETE
+- **DELETE**
 	- removes rows from table but does not free spaced removed
