@@ -34,26 +34,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/QUIZ TAKEAWAYS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "421544150c8d88e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Desktop Support & Maintenance/RAID.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "41aa823b09a2885b",
@@ -138,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Desktop Support & Maintenance/RAID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Desktop Support & Maintenance/RAID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Desktop Support & Maintenance/RAID.md"
               }
             }
           },
@@ -211,9 +199,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "421544150c8d88e6",
+  "active": "02a0c383954b8310",
   "lastOpenFiles": [
     "Networking/QUIZ TAKEAWAYS.md",
+    "Desktop Support & Maintenance/RAID.md",
     "conflict-files-obsidian-git.md",
     "attachments/image/QUIZ TAKEAWAYS-1697866370954.jpeg",
     "attachments/image/QUIZ TAKEAWAYS-1697866370951.jpeg",
@@ -249,7 +238,6 @@
     "Database/Database Objects.md",
     "Windows/Virtual Switches.md",
     "Windows/Partition Tables.md",
-    "Windows/DNS Zones.md",
     "Networking/8-Transport",
     "Windows",
     "Networking/5-Conversions",
