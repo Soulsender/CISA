@@ -60,9 +60,25 @@ CREATE TABLE tableName (
 ```
 - **ALTER**
 	- changes existing object
+```sql
+ALTER TABLE tableName
+ADD columnName datatype;
+
+ALTER TABLE tableName
+DROP COLUMN columnName;
+```
 - **DROP**
 	- removes an object from the db
+```sql
+DROP TABLE tableName;
+```
 - **TRUNCATE**
 	- removes rows from table and frees the space removed
+```sql
+TRUNCATE TABLE tableName;
+```
 - **DELETE**
 	- removes rows from table but does not free spaced removed
+```sql
+DELETE FROM tableName WHERE name='John Name';
+```
