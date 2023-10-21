@@ -7,4 +7,3 @@
 	- the smallest addressable data unit
 - cluster
 	- represents the smallest allocable unit of space
-	- 

@@ -95,3 +95,4 @@
 	- reinforced slot with metal frame that provides additional structural support
 - multiple Gbps by 8 to get GBps
 ![[Pasted image 20231005110733.png]]
+![[Advanced Components-1697917740289.jpeg]]

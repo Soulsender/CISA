@@ -6,7 +6,6 @@
       {
         "id": "fa4fa3a7384b6702",
         "type": "tabs",
-        "dimension": 45.803249097472914,
         "children": [
           {
             "id": "386e0a574d15f851",
@@ -34,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desktop Support & Maintenance/Storage.md",
+                "file": "Desktop Support & Maintenance/Advanced Components.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,25 +41,6 @@
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "41aa823b09a2885b",
-        "type": "tabs",
-        "dimension": 54.196750902527086,
-        "children": [
-          {
-            "id": "976e052b8591f664",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking/Midterm Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desktop Support & Maintenance/Storage.md",
+                "file": "Desktop Support & Maintenance/Advanced Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desktop Support & Maintenance/Storage.md",
+                "file": "Desktop Support & Maintenance/Advanced Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desktop Support & Maintenance/Storage.md"
+                "file": "Desktop Support & Maintenance/Advanced Components.md"
               }
             }
           },
@@ -201,8 +181,9 @@
   },
   "active": "02a0c383954b8310",
   "lastOpenFiles": [
-    "Desktop Support & Maintenance/RAID.md",
+    "attachments/image/Advanced Components-1697917740289.jpeg",
     "Desktop Support & Maintenance/Storage.md",
+    "Desktop Support & Maintenance/RAID.md",
     "Desktop Support & Maintenance/3-Components/Storage.md",
     "Networking/QUIZ TAKEAWAYS.md",
     "conflict-files-obsidian-git.md",
@@ -237,7 +218,6 @@
     "Windows/SMB & NFS.md",
     "Windows/Chapters",
     "Database/Database Terms.md",
-    "Database/Database Objects.md",
     "Networking/8-Transport",
     "Windows",
     "Networking/5-Conversions",
