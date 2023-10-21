@@ -49,8 +49,15 @@
 #### Data Manipulation Language (DML)
 - SELECT
 	- retrieves rows fromdb
-- INSERT
+```
+SELECT * FROM tableName
+```
+- INSERT INTO
 	- adds one or more rows to a table or view
+```
+INSERT INTO tableName (column1, column2, column3, ...)
+VALUES (value1, value2, value)
+```
 - UPDATE
 	- changes existing data
 - DELETE
