@@ -33,8 +33,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Database Terms.md",
-                "mode": "source",
+                "file": "Desktop Support & Maintenance/2-PC Technician Responsibilities/1.1 Safety.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Database Terms.md",
+                "file": "Desktop Support & Maintenance/2-PC Technician Responsibilities/1.1 Safety.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/Database Terms.md",
+                "file": "Desktop Support & Maintenance/2-PC Technician Responsibilities/1.1 Safety.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/Database Terms.md"
+                "file": "Desktop Support & Maintenance/2-PC Technician Responsibilities/1.1 Safety.md"
               }
             }
           },
@@ -181,9 +181,11 @@
   },
   "active": "02a0c383954b8310",
   "lastOpenFiles": [
+    "Desktop Support & Maintenance/1-Introduction/1.10 Network and Server Cabinets.md",
+    "Desktop Support & Maintenance/1-Introduction/1.2 Computing Basics.md",
+    "Database/Database Terms.md",
     "Database/Database Objects.md",
     "Database/Commands.md",
-    "Database/Database Terms.md",
     "Desktop Support & Maintenance/Advanced Components.md",
     "Desktop Support & Maintenance/RAID.md",
     "Desktop Support & Maintenance/2-PC Technician Responsibilities/7.1 Troubleshooting Process.md",
@@ -215,8 +217,6 @@
     "Networking/IOS Commands.md",
     "Windows/Active Directory.md",
     "Windows/Hyper V.md",
-    "Windows/Chapters/7 DNS.md",
-    "Windows/Chapters/6 DHCP.md",
     "Windows/Chapters",
     "Networking/8-Transport",
     "Windows",
