@@ -4,6 +4,10 @@
 - index
 - table
 - XQuery
+- file types
+	- primary `.mdf`
+	- secondary `.ndf`
+	- log files `ldf`
 #### Constraints
 - limitations or rules placed on a field
 - ex. age cannot be negative number
@@ -26,7 +30,6 @@
 - foreign key
 	- reference another parent table
 	- basically like a pointer
-
 #### Database Types
 - flat-type database
 	- two dimensional table of rows and columns
@@ -37,7 +40,6 @@
 - relational database
 	- similar to hierarchical database
 	- can have multiple parents
-
 #### Interactions
 - SQL CMD
 	- command line application that allows SQL queries to be written and executed from cmd
@@ -45,3 +47,4 @@
 	- primary means of programming and managing SQL server
 	- exposes keywords
 	- SSMS is just transact SQL under the hood
+
