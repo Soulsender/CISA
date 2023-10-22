@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desktop Support & Maintenance/2-PC Technician Responsibilities/1.1 Safety.md",
+                "file": "Desktop Support & Maintenance/2-PC Technician Responsibilities/5.1 Maintenance Best Practices.md",
                 "mode": "preview",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desktop Support & Maintenance/2-PC Technician Responsibilities/1.1 Safety.md",
+                "file": "Desktop Support & Maintenance/2-PC Technician Responsibilities/5.1 Maintenance Best Practices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desktop Support & Maintenance/2-PC Technician Responsibilities/1.1 Safety.md",
+                "file": "Desktop Support & Maintenance/2-PC Technician Responsibilities/5.1 Maintenance Best Practices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desktop Support & Maintenance/2-PC Technician Responsibilities/1.1 Safety.md"
+                "file": "Desktop Support & Maintenance/2-PC Technician Responsibilities/5.1 Maintenance Best Practices.md"
               }
             }
           },
@@ -181,6 +181,10 @@
   },
   "active": "02a0c383954b8310",
   "lastOpenFiles": [
+    "Desktop Support & Maintenance/2-PC Technician Responsibilities/3.2 Professionalism.md",
+    "Desktop Support & Maintenance/2-PC Technician Responsibilities/2.3 Protecting Power.md",
+    "Desktop Support & Maintenance/2-PC Technician Responsibilities/2.1 Enviromental Concerns.md",
+    "Desktop Support & Maintenance/2-PC Technician Responsibilities/1.1 Safety.md",
     "Desktop Support & Maintenance/1-Introduction/1.10 Network and Server Cabinets.md",
     "Desktop Support & Maintenance/1-Introduction/1.2 Computing Basics.md",
     "Database/Database Terms.md",
@@ -213,10 +217,6 @@
     "Networking/7-Ethernet Switching/7.3 Sending Frames.md",
     "Networking/7-Ethernet Switching/7.2 Mac Addresses.md",
     "Networking/Reference Models.md",
-    "Windows/Chapters/8 Remote Access.md",
-    "Networking/IOS Commands.md",
-    "Windows/Active Directory.md",
-    "Windows/Hyper V.md",
     "Windows/Chapters",
     "Networking/8-Transport",
     "Windows",
