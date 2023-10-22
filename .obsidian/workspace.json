@@ -33,8 +33,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desktop Support & Maintenance/2-PC Technician Responsibilities/5.1 Maintenance Best Practices.md",
-                "mode": "preview",
+                "file": "Desktop Support & Maintenance/3-Components/Motherboards.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desktop Support & Maintenance/2-PC Technician Responsibilities/5.1 Maintenance Best Practices.md",
+                "file": "Desktop Support & Maintenance/3-Components/Motherboards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desktop Support & Maintenance/2-PC Technician Responsibilities/5.1 Maintenance Best Practices.md",
+                "file": "Desktop Support & Maintenance/3-Components/Motherboards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desktop Support & Maintenance/2-PC Technician Responsibilities/5.1 Maintenance Best Practices.md"
+                "file": "Desktop Support & Maintenance/3-Components/Motherboards.md"
               }
             }
           },
@@ -181,6 +181,8 @@
   },
   "active": "02a0c383954b8310",
   "lastOpenFiles": [
+    "Desktop Support & Maintenance/2-PC Technician Responsibilities/6.1 PC and Networking Tools.md",
+    "Desktop Support & Maintenance/2-PC Technician Responsibilities/5.1 Maintenance Best Practices.md",
     "Desktop Support & Maintenance/2-PC Technician Responsibilities/3.2 Professionalism.md",
     "Desktop Support & Maintenance/2-PC Technician Responsibilities/2.3 Protecting Power.md",
     "Desktop Support & Maintenance/2-PC Technician Responsibilities/2.1 Enviromental Concerns.md",
@@ -215,8 +217,6 @@
     "Networking/6-Data Link Layer/6.3 Frames.md",
     "Networking/7-Ethernet Switching/7.1 Encapsulation.md",
     "Networking/7-Ethernet Switching/7.3 Sending Frames.md",
-    "Networking/7-Ethernet Switching/7.2 Mac Addresses.md",
-    "Networking/Reference Models.md",
     "Windows/Chapters",
     "Networking/8-Transport",
     "Windows",
