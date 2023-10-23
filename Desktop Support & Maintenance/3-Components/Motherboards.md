@@ -19,7 +19,12 @@
 - relays communication between the CPU, memory, and peripheral devices
 - Intel uses PCH platform controller hub
 - AMD uses FCH fusion controller hub
-
+- **northbridge**
+	- high speed components
+	- RAM, GPU PCIe slot
+- **southbridge**
+	- I/O functions
+	- USB, SATA, ethernet
 #### BIOS & UEFI
 - older motherboards use CMOS chip and battery
 - newer motherboards use EEPROM (electronically erasable programable read only memory)

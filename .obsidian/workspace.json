@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d33f1a4c692fd405",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/4-Physical Layer/4.3 Copper Cabling.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/4-Physical Layer/4.3 Copper Cabling.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/4-Physical Layer/4.3 Copper Cabling.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -171,8 +183,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f759ede2e1dfc434",
+  "active": "d33f1a4c692fd405",
   "lastOpenFiles": [
+    "Networking/4-Physical Layer/4.3 Copper Cabling.md",
+    "conflict-files-obsidian-git.md",
+    "attachments/image/4.3 Copper Cabling-1698075500590.jpeg",
+    "attachments/image/4.3 Copper Cabling-1698075500588.jpeg",
+    "attachments/image/4.3 Copper Cabling-1698075500587.jpeg",
+    "attachments/image/4.3 Copper Cabling-1698075500586.jpeg",
+    "attachments/image/4.3 Copper Cabling-1698075500574.jpeg",
+    "attachments/image/4.3 Copper Cabling-1698075500572.jpeg",
+    "attachments/image/4.3 Copper Cabling-1698075500565.jpeg",
+    "attachments/image/4.3 Copper Cabling-1698075500563.jpeg",
+    "attachments/image/4.3 Copper Cabling-1698075500560.jpeg",
+    "attachments/image/4.3 Copper Cabling-1698075500539.jpeg",
+    "Desktop Support & Maintenance/Storage.md",
+    "Desktop Support & Maintenance/RAID.md",
+    "Database/Commands.md",
     "Networking/4-Physical Layer/4.4 UTP Cabling.md",
     "Networking/6-Data Link Layer/6.2 Topologies.md",
     "Networking/6-Data Link Layer/6.1 Purpose.md",
@@ -192,24 +219,9 @@
     "Windows/DNS Zones.md",
     "Windows/Active Directory.md",
     "Desktop Support & Maintenance/Advanced Components.md",
-    "attachments/image/Advanced Components-1697816099522.jpeg",
-    "attachments/image/Advanced Components-1697816099520.jpeg",
-    "attachments/image/Advanced Components-1697816099519.jpeg",
-    "attachments/image/Advanced Components-1697816099515.jpeg",
-    "attachments/image/Advanced Components-1697816099509.jpeg",
-    "attachments/image/Advanced Components-1697816099502.jpeg",
-    "attachments/image/Advanced Components-1697816099499.jpeg",
-    "attachments/image/Advanced Components-1697816099498.jpeg",
-    "attachments/image/Advanced Components-1697816099496.jpeg",
     "Desktop Support & Maintenance/3-Components/Motherboards.md",
     "Desktop Support & Maintenance/2-PC Technician Responsibilities/2.3 Protecting Power.md",
-    "Desktop Support & Maintenance/2-PC Technician Responsibilities/3.2 Professionalism.md",
-    "Desktop Support & Maintenance/2-PC Technician Responsibilities/4.2 Change Management.md",
-    "Desktop Support & Maintenance/2-PC Technician Responsibilities/5.1 Maintenance Best Practices.md",
-    "attachments/image/Hyper V-1697730896806.jpeg",
     "Windows/Chapters",
-    "Networking/Midterm Notes.md",
-    "Networking/8-Transport/8.3 IPv4 and IPv6.md",
     "Networking/8-Transport",
     "Windows",
     "Networking/5-Conversions",

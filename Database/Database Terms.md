@@ -4,6 +4,10 @@
 - index
 - table
 - XQuery
+- file types
+	- primary `.mdf`
+	- secondary `.ndf`
+	- log files `ldf`
 #### Constraints
 - limitations or rules placed on a field
 - ex. age cannot be negative number
@@ -26,7 +30,6 @@
 - foreign key
 	- reference another parent table
 	- basically like a pointer
-
 #### Database Types
 - flat-type database
 	- two dimensional table of rows and columns
@@ -37,7 +40,6 @@
 - relational database
 	- similar to hierarchical database
 	- can have multiple parents
-
 #### Interactions
 - SQL CMD
 	- command line application that allows SQL queries to be written and executed from cmd
@@ -46,28 +48,3 @@
 	- exposes keywords
 	- SSMS is just transact SQL under the hood
 
-#### Data Manipulation Language (DML)
-- SELECT
-	- retrieves rows fromdb
-- INSERT
-	- adds one or more rows to a table or view
-- UPDATE
-	- changes existing data
-- DELETE
-	- removes rows from table/view
-- MERGE
-	- performs insert, update, or delete operations on a target table
-
-#### Data Definition Language (DDL)
-- USE
-	  changes database context
-- CREATE
-	- creates SQL server database object (table/view)
-- ALTER
-	- changes existing object
-- DROP
-	- removes an object from the db
-- TRUNCATE
-	- removes rows from table and frees the space removed
-- DELETE
-	- removes rows from table but does not free spaced removed
