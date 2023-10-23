@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/6-Data Link Layer/6.2 Topologies.md",
+                "file": "Networking/4-Physical Layer/4.3 Copper Cabling.md",
                 "mode": "preview",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/6-Data Link Layer/6.2 Topologies.md",
+                "file": "Networking/4-Physical Layer/4.3 Copper Cabling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/6-Data Link Layer/6.2 Topologies.md",
+                "file": "Networking/4-Physical Layer/4.3 Copper Cabling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/6-Data Link Layer/6.2 Topologies.md"
+                "file": "Networking/4-Physical Layer/4.3 Copper Cabling.md"
               }
             }
           },
@@ -173,6 +173,8 @@
   },
   "active": "f759ede2e1dfc434",
   "lastOpenFiles": [
+    "Networking/4-Physical Layer/4.4 UTP Cabling.md",
+    "Networking/6-Data Link Layer/6.2 Topologies.md",
     "Networking/6-Data Link Layer/6.1 Purpose.md",
     "Networking/7-Ethernet Switching/7.2 Mac Addresses.md",
     "Networking/IOS Commands.md",
@@ -208,8 +210,6 @@
     "Windows/Chapters",
     "Networking/Midterm Notes.md",
     "Networking/8-Transport/8.3 IPv4 and IPv6.md",
-    "Networking/8-Transport/8.1 Routing.md",
-    "Networking/8-Transport/Routing.md",
     "Networking/8-Transport",
     "Windows",
     "Networking/5-Conversions",
