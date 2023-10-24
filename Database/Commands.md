@@ -3,7 +3,8 @@
 - **SELECT**
 	- retrieves rows fromdb
 ```sql
-SELECT * FROM tableName
+SELECT * FROM tableName;
+SELECT column1, column2 FROM tableName;
 ```
 - **INSERT INTO**
 	- adds one or more rows to a table or view
