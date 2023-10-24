@@ -18,6 +18,10 @@ VALUES (value1, value2, value3, ...);
 UPDATE tableName  
 SET column1 = value1, column2 = value2, ...  
 WHERE condition;
+
+UPDATE employees 
+SET salary = salary * 1.1 
+WHERE department = 'Marketing';
 ```
 - **DELETE**
 	- removes rows from table/view
