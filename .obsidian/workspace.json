@@ -4,35 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "d805bfd24851342d",
+        "id": "fa4fa3a7384b6702",
         "type": "tabs",
         "children": [
           {
-            "id": "3d1a81fe4e894d9f",
+            "id": "386e0a574d15f851",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows/Chapters/2 Initial Configuration.md",
-                "mode": "source",
+                "file": "Networking/6-Data Link Layer/6.2 Topologies.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "f759ede2e1dfc434",
+            "id": "faef82a91f1ae4a7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "02a0c383954b8310",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desktop Support & Maintenance/3-Components/Motherboards.md",
-                "mode": "preview",
+                "file": "Database/Constraints.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desktop Support & Maintenance/3-Components/Motherboards.md",
+                "file": "Database/Constraints.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desktop Support & Maintenance/3-Components/Motherboards.md",
+                "file": "Database/Constraints.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desktop Support & Maintenance/3-Components/Motherboards.md"
+                "file": "Database/Constraints.md"
               }
             }
           },
@@ -171,53 +179,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f759ede2e1dfc434",
+  "active": "02a0c383954b8310",
   "lastOpenFiles": [
-    "Desktop Support & Maintenance/3-Components/RAM.md",
+    "Database/Database Terms.md",
+    "Database/Constraints.md",
+    "Database/Commands.md",
+    "Database/Database Objects.md",
     "Desktop Support & Maintenance/3-Components/Motherboards.md",
-    "Desktop Support & Maintenance/Storage.md",
+    "attachments/image/Motherboards-1698112003165.jpeg",
+    "attachments/image/Motherboards-1698112003163.jpeg",
+    "attachments/image/Motherboards-1698112003162.jpeg",
+    "attachments/image/Motherboards-1698112003159.jpeg",
+    "attachments/image/Motherboards-1698112003149.jpeg",
+    "attachments/image/Motherboards-1698112002999.jpeg",
+    "attachments/image/Motherboards-1698112002998.jpeg",
+    "attachments/image/Motherboards-1698112002996.jpeg",
+    "attachments/image/Motherboards-1698112002995.jpeg",
+    "attachments/image/Motherboards-1698112002993.jpeg",
+    "Desktop Support & Maintenance/2-PC Technician Responsibilities/6.1 PC and Networking Tools.md",
+    "Desktop Support & Maintenance/2-PC Technician Responsibilities/5.1 Maintenance Best Practices.md",
+    "Desktop Support & Maintenance/2-PC Technician Responsibilities/3.2 Professionalism.md",
+    "Desktop Support & Maintenance/2-PC Technician Responsibilities/2.3 Protecting Power.md",
+    "Desktop Support & Maintenance/2-PC Technician Responsibilities/2.1 Enviromental Concerns.md",
+    "Desktop Support & Maintenance/2-PC Technician Responsibilities/1.1 Safety.md",
+    "Desktop Support & Maintenance/1-Introduction/1.10 Network and Server Cabinets.md",
+    "Desktop Support & Maintenance/1-Introduction/1.2 Computing Basics.md",
     "Desktop Support & Maintenance/Advanced Components.md",
     "Desktop Support & Maintenance/RAID.md",
-    "Networking/4-Physical Layer/4.3 Copper Cabling.md",
-    "conflict-files-obsidian-git.md",
-    "attachments/image/4.3 Copper Cabling-1698075500590.jpeg",
-    "attachments/image/4.3 Copper Cabling-1698075500588.jpeg",
-    "attachments/image/4.3 Copper Cabling-1698075500587.jpeg",
-    "attachments/image/4.3 Copper Cabling-1698075500586.jpeg",
-    "attachments/image/4.3 Copper Cabling-1698075500574.jpeg",
-    "attachments/image/4.3 Copper Cabling-1698075500572.jpeg",
-    "attachments/image/4.3 Copper Cabling-1698075500565.jpeg",
-    "attachments/image/4.3 Copper Cabling-1698075500563.jpeg",
-    "attachments/image/4.3 Copper Cabling-1698075500560.jpeg",
-    "attachments/image/4.3 Copper Cabling-1698075500539.jpeg",
-    "Database/Commands.md",
-    "Networking/4-Physical Layer/4.4 UTP Cabling.md",
-    "Networking/6-Data Link Layer/6.2 Topologies.md",
-    "Networking/6-Data Link Layer/6.1 Purpose.md",
-    "Networking/7-Ethernet Switching/7.2 Mac Addresses.md",
-    "Networking/IOS Commands.md",
+    "Desktop Support & Maintenance/2-PC Technician Responsibilities/7.1 Troubleshooting Process.md",
+    "Desktop Support & Maintenance/2-PC Technician Responsibilities/9.1 Documentation.md",
+    "Desktop Support & Maintenance/3-Components/RAM.md",
+    "Desktop Support & Maintenance/Storage.md",
+    "Desktop Support & Maintenance/3-Components/Storage.md",
     "Networking/QUIZ TAKEAWAYS.md",
-    "Windows/Chapters/6 DHCP.md",
-    "Windows/Hyper V.md",
-    "Windows/Partition Tables.md",
-    "Windows/Disks.md",
-    "Windows/Chapters/7 DNS.md",
-    "Windows/Chapters/2 Initial Configuration.md",
-    "Windows/Chapters/8 Remote Access.md",
-    "Windows/Practice Questions.md",
-    "Windows/Virtual Switches.md",
-    "Windows/SMB & NFS.md",
-    "Windows/DNS Zones.md",
-    "Windows/Active Directory.md",
+    "conflict-files-obsidian-git.md",
+    "Networking/8-Transport/8.3 IPv4 and IPv6.md",
+    "Networking/Midterm Notes.md",
+    "Networking/6-Data Link Layer/6.2 Topologies.md",
+    "Networking/6-Data Link Layer/6.3 Frames.md",
     "Windows/Chapters",
     "Networking/8-Transport",
     "Windows",
     "Networking/5-Conversions",
-    "Networking/4-Physical Layer/Untitled",
     "Networking/7-Ethernet Switching",
     "Networking/6-Data Link Layer",
     "Desktop Support & Maintenance/3-Components",
     "Networking/4-Physical Layer",
-    "Programming"
+    "Programming",
+    "Database/Untitled"
   ]
 }
