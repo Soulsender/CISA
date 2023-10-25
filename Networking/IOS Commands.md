@@ -46,3 +46,4 @@
 	- ex. `192.168.10.0 255.255.255.0 209.165.200.225`
 - `ip route {network address to connect} {subnet mask} {interface exit}`
 	- ex. `192.168.10.0 255.255.255.0 G0/0/1`
+- `ip default-gateway {router address}`
