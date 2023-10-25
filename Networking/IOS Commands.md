@@ -35,6 +35,7 @@
 - `password {password}` change user EXEC password (used in `line console 0` and `line vty 0 15`)
 - `login` enable user EXEC password access
 - `enable secret {password}` change priv EXEC password
+- `enable password {password}` change priv EXEC unencrypted password
 - `service password-encrypion` enable password encryption
 
 #### IP Addressing
