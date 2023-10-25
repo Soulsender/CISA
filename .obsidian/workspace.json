@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desktop Support & Maintenance/3-Components/Motherboards.md",
+                "file": "Desktop Support & Maintenance/Storage.md",
                 "mode": "preview",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desktop Support & Maintenance/3-Components/Motherboards.md",
+                "file": "Desktop Support & Maintenance/Storage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desktop Support & Maintenance/3-Components/Motherboards.md",
+                "file": "Desktop Support & Maintenance/Storage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desktop Support & Maintenance/3-Components/Motherboards.md"
+                "file": "Desktop Support & Maintenance/Storage.md"
               }
             }
           },
@@ -173,11 +173,11 @@
   },
   "active": "f759ede2e1dfc434",
   "lastOpenFiles": [
-    "Desktop Support & Maintenance/3-Components/RAM.md",
-    "Desktop Support & Maintenance/3-Components/Motherboards.md",
-    "Desktop Support & Maintenance/Storage.md",
-    "Desktop Support & Maintenance/Advanced Components.md",
     "Desktop Support & Maintenance/RAID.md",
+    "Desktop Support & Maintenance/Advanced Components.md",
+    "Desktop Support & Maintenance/3-Components/Motherboards.md",
+    "Desktop Support & Maintenance/3-Components/RAM.md",
+    "Desktop Support & Maintenance/Storage.md",
     "Networking/4-Physical Layer/4.3 Copper Cabling.md",
     "conflict-files-obsidian-git.md",
     "attachments/image/4.3 Copper Cabling-1698075500590.jpeg",
