@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "09be8cb00482d2cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking/IOS Commands.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b2d4cbfaf4dc48d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desktop Support & Maintenance/Storage.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desktop Support & Maintenance/Storage.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desktop Support & Maintenance/Storage.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -171,31 +195,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f759ede2e1dfc434",
+  "active": "9b2d4cbfaf4dc48d",
   "lastOpenFiles": [
+    "Networking/IOS Commands.md",
+    "conflict-files-obsidian-git.md",
+    "Desktop Support & Maintenance/Storage.md",
+    "attachments/image/Motherboards-1698112003165.jpeg",
+    "attachments/image/Motherboards-1698112003163.jpeg",
+    "attachments/image/Motherboards-1698112003162.jpeg",
+    "attachments/image/Motherboards-1698112003159.jpeg",
+    "attachments/image/Motherboards-1698112003149.jpeg",
+    "attachments/image/Motherboards-1698112002999.jpeg",
+    "attachments/image/Motherboards-1698112002998.jpeg",
+    "attachments/image/Motherboards-1698112002996.jpeg",
+    "attachments/image/Motherboards-1698112002995.jpeg",
+    "attachments/image/Motherboards-1698112002993.jpeg",
+    "Database/Constraints.md",
     "Desktop Support & Maintenance/RAID.md",
     "Desktop Support & Maintenance/Advanced Components.md",
     "Desktop Support & Maintenance/3-Components/Motherboards.md",
     "Desktop Support & Maintenance/3-Components/RAM.md",
-    "Desktop Support & Maintenance/Storage.md",
     "Networking/4-Physical Layer/4.3 Copper Cabling.md",
-    "conflict-files-obsidian-git.md",
-    "attachments/image/4.3 Copper Cabling-1698075500590.jpeg",
-    "attachments/image/4.3 Copper Cabling-1698075500588.jpeg",
-    "attachments/image/4.3 Copper Cabling-1698075500587.jpeg",
-    "attachments/image/4.3 Copper Cabling-1698075500586.jpeg",
-    "attachments/image/4.3 Copper Cabling-1698075500574.jpeg",
-    "attachments/image/4.3 Copper Cabling-1698075500572.jpeg",
-    "attachments/image/4.3 Copper Cabling-1698075500565.jpeg",
-    "attachments/image/4.3 Copper Cabling-1698075500563.jpeg",
-    "attachments/image/4.3 Copper Cabling-1698075500560.jpeg",
-    "attachments/image/4.3 Copper Cabling-1698075500539.jpeg",
     "Database/Commands.md",
     "Networking/4-Physical Layer/4.4 UTP Cabling.md",
     "Networking/6-Data Link Layer/6.2 Topologies.md",
     "Networking/6-Data Link Layer/6.1 Purpose.md",
     "Networking/7-Ethernet Switching/7.2 Mac Addresses.md",
-    "Networking/IOS Commands.md",
     "Networking/QUIZ TAKEAWAYS.md",
     "Windows/Chapters/6 DHCP.md",
     "Windows/Hyper V.md",
@@ -207,8 +232,6 @@
     "Windows/Practice Questions.md",
     "Windows/Virtual Switches.md",
     "Windows/SMB & NFS.md",
-    "Windows/DNS Zones.md",
-    "Windows/Active Directory.md",
     "Windows/Chapters",
     "Networking/8-Transport",
     "Windows",
