@@ -1,5 +1,5 @@
 
-#### Data Manipulation Language (DML)
+## Data Manipulation Language (DML)
 - **SELECT**
 	- retrieves rows fromdb
 ```sql
@@ -51,7 +51,23 @@ WHEN NOT MATCHED BY Source THEN
 ```
 - **UNION**
 	- combines results of two or more queries into resulting single set
-#### Data Definition Language (DDL)
+```sql
+SELECT first_name, last_name 
+FROM employees 
+WHERE department = ‘shipping’ 
+UNION 
+SELECT first_name, last_name 
+FROM employees 
+WHERE hire_date 
+BETWEEN ‘1-Jan-1990’ AND ‘1-Jan-2000’
+```
+- **JOIN**
+	- combines related data from multiple table sources
+	- types:
+		- inner joins - match related record from different tables
+		- outer joins - can include record from one/both tables that don't have corresponding record(s)
+		- cross joins - return all rows from multiple tables
+## Data Definition Language (DDL)
 - **USE**
 	  changes database context
 ```sql

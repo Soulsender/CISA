@@ -42,21 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d40bab2875a1af2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Database/Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Database/Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Database/Commands.md"
               }
             }
           },
@@ -195,10 +183,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d40bab2875a1af2d",
+  "active": "d366ae55b8eaecdb",
   "lastOpenFiles": [
-    "Database/Commands.md",
     "conflict-files-obsidian-git.md",
+    "Database/Commands.md",
     "Database/Database Terms.md",
     "Database/Database Objects.md",
     "Database/Constraints.md",
