@@ -67,6 +67,11 @@ BETWEEN ‘1-Jan-1990’ AND ‘1-Jan-2000’
 		- inner joins - match related record from different tables
 		- outer joins - can include record from one/both tables that don't have corresponding record(s)
 		- cross joins - return all rows from multiple tables
+```sql
+SELECT *
+FROM transactions INNER JOIN customers
+ON transactions.customer_id = customers.customer_id;
+```
 ## Data Definition Language (DDL)
 - **USE**
 	  changes database context
