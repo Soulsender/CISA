@@ -49,6 +49,8 @@ WHEN MATCHED THEN UPDATE SET
 WHEN NOT MATCHED BY Source THEN
     DELETE;
 ```
+- **UNION**
+	- combines results of two or more queries into resulting single set
 #### Data Definition Language (DDL)
 - **USE**
 	  changes database context

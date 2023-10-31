@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d366ae55b8eaecdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database/Commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d40bab2875a1af2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Database Terms.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/Database Terms.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/Database Terms.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -171,13 +195,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "02a0c383954b8310",
+  "active": "d40bab2875a1af2d",
   "lastOpenFiles": [
+    "Database/Commands.md",
+    "conflict-files-obsidian-git.md",
+    "Database/Database Terms.md",
     "Database/Database Objects.md",
     "Database/Constraints.md",
-    "Database/Commands.md",
     "Database/Windows Server.md",
-    "Database/Database Terms.md",
     "Desktop Support & Maintenance/3-Components/Motherboards.md",
     "attachments/image/Motherboards-1698112003165.jpeg",
     "attachments/image/Motherboards-1698112003163.jpeg",
@@ -205,7 +230,6 @@
     "Desktop Support & Maintenance/Storage.md",
     "Desktop Support & Maintenance/3-Components/Storage.md",
     "Networking/QUIZ TAKEAWAYS.md",
-    "conflict-files-obsidian-git.md",
     "Networking/8-Transport/8.3 IPv4 and IPv6.md",
     "Networking/Midterm Notes.md",
     "Networking/6-Data Link Layer/6.2 Topologies.md",
