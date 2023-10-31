@@ -61,8 +61,10 @@ FROM employees
 WHERE hire_date 
 BETWEEN ‘1-Jan-1990’ AND ‘1-Jan-2000’
 ```
+- **EXCEPT**
+	- returns distinct rows from left input query that aren't output by right input query
 - **INTERSECT**
-	- returns distinct rows from 
+	- returns distinct rows that are output by both left and right input queries
 - **JOIN**
 	- combines related data from multiple table sources
 	- types:
