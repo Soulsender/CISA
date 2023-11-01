@@ -77,4 +77,9 @@
 - data is kept seperate and secure from other orgs using the same provider
 - commonly used in finance, healthcare, and government
 #### Community Cloud
-- shared by sev
+- shared by several orgs
+- share by entities for common computing concerns (ie. security, compliance, etc.)
+- access restricted to users in org
+- hosted internally or on-prem
+- shares cost of maintenance and implementation
+- commonly hosted externally by third party
