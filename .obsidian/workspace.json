@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Commands.md",
-                "mode": "preview",
+                "file": "Networking/Subnet Classes.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Commands.md",
+                "file": "Networking/Subnet Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/Commands.md",
+                "file": "Networking/Subnet Classes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/Commands.md"
+                "file": "Networking/Subnet Classes.md"
               }
             }
           },
@@ -185,9 +185,10 @@
   },
   "active": "d366ae55b8eaecdb",
   "lastOpenFiles": [
+    "Database/Commands.md",
+    "Networking/Subnet Classes.md",
     "Desktop Support & Maintenance/4-Software/Cloud Computing.md",
     "Desktop Support & Maintenance/4-Software/Virtualization.md",
-    "Database/Commands.md",
     "Desktop Support & Maintenance/4-Software",
     "conflict-files-obsidian-git.md",
     "Database/Database Terms.md",
@@ -221,7 +222,6 @@
     "Desktop Support & Maintenance/Storage.md",
     "Desktop Support & Maintenance/3-Components/Storage.md",
     "Networking/QUIZ TAKEAWAYS.md",
-    "Networking/8-Transport/8.3 IPv4 and IPv6.md",
     "Windows/Chapters",
     "Networking/8-Transport",
     "Windows",
