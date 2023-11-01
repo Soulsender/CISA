@@ -83,3 +83,8 @@
 - hosted internally or on-prem
 - shares cost of maintenance and implementation
 - commonly hosted externally by third party
+- middle ground between public and private clouds
+#### Hybrid Cloud
+- composed of public, private, and community cloud resources
+- expands functionality of a given cloud service
+- suitable for businesses with varying workloads
