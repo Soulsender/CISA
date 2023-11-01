@@ -51,4 +51,30 @@
 - anti-virus
 - pentesting
 - security event management
-- can be 
+- can be more cost-effective
+- providers responsibility
+	- identity and access management
+	- threat detection
+	- encryption
+	- monitoring
+	- analyzing data
+	- providing reports
+- client responsibility
+	- managing user access and permissions
+	- responding to security incidents
+#### Identity as a Service (IDaaS)
+- access management services
+- single sign-on
+- 2fa
+- user provisioning
+#### Public Cloud
+- owned and operated by third party service providers
+- accessed by anyone
+- made available to general public by Cloud Service Providers (CSPs)
+#### Private Cloud
+- dedicated cloud environment used exclusively by single org
+- access is restricted to users within the org
+- data is kept seperate and secure from other orgs using the same provider
+- commonly used in finance, healthcare, and government
+#### Community Cloud
+- shared by sev
