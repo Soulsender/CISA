@@ -31,4 +31,24 @@
 	- writing and deploying apps
 	- management and protection of data
 #### Software as a Service (SaaS)
-- delivers sof
+- delivers software apps over the internet or LAN
+- **simple multi-tenancy**
+	- each customer has its own resources separate from other customers
+- **fine grain multi-tenancy**
+	- separates customers but resources are shared
+- Office 365
+- Dropbox
+- providers responsibility
+	- hosts and maintains software 
+	- updates and patches
+	- security measures
+- client responsibility
+	- account creation
+	- personal settings and preferences
+#### Security as a Service (SecaaS)
+- based on SaaS but is limited to infosec services and does not require on-prem hardware
+- authentication
+- anti-virus
+- pentesting
+- security event management
+- can be 
