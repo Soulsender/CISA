@@ -1,4 +1,5 @@
 - interface ID -> host bits
+- prefix -> network bits
 - prefix length -> subnet mask
 - public IP -> global unicast address (GUA)
 - link local address only significant on local network -> similar to private IP
