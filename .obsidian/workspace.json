@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/12-IPv6/SLAAC.md",
+                "file": "Networking/12-IPv6/Dynamic Address.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/12-IPv6/SLAAC.md",
+                "file": "Networking/12-IPv6/Dynamic Address.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/12-IPv6/SLAAC.md",
+                "file": "Networking/12-IPv6/Dynamic Address.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/12-IPv6/SLAAC.md"
+                "file": "Networking/12-IPv6/Dynamic Address.md"
               }
             }
           },
@@ -160,8 +160,9 @@
   },
   "active": "3d1a81fe4e894d9f",
   "lastOpenFiles": [
-    "Networking/IOS Commands.md",
     "Networking/12-IPv6/SLAAC.md",
+    "Networking/12-IPv6/Dynamic Address.md",
+    "Networking/IOS Commands.md",
     "Networking/12-IPv6/IPv6 Terms.md",
     "Networking/12-IPv6/Compressing addresses.md",
     "Windows/Chapters/2 Initial Configuration.md",
@@ -197,7 +198,6 @@
     "Windows/Chapters/6 DHCP.md",
     "Windows/Hyper V.md",
     "Windows/Partition Tables.md",
-    "Windows/Disks.md",
     "Windows/Chapters",
     "Networking/8-Transport",
     "Windows",
