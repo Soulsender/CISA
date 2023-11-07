@@ -47,3 +47,6 @@
 - `ip route {network address to connect} {subnet mask} {interface exit}`
 	- ex. `192.168.10.0 255.255.255.0 G0/0/1`
 - `ip default-gateway {router address}`
+#### IPv6
+- `ipv6 address fe80::1:1 link-local`
+- `ipv6 address 2001:db8::1/64`

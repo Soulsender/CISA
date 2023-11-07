@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/12-IPv6/IPv6 Terms.md",
+                "file": "Networking/12-IPv6/SLAAC.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/12-IPv6/IPv6 Terms.md",
+                "file": "Networking/12-IPv6/SLAAC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/12-IPv6/IPv6 Terms.md",
+                "file": "Networking/12-IPv6/SLAAC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/12-IPv6/IPv6 Terms.md"
+                "file": "Networking/12-IPv6/SLAAC.md"
               }
             }
           },
@@ -160,8 +160,10 @@
   },
   "active": "3d1a81fe4e894d9f",
   "lastOpenFiles": [
-    "Networking/12-IPv6/Compressing addresses.md",
+    "Networking/IOS Commands.md",
+    "Networking/12-IPv6/SLAAC.md",
     "Networking/12-IPv6/IPv6 Terms.md",
+    "Networking/12-IPv6/Compressing addresses.md",
     "Windows/Chapters/2 Initial Configuration.md",
     "Networking/12-IPv6",
     "conflict-files-obsidian-git.md",
@@ -171,7 +173,6 @@
     "Desktop Support & Maintenance/4-Software",
     "Desktop Support & Maintenance/Storage.md",
     "Database/Commands.md",
-    "Networking/IOS Commands.md",
     "attachments/image/Motherboards-1698112003165.jpeg",
     "attachments/image/Motherboards-1698112003163.jpeg",
     "attachments/image/Motherboards-1698112003162.jpeg",
@@ -197,7 +198,6 @@
     "Windows/Hyper V.md",
     "Windows/Partition Tables.md",
     "Windows/Disks.md",
-    "Windows/Chapters/7 DNS.md",
     "Windows/Chapters",
     "Networking/8-Transport",
     "Windows",
