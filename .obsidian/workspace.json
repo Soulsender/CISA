@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "56e260cc29ed7d39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows/Chapters/2 Initial Configuration.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows/Chapters/2 Initial Configuration.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows/Chapters/2 Initial Configuration.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -158,12 +171,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3d1a81fe4e894d9f",
+  "active": "56e260cc29ed7d39",
   "lastOpenFiles": [
+    "Windows/Chapters/2 Initial Configuration.md",
+    "conflict-files-obsidian-git.md",
+    "Networking/Subnet Classes.md",
+    "Desktop Support & Maintenance/4-Software/Virtualization.md",
+    "Desktop Support & Maintenance/4-Software/Cloud Computing.md",
+    "Desktop Support & Maintenance/4-Software",
     "Desktop Support & Maintenance/Storage.md",
     "Database/Commands.md",
     "Networking/IOS Commands.md",
-    "conflict-files-obsidian-git.md",
     "attachments/image/Motherboards-1698112003165.jpeg",
     "attachments/image/Motherboards-1698112003163.jpeg",
     "attachments/image/Motherboards-1698112003162.jpeg",
@@ -190,11 +208,8 @@
     "Windows/Partition Tables.md",
     "Windows/Disks.md",
     "Windows/Chapters/7 DNS.md",
-    "Windows/Chapters/2 Initial Configuration.md",
     "Windows/Chapters/8 Remote Access.md",
     "Windows/Practice Questions.md",
-    "Windows/Virtual Switches.md",
-    "Windows/SMB & NFS.md",
     "Windows/Chapters",
     "Networking/8-Transport",
     "Windows",
@@ -203,7 +218,6 @@
     "Networking/7-Ethernet Switching",
     "Networking/6-Data Link Layer",
     "Desktop Support & Maintenance/3-Components",
-    "Networking/4-Physical Layer",
-    "Programming"
+    "Networking/4-Physical Layer"
   ]
 }
