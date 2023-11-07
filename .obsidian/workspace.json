@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/12-IPv6/Compressing addresses.md",
+                "file": "Networking/12-IPv6/IPv6 Terms.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/12-IPv6/Compressing addresses.md",
+                "file": "Networking/12-IPv6/IPv6 Terms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/12-IPv6/Compressing addresses.md",
+                "file": "Networking/12-IPv6/IPv6 Terms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/12-IPv6/Compressing addresses.md"
+                "file": "Networking/12-IPv6/IPv6 Terms.md"
               }
             }
           },
@@ -160,8 +160,9 @@
   },
   "active": "3d1a81fe4e894d9f",
   "lastOpenFiles": [
-    "Windows/Chapters/2 Initial Configuration.md",
     "Networking/12-IPv6/Compressing addresses.md",
+    "Networking/12-IPv6/IPv6 Terms.md",
+    "Windows/Chapters/2 Initial Configuration.md",
     "Networking/12-IPv6",
     "conflict-files-obsidian-git.md",
     "Networking/Subnet Classes.md",
@@ -197,7 +198,6 @@
     "Windows/Partition Tables.md",
     "Windows/Disks.md",
     "Windows/Chapters/7 DNS.md",
-    "Windows/Chapters/8 Remote Access.md",
     "Windows/Chapters",
     "Networking/8-Transport",
     "Windows",

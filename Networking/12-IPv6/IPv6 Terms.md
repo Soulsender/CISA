@@ -1,0 +1,3 @@
+- interface ID -> host bits
+- prefix length -> subnet mask
+- public IP -> global unicast address
