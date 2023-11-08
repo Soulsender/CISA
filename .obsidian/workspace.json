@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "d805bfd24851342d",
+        "id": "fa4fa3a7384b6702",
         "type": "tabs",
         "children": [
           {
-            "id": "3d1a81fe4e894d9f",
+            "id": "386e0a574d15f851",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/12-IPv6/Dynamic Address.md",
+                "file": "Networking/6-Data Link Layer/6.2 Topologies.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02a0c383954b8310",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database/Normalization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d366ae55b8eaecdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking/Subnet Classes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/12-IPv6/Dynamic Address.md",
+                "file": "Database/Normalization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/12-IPv6/Dynamic Address.md",
+                "file": "Database/Normalization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/12-IPv6/Dynamic Address.md"
+                "file": "Database/Normalization.md"
               }
             }
           },
@@ -158,22 +183,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3d1a81fe4e894d9f",
+  "active": "02a0c383954b8310",
   "lastOpenFiles": [
+    "Database/Database Terms.md",
+    "Database/Normalization.md",
     "Networking/12-IPv6/IPv6 Terms.md",
     "Networking/12-IPv6/SLAAC.md",
     "Networking/12-IPv6/Dynamic Address.md",
-    "Networking/IOS Commands.md",
     "Networking/12-IPv6/Compressing addresses.md",
-    "Windows/Chapters/2 Initial Configuration.md",
     "Networking/12-IPv6",
-    "conflict-files-obsidian-git.md",
     "Networking/Subnet Classes.md",
-    "Desktop Support & Maintenance/4-Software/Virtualization.md",
-    "Desktop Support & Maintenance/4-Software/Cloud Computing.md",
-    "Desktop Support & Maintenance/4-Software",
-    "Desktop Support & Maintenance/Storage.md",
     "Database/Commands.md",
+    "Desktop Support & Maintenance/4-Software/Cloud Computing.md",
+    "Desktop Support & Maintenance/4-Software/Virtualization.md",
+    "Desktop Support & Maintenance/4-Software",
+    "conflict-files-obsidian-git.md",
+    "Database/Database Objects.md",
+    "Database/Constraints.md",
+    "Database/Windows Server.md",
+    "Desktop Support & Maintenance/3-Components/Motherboards.md",
     "attachments/image/Motherboards-1698112003165.jpeg",
     "attachments/image/Motherboards-1698112003163.jpeg",
     "attachments/image/Motherboards-1698112003162.jpeg",
@@ -184,27 +212,24 @@
     "attachments/image/Motherboards-1698112002996.jpeg",
     "attachments/image/Motherboards-1698112002995.jpeg",
     "attachments/image/Motherboards-1698112002993.jpeg",
-    "Database/Constraints.md",
-    "Desktop Support & Maintenance/RAID.md",
+    "Desktop Support & Maintenance/2-PC Technician Responsibilities/6.1 PC and Networking Tools.md",
+    "Desktop Support & Maintenance/2-PC Technician Responsibilities/5.1 Maintenance Best Practices.md",
+    "Desktop Support & Maintenance/2-PC Technician Responsibilities/3.2 Professionalism.md",
+    "Desktop Support & Maintenance/2-PC Technician Responsibilities/2.3 Protecting Power.md",
+    "Desktop Support & Maintenance/2-PC Technician Responsibilities/2.1 Enviromental Concerns.md",
+    "Desktop Support & Maintenance/2-PC Technician Responsibilities/1.1 Safety.md",
+    "Desktop Support & Maintenance/1-Introduction/1.10 Network and Server Cabinets.md",
+    "Desktop Support & Maintenance/1-Introduction/1.2 Computing Basics.md",
     "Desktop Support & Maintenance/Advanced Components.md",
-    "Desktop Support & Maintenance/3-Components/Motherboards.md",
-    "Desktop Support & Maintenance/3-Components/RAM.md",
-    "Networking/4-Physical Layer/4.3 Copper Cabling.md",
-    "Networking/4-Physical Layer/4.4 UTP Cabling.md",
-    "Networking/6-Data Link Layer/6.2 Topologies.md",
-    "Networking/6-Data Link Layer/6.1 Purpose.md",
-    "Networking/7-Ethernet Switching/7.2 Mac Addresses.md",
-    "Networking/QUIZ TAKEAWAYS.md",
-    "Windows/Chapters/6 DHCP.md",
-    "Windows/Hyper V.md",
-    "Windows/Partition Tables.md",
+    "Desktop Support & Maintenance/RAID.md",
+    "Desktop Support & Maintenance/2-PC Technician Responsibilities/7.1 Troubleshooting Process.md",
     "Windows/Chapters",
     "Networking/8-Transport",
     "Windows",
     "Networking/5-Conversions",
-    "Networking/4-Physical Layer/Untitled",
     "Networking/7-Ethernet Switching",
     "Networking/6-Data Link Layer",
-    "Desktop Support & Maintenance/3-Components"
+    "Desktop Support & Maintenance/3-Components",
+    "Networking/4-Physical Layer"
   ]
 }
