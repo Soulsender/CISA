@@ -1,6 +1,7 @@
 #### Forms
 - first normalization form (1NF) eliminate repeating groups
 	- no duplicate records
+	- must have primary key
 	- cannot have multivalued attributes
 	- entries must be same data type
 - second normalization form (2NF) eliminate redundant data
