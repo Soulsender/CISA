@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Normalization.md",
-                "mode": "source",
+                "file": "Networking/IOS Commands.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Normalization.md",
+                "file": "Networking/IOS Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/Normalization.md",
+                "file": "Networking/IOS Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/Normalization.md"
+                "file": "Networking/IOS Commands.md"
               }
             }
           },
@@ -185,12 +185,12 @@
   },
   "active": "02a0c383954b8310",
   "lastOpenFiles": [
-    "Database/Database Terms.md",
-    "Database/Normalization.md",
     "Networking/12-IPv6/IPv6 Terms.md",
     "Networking/12-IPv6/SLAAC.md",
     "Networking/12-IPv6/Dynamic Address.md",
     "Networking/12-IPv6/Compressing addresses.md",
+    "Database/Normalization.md",
+    "Database/Database Terms.md",
     "Networking/12-IPv6",
     "Networking/Subnet Classes.md",
     "Database/Commands.md",
