@@ -11,5 +11,6 @@
 	- transitive dependencies
 		- when attribute1 is dependent on attribute 2 which depends on the primary key
 	- must not contain columns that aren't fully dependent on the primary key
+	- cannot be a product of something from another column (ie. something multiplied)
 - fourth normalization form (4NF) isolate independent multiple relationships
 - fifth normalization form (5NF) isolate semantically related multiple relationships
