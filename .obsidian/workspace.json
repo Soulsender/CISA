@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows/Skills Exam.md",
+                "file": "Networking/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows/Skills Exam.md",
+                "file": "Networking/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows/Skills Exam.md",
+                "file": "Networking/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows/Skills Exam.md"
+                "file": "Networking/4-Physical Layer/4.5 Fiber-Optic Cabling.md"
               }
             }
           },
@@ -185,8 +185,18 @@
   },
   "active": "02a0c383954b8310",
   "lastOpenFiles": [
-    "Networking/IOS Commands.md",
+    "Networking/1-Networking Today/Overview.md",
+    "Windows/Virtual Switches.md",
+    "Windows/SMB & NFS.md",
+    "Windows/Partition Tables.md",
     "Windows/Skills Exam.md",
+    "Windows/Practice Questions.md",
+    "Windows/Disks.md",
+    "Windows/DNS Zones.md",
+    "Windows/Chapters/7 DNS.md",
+    "Windows/Chapters/6 DHCP.md",
+    "Windows/Chapters/2 Initial Configuration.md",
+    "Networking/IOS Commands.md",
     "Networking/12-IPv6/IPv6 Terms.md",
     "Networking/12-IPv6/SLAAC.md",
     "Networking/12-IPv6/Dynamic Address.md",
@@ -203,7 +213,6 @@
     "Database/Database Objects.md",
     "Database/Constraints.md",
     "Database/Windows Server.md",
-    "Desktop Support & Maintenance/3-Components/Motherboards.md",
     "attachments/image/Motherboards-1698112003165.jpeg",
     "attachments/image/Motherboards-1698112003163.jpeg",
     "attachments/image/Motherboards-1698112003162.jpeg",
@@ -214,15 +223,6 @@
     "attachments/image/Motherboards-1698112002996.jpeg",
     "attachments/image/Motherboards-1698112002995.jpeg",
     "attachments/image/Motherboards-1698112002993.jpeg",
-    "Desktop Support & Maintenance/2-PC Technician Responsibilities/6.1 PC and Networking Tools.md",
-    "Desktop Support & Maintenance/2-PC Technician Responsibilities/5.1 Maintenance Best Practices.md",
-    "Desktop Support & Maintenance/2-PC Technician Responsibilities/3.2 Professionalism.md",
-    "Desktop Support & Maintenance/2-PC Technician Responsibilities/2.3 Protecting Power.md",
-    "Desktop Support & Maintenance/2-PC Technician Responsibilities/2.1 Enviromental Concerns.md",
-    "Desktop Support & Maintenance/2-PC Technician Responsibilities/1.1 Safety.md",
-    "Desktop Support & Maintenance/1-Introduction/1.10 Network and Server Cabinets.md",
-    "Desktop Support & Maintenance/1-Introduction/1.2 Computing Basics.md",
-    "Desktop Support & Maintenance/Advanced Components.md",
     "Windows/Chapters",
     "Networking/8-Transport",
     "Windows",
