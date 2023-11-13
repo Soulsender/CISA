@@ -36,3 +36,7 @@ USE Family CREATE USER ‘XPS\Lauren’, ‘LRN’
 USE AdventureWorks; 
 CREATE ROLE auditors AUTHORIZATION db_securityadmin; GO
 ```
+#### Granting Object Permissions
+```sql
+GRANT Permission, Permission ON Object TO User/role, User/role WITH GRANT OPTION
+```
