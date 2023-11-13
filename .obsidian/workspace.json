@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows/Skills Exam.md",
+                "file": "Database/Security.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows/Skills Exam.md",
+                "file": "Database/Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows/Skills Exam.md",
+                "file": "Database/Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows/Skills Exam.md"
+                "file": "Database/Security.md"
               }
             }
           },
@@ -185,13 +185,14 @@
   },
   "active": "02a0c383954b8310",
   "lastOpenFiles": [
+    "Database/Commands.md",
     "Database/Security.md",
+    "Windows/Skills Exam.md",
     "Networking/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
     "Networking/1-Networking Today/Overview.md",
     "Windows/Virtual Switches.md",
     "Windows/SMB & NFS.md",
     "Windows/Partition Tables.md",
-    "Windows/Skills Exam.md",
     "Windows/Practice Questions.md",
     "Windows/Disks.md",
     "Windows/DNS Zones.md",
@@ -207,7 +208,6 @@
     "Database/Database Terms.md",
     "Networking/12-IPv6",
     "Networking/Subnet Classes.md",
-    "Database/Commands.md",
     "Desktop Support & Maintenance/4-Software/Cloud Computing.md",
     "Desktop Support & Maintenance/4-Software/Virtualization.md",
     "Desktop Support & Maintenance/4-Software",
