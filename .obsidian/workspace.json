@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Security.md",
+                "file": "Database/Backups.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Security.md",
+                "file": "Database/Backups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/Security.md",
+                "file": "Database/Backups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/Security.md"
+                "file": "Database/Backups.md"
               }
             }
           },
@@ -185,8 +185,9 @@
   },
   "active": "02a0c383954b8310",
   "lastOpenFiles": [
-    "Database/Commands.md",
     "Database/Security.md",
+    "Database/Backups.md",
+    "Database/Commands.md",
     "Windows/Skills Exam.md",
     "Networking/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
     "Networking/1-Networking Today/Overview.md",
@@ -212,7 +213,6 @@
     "Desktop Support & Maintenance/4-Software/Virtualization.md",
     "Desktop Support & Maintenance/4-Software",
     "conflict-files-obsidian-git.md",
-    "Database/Database Objects.md",
     "attachments/image/Motherboards-1698112003165.jpeg",
     "attachments/image/Motherboards-1698112003163.jpeg",
     "attachments/image/Motherboards-1698112003162.jpeg",
