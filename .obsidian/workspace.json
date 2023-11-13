@@ -23,12 +23,8 @@
             "id": "02a0c383954b8310",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -110,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
+                "file": "Networking/6-Data Link Layer/6.2 Topologies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
+                "file": "Networking/6-Data Link Layer/6.2 Topologies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/4-Physical Layer/4.5 Fiber-Optic Cabling.md"
+                "file": "Networking/6-Data Link Layer/6.2 Topologies.md"
               }
             }
           },
@@ -185,6 +181,7 @@
   },
   "active": "02a0c383954b8310",
   "lastOpenFiles": [
+    "Networking/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
     "Networking/1-Networking Today/Overview.md",
     "Windows/Virtual Switches.md",
     "Windows/SMB & NFS.md",
@@ -212,7 +209,6 @@
     "conflict-files-obsidian-git.md",
     "Database/Database Objects.md",
     "Database/Constraints.md",
-    "Database/Windows Server.md",
     "attachments/image/Motherboards-1698112003165.jpeg",
     "attachments/image/Motherboards-1698112003163.jpeg",
     "attachments/image/Motherboards-1698112003162.jpeg",
