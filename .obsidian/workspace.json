@@ -23,8 +23,12 @@
             "id": "02a0c383954b8310",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Database/Security.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -106,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/6-Data Link Layer/6.2 Topologies.md",
+                "file": "Database/Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/6-Data Link Layer/6.2 Topologies.md",
+                "file": "Database/Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/6-Data Link Layer/6.2 Topologies.md"
+                "file": "Database/Security.md"
               }
             }
           },
@@ -181,6 +185,7 @@
   },
   "active": "02a0c383954b8310",
   "lastOpenFiles": [
+    "Database/Security.md",
     "Networking/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
     "Networking/1-Networking Today/Overview.md",
     "Windows/Virtual Switches.md",
@@ -208,7 +213,6 @@
     "Desktop Support & Maintenance/4-Software",
     "conflict-files-obsidian-git.md",
     "Database/Database Objects.md",
-    "Database/Constraints.md",
     "attachments/image/Motherboards-1698112003165.jpeg",
     "attachments/image/Motherboards-1698112003163.jpeg",
     "attachments/image/Motherboards-1698112003162.jpeg",
