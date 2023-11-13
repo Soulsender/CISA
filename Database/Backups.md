@@ -18,5 +18,5 @@
 	- smaller and faster than full
 - incremental
 	- based on the last backup
-	- contains only data changed since last full or incremental bacup
+	- contains only data changed since last full or incremental backup
 	- smaller and faster than other two
