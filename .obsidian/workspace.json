@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Security.md",
+                "file": "Networking/8-Transport/8.1 Routing.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "static ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Security.md",
+                "file": "Networking/8-Transport/8.1 Routing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/Security.md",
+                "file": "Networking/8-Transport/8.1 Routing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/Security.md"
+                "file": "Networking/8-Transport/8.1 Routing.md"
               }
             }
           },
@@ -185,8 +186,9 @@
   },
   "active": "02a0c383954b8310",
   "lastOpenFiles": [
-    "Database/Backups.md",
+    "Networking/Midterm Notes.md",
     "Database/Security.md",
+    "Database/Backups.md",
     "Database/Commands.md",
     "Windows/Skills Exam.md",
     "Networking/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
@@ -212,7 +214,6 @@
     "Desktop Support & Maintenance/4-Software/Cloud Computing.md",
     "Desktop Support & Maintenance/4-Software/Virtualization.md",
     "Desktop Support & Maintenance/4-Software",
-    "conflict-files-obsidian-git.md",
     "attachments/image/Motherboards-1698112003165.jpeg",
     "attachments/image/Motherboards-1698112003163.jpeg",
     "attachments/image/Motherboards-1698112003162.jpeg",
