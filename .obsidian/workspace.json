@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/IOS Commands.md",
+                "file": "Networking/14-Transport Layer/UDP vs TCP.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ipv6",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/IOS Commands.md",
+                "file": "Networking/14-Transport Layer/UDP vs TCP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/IOS Commands.md",
+                "file": "Networking/14-Transport Layer/UDP vs TCP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/IOS Commands.md"
+                "file": "Networking/14-Transport Layer/UDP vs TCP.md"
               }
             }
           },
@@ -186,7 +185,10 @@
   },
   "active": "02a0c383954b8310",
   "lastOpenFiles": [
-    "Networking/8-Transport/8.1 Routing.md",
+    "Networking/IOS Commands.md",
+    "Networking/14-Transport Layer/UDP vs TCP.md",
+    "Networking/14-Transport Layer",
+    "Networking/8-Network/8.1 Routing.md",
     "Networking/Midterm Notes.md",
     "Database/Security.md",
     "Database/Backups.md",
@@ -203,7 +205,6 @@
     "Windows/Chapters/7 DNS.md",
     "Windows/Chapters/6 DHCP.md",
     "Windows/Chapters/2 Initial Configuration.md",
-    "Networking/IOS Commands.md",
     "Networking/12-IPv6/IPv6 Terms.md",
     "Networking/12-IPv6/SLAAC.md",
     "Networking/12-IPv6/Dynamic Address.md",
@@ -212,7 +213,6 @@
     "Database/Database Terms.md",
     "Networking/12-IPv6",
     "Networking/Subnet Classes.md",
-    "Desktop Support & Maintenance/4-Software/Cloud Computing.md",
     "Desktop Support & Maintenance/4-Software",
     "attachments/image/Motherboards-1698112003165.jpeg",
     "attachments/image/Motherboards-1698112003163.jpeg",
@@ -225,12 +225,11 @@
     "attachments/image/Motherboards-1698112002995.jpeg",
     "attachments/image/Motherboards-1698112002993.jpeg",
     "Windows/Chapters",
-    "Networking/8-Transport",
+    "Networking/8-Network",
     "Windows",
     "Networking/5-Conversions",
     "Networking/7-Ethernet Switching",
     "Networking/6-Data Link Layer",
-    "Desktop Support & Maintenance/3-Components",
-    "Networking/4-Physical Layer"
+    "Desktop Support & Maintenance/3-Components"
   ]
 }
