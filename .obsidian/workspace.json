@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/12-IPv6/Compressing addresses.md",
+                "file": "Networking/IOS Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/12-IPv6/Compressing addresses.md",
+                "file": "Networking/IOS Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/12-IPv6/Compressing addresses.md",
+                "file": "Networking/IOS Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/12-IPv6/Compressing addresses.md"
+                "file": "Networking/IOS Commands.md"
               }
             }
           },
@@ -185,10 +185,10 @@
   },
   "active": "02a0c383954b8310",
   "lastOpenFiles": [
+    "Networking/12-IPv6/Compressing addresses.md",
     "Networking/12-IPv6/SLAAC.md",
     "Networking/12-IPv6/IPv6 Terms.md",
     "Networking/12-IPv6/Dynamic Address.md",
-    "Networking/12-IPv6/Compressing addresses.md",
     "Networking/14-Transport Layer/UDP vs TCP.md",
     "Networking/IOS Commands.md",
     "Networking/14-Transport Layer",
