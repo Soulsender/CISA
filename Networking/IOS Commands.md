@@ -51,3 +51,10 @@
 - `ipv6 address fe80::1 link-local`
 - `ipv6 address 2001:db8::1/64`
 - `ipv6 unicast-routing`
+#### SSH
+- `ip domain name example.com`
+- `crypto key generate rsa (general-keys modulus 512)`
+- `username admin secret cisco`
+- `line vty 0 15`
+- `login local`
+- `transport input ssh`
