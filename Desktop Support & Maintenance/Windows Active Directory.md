@@ -1,0 +1,2 @@
+- containers are basic
+- organizational units (OUs) are more flexible

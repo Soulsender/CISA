@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Common Methods & Functions.md",
+                "file": "Desktop Support & Maintenance/Windows Active Directory.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Common Methods & Functions.md",
+                "file": "Desktop Support & Maintenance/Windows Active Directory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Common Methods & Functions.md",
+                "file": "Desktop Support & Maintenance/Windows Active Directory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Common Methods & Functions.md"
+                "file": "Desktop Support & Maintenance/Windows Active Directory.md"
               }
             }
           },
@@ -185,8 +185,9 @@
   },
   "active": "02a0c383954b8310",
   "lastOpenFiles": [
-    "Database/Commands.md",
     "Programming/Common Methods & Functions.md",
+    "Desktop Support & Maintenance/Windows Active Directory.md",
+    "Database/Commands.md",
     "Database/Backups.md",
     "Networking/IOS Commands.md",
     "Networking/12-IPv6/Compressing addresses.md",
@@ -211,7 +212,6 @@
     "Windows/Chapters/6 DHCP.md",
     "Windows/Chapters/2 Initial Configuration.md",
     "Database/Normalization.md",
-    "Database/Database Terms.md",
     "Networking/12-IPv6",
     "Desktop Support & Maintenance/4-Software",
     "attachments/image/Motherboards-1698112003165.jpeg",
