@@ -1,7 +1,7 @@
 
 ## Data Manipulation Language (DML)
 - **SELECT**
-	- retrieves rows fromdb
+	- retrieves rows from db
 ```sql
 SELECT * FROM tableName;
 SELECT column1, column2 FROM tableName;
