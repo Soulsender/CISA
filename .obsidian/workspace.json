@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Database Objects.md",
+                "file": "Database/Security.md",
                 "mode": "preview",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Database Objects.md",
+                "file": "Database/Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/Database Objects.md",
+                "file": "Database/Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/Database Objects.md"
+                "file": "Database/Security.md"
               }
             }
           },
@@ -185,6 +185,8 @@
   },
   "active": "02a0c383954b8310",
   "lastOpenFiles": [
+    "Database/Normalization.md",
+    "Database/Database Objects.md",
     "Database/Commands.md",
     "Desktop Support & Maintenance/Windows Active Directory.md",
     "Programming/Common Methods & Functions.md",
@@ -210,8 +212,6 @@
     "Windows/DNS Zones.md",
     "Windows/Chapters/7 DNS.md",
     "Windows/Chapters/6 DHCP.md",
-    "Windows/Chapters/2 Initial Configuration.md",
-    "Database/Normalization.md",
     "Networking/12-IPv6",
     "Desktop Support & Maintenance/4-Software",
     "attachments/image/Motherboards-1698112003165.jpeg",
