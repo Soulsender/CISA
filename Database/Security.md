@@ -1,3 +1,7 @@
+#### User Authentication
+- windows user login
+- membership in a windows user group
+- SQL server-specific login
 #### Fixed Server Roles
 - Bulkadmin - can perform bulk inserts
 - DBcreator - create, alter, drop, and restore dbs
