@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "d805bfd24851342d",
+        "id": "fa4fa3a7384b6702",
         "type": "tabs",
         "children": [
           {
-            "id": "3d1a81fe4e894d9f",
+            "id": "386e0a574d15f851",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Database Objects.md",
+                "file": "Networking/6-Data Link Layer/6.2 Topologies.md",
                 "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "02a0c383954b8310",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desktop Support & Maintenance/Windows Active Directory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d366ae55b8eaecdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking/Subnet Classes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Database Objects.md",
+                "file": "Desktop Support & Maintenance/Windows Active Directory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/Database Objects.md",
+                "file": "Desktop Support & Maintenance/Windows Active Directory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/Database Objects.md"
+                "file": "Desktop Support & Maintenance/Windows Active Directory.md"
               }
             }
           },
@@ -158,34 +183,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3d1a81fe4e894d9f",
+  "active": "02a0c383954b8310",
   "lastOpenFiles": [
-    "Database/Constraints.md",
+    "Programming/Common Methods & Functions.md",
+    "Desktop Support & Maintenance/Windows Active Directory.md",
     "Database/Commands.md",
     "Database/Backups.md",
     "Networking/IOS Commands.md",
-    "Programming/Common Methods & Functions.md",
-    "Desktop Support & Maintenance/Windows Active Directory.md",
+    "Networking/12-IPv6/Compressing addresses.md",
+    "Networking/12-IPv6/SLAAC.md",
+    "Networking/12-IPv6/IPv6 Terms.md",
     "Networking/12-IPv6/Dynamic Address.md",
-    "Windows/Skills Exam.md",
-    "Networking/8-Network/8.3 IPv4 and IPv6.md",
-    "Networking/8-Network/8.1 Routing.md",
-    "Networking/8-Network",
     "Networking/14-Transport Layer/UDP vs TCP.md",
     "Networking/14-Transport Layer",
+    "Networking/8-Network/8.1 Routing.md",
+    "Networking/Midterm Notes.md",
     "Database/Security.md",
-    "Database/Normalization.md",
-    "Networking/12-IPv6/IPv6 Terms.md",
-    "Networking/12-IPv6/SLAAC.md",
-    "Networking/12-IPv6/Compressing addresses.md",
+    "Windows/Skills Exam.md",
+    "Networking/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
+    "Networking/1-Networking Today/Overview.md",
+    "Windows/Virtual Switches.md",
+    "Windows/SMB & NFS.md",
+    "Windows/Partition Tables.md",
+    "Windows/Practice Questions.md",
+    "Windows/Disks.md",
+    "Windows/DNS Zones.md",
+    "Windows/Chapters/7 DNS.md",
+    "Windows/Chapters/6 DHCP.md",
     "Windows/Chapters/2 Initial Configuration.md",
+    "Database/Normalization.md",
     "Networking/12-IPv6",
-    "conflict-files-obsidian-git.md",
-    "Networking/Subnet Classes.md",
-    "Desktop Support & Maintenance/4-Software/Virtualization.md",
-    "Desktop Support & Maintenance/4-Software/Cloud Computing.md",
     "Desktop Support & Maintenance/4-Software",
-    "Desktop Support & Maintenance/Storage.md",
     "attachments/image/Motherboards-1698112003165.jpeg",
     "attachments/image/Motherboards-1698112003163.jpeg",
     "attachments/image/Motherboards-1698112003162.jpeg",
@@ -196,15 +224,12 @@
     "attachments/image/Motherboards-1698112002996.jpeg",
     "attachments/image/Motherboards-1698112002995.jpeg",
     "attachments/image/Motherboards-1698112002993.jpeg",
-    "Desktop Support & Maintenance/RAID.md",
-    "Desktop Support & Maintenance/Advanced Components.md",
-    "Desktop Support & Maintenance/3-Components/Motherboards.md",
-    "Desktop Support & Maintenance/3-Components/RAM.md",
     "Windows/Chapters",
-    "Networking/8-Transport",
+    "Networking/8-Network",
     "Windows",
     "Networking/5-Conversions",
-    "Networking/4-Physical Layer/Untitled",
-    "Networking/7-Ethernet Switching"
+    "Networking/7-Ethernet Switching",
+    "Networking/6-Data Link Layer",
+    "Desktop Support & Maintenance/3-Components"
   ]
 }
