@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Database Objects.md",
+                "file": "Database/Database Terms.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Database Objects.md",
+                "file": "Database/Database Terms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/Database Objects.md",
+                "file": "Database/Database Terms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/Database Objects.md"
+                "file": "Database/Database Terms.md"
               }
             }
           },
@@ -160,6 +160,7 @@
   },
   "active": "3d1a81fe4e894d9f",
   "lastOpenFiles": [
+    "Database/Database Objects.md",
     "Windows/Operations Master Roles.md",
     "Windows/Groups.md",
     "Windows/AD Sites.md",
@@ -199,7 +200,6 @@
     "attachments/image/Motherboards-1698112002996.jpeg",
     "attachments/image/Motherboards-1698112002995.jpeg",
     "attachments/image/Motherboards-1698112002993.jpeg",
-    "Desktop Support & Maintenance/RAID.md",
     "Windows/Chapters",
     "Networking/8-Transport",
     "Windows",
