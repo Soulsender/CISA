@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows/Groups.md",
+                "file": "Windows/Operations Master Roles.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows/Groups.md",
+                "file": "Windows/Operations Master Roles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows/Groups.md",
+                "file": "Windows/Operations Master Roles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows/Groups.md"
+                "file": "Windows/Operations Master Roles.md"
               }
             }
           },
@@ -185,8 +185,9 @@
   },
   "active": "02a0c383954b8310",
   "lastOpenFiles": [
-    "Windows/Active Directory.md",
     "Windows/Groups.md",
+    "Windows/Operations Master Roles.md",
+    "Windows/Active Directory.md",
     "Windows/Chapters/Untitled.md",
     "Windows/AD Sites.md",
     "Windows/DNS Zones.md",
@@ -211,7 +212,6 @@
     "Windows/Skills Exam.md",
     "Networking/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
     "Networking/1-Networking Today/Overview.md",
-    "Windows/Virtual Switches.md",
     "Networking/12-IPv6",
     "Desktop Support & Maintenance/4-Software",
     "attachments/image/Motherboards-1698112003165.jpeg",
