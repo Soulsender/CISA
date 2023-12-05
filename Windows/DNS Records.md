@@ -3,4 +3,26 @@
 - AAAA
 	- A record but for IPv6
 - CNAME (canonical name)
-	- 
+	- points domain name to another domain name
+	- `ng.example.com` -> `example.com`
+- NS (nameserver)
+	- connect domain to actual server 
+- MX (mail exchange)
+	- routes emails for domains
+- SOA (start of authority)
+	- stores admin info about a domain
+	- email, domain updates, etc.
+- TXT
+	- stores text values
+- PTR (pointer)
+	- provides domain with reverse lookup
+	- opposite of A record
+- SRV 
+	- stores IP and port of service
+- CERT 
+	- stores public key certificates
+- DCHID
+	- store DHCP routing data
+- DNAME (delegation name)
+	- works similarly to CNAME
+	- points all subdomains for alias to CNAME
