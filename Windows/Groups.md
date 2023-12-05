@@ -21,3 +21,9 @@ all groups have universal, global, domain local, and local scopes
 	- can only access resources on the local computer
 	- can operate without DCs
 #### Other Groups
+- dynamic
+	- simplifies AD group management
+	- automatically adds or removes users from the group
+- special identity
+	- similar to security groups
+	- memberships are managed automatically
