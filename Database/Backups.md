@@ -1,3 +1,6 @@
+#### Transaction Logs
+- transaction logs keep track of all data that has ever been changed
+- transactional log backups exist
 #### Simple Recovery
 - least administration
 #### Full Recovery

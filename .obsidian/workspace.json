@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Backups.md",
-                "mode": "preview",
+                "file": "Database/Normalization.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Backups.md",
+                "file": "Database/Normalization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/Backups.md",
+                "file": "Database/Normalization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/Backups.md"
+                "file": "Database/Normalization.md"
               }
             }
           },
@@ -160,6 +160,12 @@
   },
   "active": "3d1a81fe4e894d9f",
   "lastOpenFiles": [
+    "Database/Database Terms.md",
+    "Database/Normalization.md",
+    "Database/Database Objects.md",
+    "Database/Constraints.md",
+    "Database/Commands.md",
+    "Database/Backups.md",
     "Windows/Hyper V.md",
     "Windows/Operation Master Roles.md",
     "Windows/DNS Records.md",
@@ -168,14 +174,8 @@
     "Windows/Groups.md",
     "Windows/Disks.md",
     "Windows/Active Directory.md",
-    "Database/Backups.md",
-    "Database/Commands.md",
-    "Database/Constraints.md",
-    "Database/Database Objects.md",
-    "Database/Normalization.md",
     "Database/Windows Server.md",
     "Database/Security.md",
-    "Database/Database Terms.md",
     "Windows/AD Sites.md",
     "Networking/IOS Commands.md",
     "Programming/Common Methods & Functions.md",
