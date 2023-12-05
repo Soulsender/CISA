@@ -9,5 +9,16 @@
 - should be implemented as often as possible
 - can aid in troubleshooting
 - basically hold a copy of the primary zone
+#### Primary Zone
+- main zone
+- read/write copy of data
+- all changes are made here then replicated to secondary zones
+#### Secondary Zone
+- read-only copy of primary zone
+- can only retrieve updates, not process them
+- cannot be AD integrated
+- reduces workload on primary zone
 #### Stub Zones
 - redirects to an authoritative dns server
+- partial zone data
+- only contain SOA, NS, and A records

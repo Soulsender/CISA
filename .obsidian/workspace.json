@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Windows/DNS Zones.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -185,6 +185,10 @@
   },
   "active": "02a0c383954b8310",
   "lastOpenFiles": [
+    "Windows/Active Directory.md",
+    "Windows/Chapters/7 DNS.md",
+    "Windows/Chapters/6 DHCP.md",
+    "Windows/DNS Zones.md",
     "Database/Normalization.md",
     "Database/Commands.md",
     "Database/Security.md",
@@ -208,10 +212,6 @@
     "Windows/SMB & NFS.md",
     "Windows/Partition Tables.md",
     "Windows/Practice Questions.md",
-    "Windows/Disks.md",
-    "Windows/DNS Zones.md",
-    "Windows/Chapters/7 DNS.md",
-    "Windows/Chapters/6 DHCP.md",
     "Networking/12-IPv6",
     "Desktop Support & Maintenance/4-Software",
     "attachments/image/Motherboards-1698112003165.jpeg",
