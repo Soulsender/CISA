@@ -18,4 +18,4 @@
 #### Fourth normalization form (4NF) 
 - isolate independent multiple relationships
 #### Fifth normalization form (5NF)
-- isolate semantically related multiple relationships (wtf doe)
+- isolate semantically related multiple relationships (wtf does this even mean)
