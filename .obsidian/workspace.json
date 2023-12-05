@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Commands.md",
-                "mode": "source",
+                "file": "Windows/DNS Zones.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Commands.md",
+                "file": "Windows/DNS Zones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/Commands.md",
+                "file": "Windows/DNS Zones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/Commands.md"
+                "file": "Windows/DNS Zones.md"
               }
             }
           },
@@ -185,10 +185,10 @@
   },
   "active": "02a0c383954b8310",
   "lastOpenFiles": [
-    "Database/Security.md",
     "Database/Normalization.md",
-    "Database/Database Objects.md",
     "Database/Commands.md",
+    "Database/Security.md",
+    "Database/Database Objects.md",
     "Desktop Support & Maintenance/Windows Active Directory.md",
     "Programming/Common Methods & Functions.md",
     "Database/Backups.md",
