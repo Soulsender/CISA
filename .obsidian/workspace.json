@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Normalization.md",
+                "file": "Database/Security.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Normalization.md",
+                "file": "Database/Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/Normalization.md",
+                "file": "Database/Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/Normalization.md"
+                "file": "Database/Security.md"
               }
             }
           },
@@ -160,6 +160,7 @@
   },
   "active": "3d1a81fe4e894d9f",
   "lastOpenFiles": [
+    "Database/Normalization.md",
     "Database/Database Terms.md",
     "Database/Database Objects.md",
     "Windows/Operations Master Roles.md",
@@ -179,7 +180,6 @@
     "Networking/14-Transport Layer/UDP vs TCP.md",
     "Networking/14-Transport Layer",
     "Database/Security.md",
-    "Database/Normalization.md",
     "Networking/12-IPv6/IPv6 Terms.md",
     "Networking/12-IPv6/SLAAC.md",
     "Networking/12-IPv6/Compressing addresses.md",
