@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows/Operations Master Roles.md",
+                "file": "Database/Backups.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows/Operations Master Roles.md",
+                "file": "Database/Backups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows/Operations Master Roles.md",
+                "file": "Database/Backups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows/Operations Master Roles.md"
+                "file": "Database/Backups.md"
               }
             }
           },
@@ -160,6 +160,8 @@
   },
   "active": "3d1a81fe4e894d9f",
   "lastOpenFiles": [
+    "Windows/Hyper V.md",
+    "Windows/Operation Master Roles.md",
     "Windows/DNS Records.md",
     "Windows/DNS Zones.md",
     "Windows/Chapters/7 DNS.md",
@@ -174,7 +176,6 @@
     "Database/Windows Server.md",
     "Database/Security.md",
     "Database/Database Terms.md",
-    "Windows/Operations Master Roles.md",
     "Windows/AD Sites.md",
     "Networking/IOS Commands.md",
     "Programming/Common Methods & Functions.md",
@@ -187,7 +188,6 @@
     "Networking/14-Transport Layer/UDP vs TCP.md",
     "Networking/14-Transport Layer",
     "Networking/12-IPv6/IPv6 Terms.md",
-    "Networking/12-IPv6/SLAAC.md",
     "Networking/12-IPv6",
     "Desktop Support & Maintenance/4-Software",
     "attachments/image/Motherboards-1698112003165.jpeg",
