@@ -1,0 +1,6 @@
+- A
+	- traditional domain to IP record
+- AAAA
+	- A record but for IPv6
+- CNAME (canonical name)
+	- 

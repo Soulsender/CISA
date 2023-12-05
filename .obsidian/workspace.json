@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Windows Server.md",
-                "mode": "preview",
+                "file": "Windows/DNS Records.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Windows Server.md",
+                "file": "Windows/DNS Records.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/Windows Server.md",
+                "file": "Windows/DNS Records.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/Windows Server.md"
+                "file": "Windows/DNS Records.md"
               }
             }
           },
@@ -160,16 +160,22 @@
   },
   "active": "3d1a81fe4e894d9f",
   "lastOpenFiles": [
-    "Database/Security.md",
-    "Database/Normalization.md",
-    "Database/Database Terms.md",
-    "Database/Database Objects.md",
-    "Windows/Operations Master Roles.md",
+    "Windows/DNS Zones.md",
+    "Windows/DNS Records.md",
+    "Windows/Chapters/7 DNS.md",
     "Windows/Groups.md",
-    "Windows/AD Sites.md",
-    "Database/Constraints.md",
-    "Database/Commands.md",
+    "Windows/Disks.md",
+    "Windows/Active Directory.md",
     "Database/Backups.md",
+    "Database/Commands.md",
+    "Database/Constraints.md",
+    "Database/Database Objects.md",
+    "Database/Normalization.md",
+    "Database/Windows Server.md",
+    "Database/Security.md",
+    "Database/Database Terms.md",
+    "Windows/Operations Master Roles.md",
+    "Windows/AD Sites.md",
     "Networking/IOS Commands.md",
     "Programming/Common Methods & Functions.md",
     "Desktop Support & Maintenance/Windows Active Directory.md",
@@ -182,13 +188,7 @@
     "Networking/14-Transport Layer",
     "Networking/12-IPv6/IPv6 Terms.md",
     "Networking/12-IPv6/SLAAC.md",
-    "Networking/12-IPv6/Compressing addresses.md",
-    "Windows/Chapters/2 Initial Configuration.md",
     "Networking/12-IPv6",
-    "conflict-files-obsidian-git.md",
-    "Networking/Subnet Classes.md",
-    "Desktop Support & Maintenance/4-Software/Virtualization.md",
-    "Desktop Support & Maintenance/4-Software/Cloud Computing.md",
     "Desktop Support & Maintenance/4-Software",
     "attachments/image/Motherboards-1698112003165.jpeg",
     "attachments/image/Motherboards-1698112003163.jpeg",
