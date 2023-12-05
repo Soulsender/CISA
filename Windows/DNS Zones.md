@@ -22,3 +22,6 @@
 - redirects to an authoritative dns server
 - partial zone data
 - only contain SOA, NS, and A records
+#### Zone Transfers
+- take place when they are not integrated with AD
+- master DNS servers transfer zone data from master to secondary

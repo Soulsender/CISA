@@ -1,0 +1,3 @@
+- highly connected networks of IP subnets 
+- highly reliable and fast
+- sites can have DCs from more than one domain
