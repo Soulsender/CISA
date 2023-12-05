@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows/DNS Records.md",
-                "mode": "source",
+                "file": "Windows/Operations Master Roles.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows/DNS Records.md",
+                "file": "Windows/Operations Master Roles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows/DNS Records.md",
+                "file": "Windows/Operations Master Roles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows/DNS Records.md"
+                "file": "Windows/Operations Master Roles.md"
               }
             }
           },
@@ -160,8 +160,8 @@
   },
   "active": "3d1a81fe4e894d9f",
   "lastOpenFiles": [
-    "Windows/DNS Zones.md",
     "Windows/DNS Records.md",
+    "Windows/DNS Zones.md",
     "Windows/Chapters/7 DNS.md",
     "Windows/Groups.md",
     "Windows/Disks.md",
