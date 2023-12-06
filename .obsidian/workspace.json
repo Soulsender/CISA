@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows/Active Directory.md",
+                "file": "Database/Normalization.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows/Active Directory.md",
+                "file": "Database/Normalization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows/Active Directory.md",
+                "file": "Database/Normalization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows/Active Directory.md"
+                "file": "Database/Normalization.md"
               }
             }
           },
@@ -160,6 +160,8 @@
   },
   "active": "386e0a574d15f851",
   "lastOpenFiles": [
+    "Database/Commands.md",
+    "Windows/Active Directory.md",
     "Windows/Skills Exam.md",
     "Windows/Practice Questions.md",
     "Windows/Partition Tables.md",
@@ -168,7 +170,6 @@
     "Windows/DNS Zones.md",
     "Windows/Operation Master Roles.md",
     "Windows/AD Sites.md",
-    "Windows/Active Directory.md",
     "Database/Windows Server.md",
     "Database/Normalization.md",
     "Networking/6-Data Link Layer/6.2 Topologies.md",
@@ -177,7 +178,6 @@
     "Windows/Chapters/Untitled.md",
     "Windows/Chapters/7 DNS.md",
     "Windows/Chapters/6 DHCP.md",
-    "Database/Commands.md",
     "Database/Security.md",
     "Database/Database Objects.md",
     "Desktop Support & Maintenance/Windows Active Directory.md",
