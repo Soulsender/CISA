@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Normalization.md",
+                "file": "Database/Windows Server.md",
                 "mode": "preview",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Normalization.md",
+                "file": "Database/Windows Server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/Normalization.md",
+                "file": "Database/Windows Server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/Normalization.md"
+                "file": "Database/Windows Server.md"
               }
             }
           },
@@ -172,6 +172,7 @@
   },
   "active": "386e0a574d15f851",
   "lastOpenFiles": [
+    "Database/Normalization.md",
     "Networking/6-Data Link Layer/6.2 Topologies.md",
     "Windows/Operations Master Roles.md",
     "Windows/Operation Master Roles.md",
@@ -183,7 +184,6 @@
     "Windows/DNS Zones.md",
     "Windows/Chapters/7 DNS.md",
     "Windows/Chapters/6 DHCP.md",
-    "Database/Normalization.md",
     "Database/Commands.md",
     "Database/Security.md",
     "Database/Database Objects.md",
