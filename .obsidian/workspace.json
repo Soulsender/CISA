@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows/Partition Tables.md",
+                "file": "Windows/Active Directory.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows/Partition Tables.md",
+                "file": "Windows/Active Directory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows/Partition Tables.md",
+                "file": "Windows/Active Directory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows/Partition Tables.md"
+                "file": "Windows/Active Directory.md"
               }
             }
           },
@@ -160,8 +160,13 @@
   },
   "active": "386e0a574d15f851",
   "lastOpenFiles": [
-    "Windows/Operation Master Roles.md",
+    "Windows/Skills Exam.md",
+    "Windows/Practice Questions.md",
+    "Windows/Partition Tables.md",
     "Windows/Groups.md",
+    "Windows/Hyper V.md",
+    "Windows/DNS Zones.md",
+    "Windows/Operation Master Roles.md",
     "Windows/AD Sites.md",
     "Windows/Active Directory.md",
     "Database/Windows Server.md",
@@ -170,7 +175,6 @@
     "Windows/Operations Master Roles.md",
     "Windows/DNS Records.md",
     "Windows/Chapters/Untitled.md",
-    "Windows/DNS Zones.md",
     "Windows/Chapters/7 DNS.md",
     "Windows/Chapters/6 DHCP.md",
     "Database/Commands.md",
@@ -182,11 +186,7 @@
     "Networking/IOS Commands.md",
     "Networking/12-IPv6/Compressing addresses.md",
     "Networking/12-IPv6/SLAAC.md",
-    "Networking/12-IPv6/IPv6 Terms.md",
-    "Networking/12-IPv6/Dynamic Address.md",
-    "Networking/14-Transport Layer/UDP vs TCP.md",
     "Networking/14-Transport Layer",
-    "Networking/8-Network/8.1 Routing.md",
     "Networking/12-IPv6",
     "Desktop Support & Maintenance/4-Software",
     "attachments/image/Motherboards-1698112003165.jpeg",
