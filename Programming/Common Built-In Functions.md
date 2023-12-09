@@ -1,3 +1,6 @@
+> **element** - any python data type; string, int, float, list, bool, etc.
+> **iterable** - list, tuple, set, etc.
+#### Common
 - `len()` - length of object
 - `type()` - type of object
 - `range()` - sequence of numbers
@@ -11,7 +14,6 @@
 - `chr()` - returns a unicode character corresponding to the int that character is mapped to
 - `ord()` - opposite of `chr()`
 #### Iterables
->iterable - list, tuple, set, etc.
 - `list()` - creates list from iterable
 - `tuple()` - creates tuple from iterable
 - `set()` - creates set from iterable
