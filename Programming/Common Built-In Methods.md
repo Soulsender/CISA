@@ -14,4 +14,4 @@
 - `.remove(element)` - removes element specified (can be string, int, etc.)
 - `.index(element)` - returns index of element (if element is string; index of the first char in string)
 - `.count()` - number of occurrences of element
-- `.sort()` - sorts elements
+- `.sort(reverse=True)` - sorts elements in ascending order (will change values of object it is being used on; can be reversed)
