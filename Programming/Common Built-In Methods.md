@@ -15,4 +15,11 @@
 - `.index(element)` - returns index of element (if element is string; index of the first char in string)
 - `.count(element)` - number of occurrences of element
 - `.sort(reverse=True)` - sorts elements in ascending order (will change values of object it is being used on; can be reversed)
-- `.reverse()`
+- `.reverse(element)` - reverses order of elements
+#### Dictionary
+- `.keys()` - returns all keys in dictionary
+- `.values()` - returns all values in dictionary
+- `.items()` - returns all key/value pairs in individual tuples in one tuple
+- `get(key, default)` - returns value for key, or default if no key is present
+- `.pop(key)` - removes and returns value for specified key
+- `.update(other_dict)` - 
