@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d805bfd24851342d",
+        "id": "fa4fa3a7384b6702",
         "type": "tabs",
         "children": [
           {
-            "id": "3d1a81fe4e894d9f",
+            "id": "386e0a574d15f851",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Security.md",
-                "mode": "preview",
+                "file": "Programming/Common Methods & Functions.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Security.md",
+                "file": "Programming/Common Methods & Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/Security.md",
+                "file": "Programming/Common Methods & Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/Security.md"
+                "file": "Programming/Common Methods & Functions.md"
               }
             }
           },
@@ -158,36 +158,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3d1a81fe4e894d9f",
+  "active": "386e0a574d15f851",
   "lastOpenFiles": [
-    "Database/Normalization.md",
+    "Programming/String Arguments.md",
+    "Programming/Common Methods & Functions.md",
+    "Database/Security.md",
+    "Database/Windows Server.md",
+    "Database/Backups.md",
     "Database/Database Terms.md",
     "Database/Database Objects.md",
-    "Database/Constraints.md",
+    "Database/Normalization.md",
     "Database/Commands.md",
-    "Database/Backups.md",
-    "Windows/Hyper V.md",
-    "Windows/Operation Master Roles.md",
-    "Windows/DNS Records.md",
-    "Windows/DNS Zones.md",
-    "Windows/Chapters/7 DNS.md",
-    "Windows/Groups.md",
-    "Windows/Disks.md",
     "Windows/Active Directory.md",
-    "Database/Windows Server.md",
-    "Database/Security.md",
-    "Windows/AD Sites.md",
-    "Networking/IOS Commands.md",
-    "Programming/Common Methods & Functions.md",
-    "Desktop Support & Maintenance/Windows Active Directory.md",
-    "Networking/12-IPv6/Dynamic Address.md",
     "Windows/Skills Exam.md",
-    "Networking/8-Network/8.3 IPv4 and IPv6.md",
-    "Networking/8-Network/8.1 Routing.md",
-    "Networking/8-Network",
-    "Networking/14-Transport Layer/UDP vs TCP.md",
+    "Windows/Practice Questions.md",
+    "Windows/Partition Tables.md",
+    "Windows/Groups.md",
+    "Windows/Hyper V.md",
+    "Windows/DNS Zones.md",
+    "Windows/Operation Master Roles.md",
+    "Windows/AD Sites.md",
+    "Networking/6-Data Link Layer/6.2 Topologies.md",
+    "Windows/Operations Master Roles.md",
+    "Windows/DNS Records.md",
+    "Windows/Chapters/Untitled.md",
+    "Windows/Chapters/7 DNS.md",
+    "Windows/Chapters/6 DHCP.md",
+    "Desktop Support & Maintenance/Windows Active Directory.md",
+    "Networking/IOS Commands.md",
     "Networking/14-Transport Layer",
-    "Networking/12-IPv6/IPv6 Terms.md",
     "Networking/12-IPv6",
     "Desktop Support & Maintenance/4-Software",
     "attachments/image/Motherboards-1698112003165.jpeg",
@@ -201,10 +200,11 @@
     "attachments/image/Motherboards-1698112002995.jpeg",
     "attachments/image/Motherboards-1698112002993.jpeg",
     "Windows/Chapters",
-    "Networking/8-Transport",
+    "Networking/8-Network",
     "Windows",
     "Networking/5-Conversions",
-    "Networking/4-Physical Layer/Untitled",
-    "Networking/7-Ethernet Switching"
+    "Networking/7-Ethernet Switching",
+    "Networking/6-Data Link Layer",
+    "Desktop Support & Maintenance/3-Components"
   ]
 }
