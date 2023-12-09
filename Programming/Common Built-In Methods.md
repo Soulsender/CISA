@@ -22,4 +22,4 @@
 - `.items()` - returns all key/value pairs in individual tuples in one tuple
 - `get(key, default)` - returns value for key, or default if no key is present
 - `.pop(key)` - removes and returns value for specified key
-- `.update(other_dict)` - 
+- `.update(other_dict)` - updates dict with key/value pairs from another dict
