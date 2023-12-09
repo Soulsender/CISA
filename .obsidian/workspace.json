@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Common Built-In Methods.md",
+                "file": "Programming/Common Built-In Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Common Built-In Methods.md",
+                "file": "Programming/Common Built-In Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Common Built-In Methods.md",
+                "file": "Programming/Common Built-In Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Common Built-In Methods.md"
+                "file": "Programming/Common Built-In Functions.md"
               }
             }
           },
@@ -160,8 +160,8 @@
   },
   "active": "386e0a574d15f851",
   "lastOpenFiles": [
-    "Programming/Common Built-In Functions.md",
     "Programming/Common Built-In Methods.md",
+    "Programming/Common Built-In Functions.md",
     "Programming/String Arguments.md",
     "Database/Security.md",
     "Database/Windows Server.md",
