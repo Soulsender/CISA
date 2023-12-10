@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desktop Support & Maintenance/Cloud Computing.md",
+                "file": "Desktop Support & Maintenance/Virtualization.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desktop Support & Maintenance/Cloud Computing.md",
+                "file": "Desktop Support & Maintenance/Virtualization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desktop Support & Maintenance/Cloud Computing.md",
+                "file": "Desktop Support & Maintenance/Virtualization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desktop Support & Maintenance/Cloud Computing.md"
+                "file": "Desktop Support & Maintenance/Virtualization.md"
               }
             }
           },
@@ -160,6 +160,7 @@
   },
   "active": "386e0a574d15f851",
   "lastOpenFiles": [
+    "Desktop Support & Maintenance/Cloud Computing.md",
     "Desktop Support & Maintenance/Virtualization.md",
     "Desktop Support & Maintenance/Windows Active Directory.md",
     "Desktop Support & Maintenance/Advanced Components.md",
@@ -185,7 +186,6 @@
     "Windows/AD Sites.md",
     "Networking/6-Data Link Layer/6.2 Topologies.md",
     "Windows/Operations Master Roles.md",
-    "Windows/DNS Records.md",
     "Networking/14-Transport Layer",
     "Networking/12-IPv6",
     "Desktop Support & Maintenance/4-Software",
