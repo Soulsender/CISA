@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Common Built-In Methods.md",
-                "mode": "source",
+                "file": "Desktop Support & Maintenance/Windows Active Directory.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Common Built-In Methods.md",
+                "file": "Desktop Support & Maintenance/Windows Active Directory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Common Built-In Methods.md",
+                "file": "Desktop Support & Maintenance/Windows Active Directory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Common Built-In Methods.md"
+                "file": "Desktop Support & Maintenance/Windows Active Directory.md"
               }
             }
           },
@@ -160,8 +160,9 @@
   },
   "active": "386e0a574d15f851",
   "lastOpenFiles": [
-    "Networking/IOS Commands.md",
+    "Desktop Support & Maintenance/Advanced Components.md",
     "Programming/Common Built-In Methods.md",
+    "Networking/IOS Commands.md",
     "Programming/Common Built-In Functions.md",
     "Programming/String Arguments.md",
     "Database/Security.md",
@@ -185,7 +186,6 @@
     "Windows/DNS Records.md",
     "Windows/Chapters/Untitled.md",
     "Windows/Chapters/7 DNS.md",
-    "Windows/Chapters/6 DHCP.md",
     "Networking/14-Transport Layer",
     "Networking/12-IPv6",
     "Desktop Support & Maintenance/4-Software",
