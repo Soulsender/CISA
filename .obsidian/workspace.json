@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desktop Support & Maintenance/Virtualization.md",
+                "file": "Desktop Support & Maintenance/Cloud Computing.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desktop Support & Maintenance/Virtualization.md",
+                "file": "Desktop Support & Maintenance/Cloud Computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desktop Support & Maintenance/Virtualization.md",
+                "file": "Desktop Support & Maintenance/Cloud Computing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desktop Support & Maintenance/Virtualization.md"
+                "file": "Desktop Support & Maintenance/Cloud Computing.md"
               }
             }
           },
@@ -160,9 +160,9 @@
   },
   "active": "386e0a574d15f851",
   "lastOpenFiles": [
-    "Desktop Support & Maintenance/Cloud Computing.md",
-    "Desktop Support & Maintenance/Virtualization.md",
     "Desktop Support & Maintenance/Windows Active Directory.md",
+    "Desktop Support & Maintenance/Virtualization.md",
+    "Desktop Support & Maintenance/Cloud Computing.md",
     "Desktop Support & Maintenance/Advanced Components.md",
     "Programming/Common Built-In Methods.md",
     "Networking/IOS Commands.md",
