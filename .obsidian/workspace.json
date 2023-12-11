@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desktop Support & Maintenance/Windows Active Directory.md",
+                "file": "Desktop Support & Maintenance/Cloud Computing.md",
                 "mode": "preview",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desktop Support & Maintenance/Windows Active Directory.md",
+                "file": "Desktop Support & Maintenance/Cloud Computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desktop Support & Maintenance/Windows Active Directory.md",
+                "file": "Desktop Support & Maintenance/Cloud Computing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desktop Support & Maintenance/Windows Active Directory.md"
+                "file": "Desktop Support & Maintenance/Cloud Computing.md"
               }
             }
           },
@@ -173,6 +173,7 @@
   },
   "active": "039d9f32aafe702a",
   "lastOpenFiles": [
+    "Desktop Support & Maintenance/Windows Active Directory.md",
     "Desktop Support & Maintenance/1-Introduction/1.2 Computing Basics.md",
     "Desktop Support & Maintenance/1-Introduction/1.10 Network and Server Cabinets.md",
     "Desktop Support & Maintenance/2-PC Technician Responsibilities/7.1 Troubleshooting Process.md",
@@ -180,7 +181,6 @@
     "Desktop Support & Maintenance/3-Components/Motherboards.md",
     "Desktop Support & Maintenance/Advanced Components.md",
     "Desktop Support & Maintenance/Cloud Computing.md",
-    "Desktop Support & Maintenance/Windows Active Directory.md",
     "Desktop Support & Maintenance/Virtualization.md",
     "Desktop Support & Maintenance/Storage.md",
     "Desktop Support & Maintenance/RAID.md",
