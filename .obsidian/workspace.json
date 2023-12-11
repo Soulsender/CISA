@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Desktop Support & Maintenance/Final Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "039d9f32aafe702a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Desktop Support & Maintenance/Advanced Components.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,15 +171,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "386e0a574d15f851",
+  "active": "039d9f32aafe702a",
   "lastOpenFiles": [
+    "Desktop Support & Maintenance/Final Notes.md",
+    "Desktop Support & Maintenance/Advanced Components.md",
     "Desktop Support & Maintenance/Cloud Computing.md",
     "Desktop Support & Maintenance/Windows Active Directory.md",
     "Programming/Common Built-In Methods.md",
     "Programming/Common Built-In Functions.md",
     "Programming/String Arguments.md",
     "Desktop Support & Maintenance/Virtualization.md",
-    "Desktop Support & Maintenance/Advanced Components.md",
     "Networking/IOS Commands.md",
     "Database/Security.md",
     "Database/Windows Server.md",
@@ -185,7 +199,6 @@
     "Windows/Operation Master Roles.md",
     "Windows/AD Sites.md",
     "Networking/6-Data Link Layer/6.2 Topologies.md",
-    "Windows/Operations Master Roles.md",
     "Networking/14-Transport Layer",
     "Networking/12-IPv6",
     "Desktop Support & Maintenance/4-Software",
