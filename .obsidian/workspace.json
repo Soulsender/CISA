@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desktop Support & Maintenance/Cloud Computing.md",
+                "file": "Desktop Support & Maintenance/3-Components/Motherboards.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desktop Support & Maintenance/Cloud Computing.md",
+                "file": "Desktop Support & Maintenance/3-Components/Motherboards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desktop Support & Maintenance/Cloud Computing.md",
+                "file": "Desktop Support & Maintenance/3-Components/Motherboards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desktop Support & Maintenance/Cloud Computing.md"
+                "file": "Desktop Support & Maintenance/3-Components/Motherboards.md"
               }
             }
           },
@@ -173,15 +173,17 @@
   },
   "active": "039d9f32aafe702a",
   "lastOpenFiles": [
-    "Desktop Support & Maintenance/3-Components/Motherboards.md",
-    "Desktop Support & Maintenance/Cloud Computing.md",
     "Desktop Support & Maintenance/Advanced Components.md",
-    "Desktop Support & Maintenance/Final Notes.md",
+    "Desktop Support & Maintenance/Cloud Computing.md",
     "Desktop Support & Maintenance/Windows Active Directory.md",
+    "Desktop Support & Maintenance/Virtualization.md",
+    "Desktop Support & Maintenance/Storage.md",
+    "Desktop Support & Maintenance/RAID.md",
+    "Desktop Support & Maintenance/Final Notes.md",
+    "Desktop Support & Maintenance/3-Components/Motherboards.md",
     "Programming/Common Built-In Methods.md",
     "Programming/Common Built-In Functions.md",
     "Programming/String Arguments.md",
-    "Desktop Support & Maintenance/Virtualization.md",
     "Networking/IOS Commands.md",
     "Database/Security.md",
     "Database/Windows Server.md",
@@ -197,8 +199,6 @@
     "Windows/Groups.md",
     "Windows/Hyper V.md",
     "Windows/DNS Zones.md",
-    "Windows/Operation Master Roles.md",
-    "Windows/AD Sites.md",
     "Networking/14-Transport Layer",
     "Networking/12-IPv6",
     "Desktop Support & Maintenance/4-Software",
