@@ -4,7 +4,7 @@
 - accessibility
 #### Infrastructure as a Service (IaaS)
 - delivers infrastructure to client
-- storage, networks, virtual enviroments
+- storage, networks, virtual environments
 - client deploys and runs Server VMs
 - pay-as-you-go
 - providers responsibility

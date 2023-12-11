@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desktop Support & Maintenance/Advanced Components.md",
+                "file": "Desktop Support & Maintenance/Cloud Computing.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desktop Support & Maintenance/Advanced Components.md",
+                "file": "Desktop Support & Maintenance/Cloud Computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desktop Support & Maintenance/Advanced Components.md",
+                "file": "Desktop Support & Maintenance/Cloud Computing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desktop Support & Maintenance/Advanced Components.md"
+                "file": "Desktop Support & Maintenance/Cloud Computing.md"
               }
             }
           },
@@ -173,9 +173,10 @@
   },
   "active": "039d9f32aafe702a",
   "lastOpenFiles": [
-    "Desktop Support & Maintenance/Final Notes.md",
-    "Desktop Support & Maintenance/Advanced Components.md",
+    "Desktop Support & Maintenance/3-Components/Motherboards.md",
     "Desktop Support & Maintenance/Cloud Computing.md",
+    "Desktop Support & Maintenance/Advanced Components.md",
+    "Desktop Support & Maintenance/Final Notes.md",
     "Desktop Support & Maintenance/Windows Active Directory.md",
     "Programming/Common Built-In Methods.md",
     "Programming/Common Built-In Functions.md",
@@ -198,7 +199,6 @@
     "Windows/DNS Zones.md",
     "Windows/Operation Master Roles.md",
     "Windows/AD Sites.md",
-    "Networking/6-Data Link Layer/6.2 Topologies.md",
     "Networking/14-Transport Layer",
     "Networking/12-IPv6",
     "Desktop Support & Maintenance/4-Software",
