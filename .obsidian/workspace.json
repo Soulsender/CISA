@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desktop Support & Maintenance/3-Components/Motherboards.md",
-                "mode": "source",
+                "file": "Desktop Support & Maintenance/Windows Active Directory.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desktop Support & Maintenance/3-Components/Motherboards.md",
+                "file": "Desktop Support & Maintenance/Windows Active Directory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desktop Support & Maintenance/3-Components/Motherboards.md",
+                "file": "Desktop Support & Maintenance/Windows Active Directory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desktop Support & Maintenance/3-Components/Motherboards.md"
+                "file": "Desktop Support & Maintenance/Windows Active Directory.md"
               }
             }
           },
@@ -173,6 +173,11 @@
   },
   "active": "039d9f32aafe702a",
   "lastOpenFiles": [
+    "Desktop Support & Maintenance/1-Introduction/1.2 Computing Basics.md",
+    "Desktop Support & Maintenance/1-Introduction/1.10 Network and Server Cabinets.md",
+    "Desktop Support & Maintenance/2-PC Technician Responsibilities/7.1 Troubleshooting Process.md",
+    "Desktop Support & Maintenance/2-PC Technician Responsibilities/6.1 PC and Networking Tools.md",
+    "Desktop Support & Maintenance/3-Components/Motherboards.md",
     "Desktop Support & Maintenance/Advanced Components.md",
     "Desktop Support & Maintenance/Cloud Computing.md",
     "Desktop Support & Maintenance/Windows Active Directory.md",
@@ -180,7 +185,6 @@
     "Desktop Support & Maintenance/Storage.md",
     "Desktop Support & Maintenance/RAID.md",
     "Desktop Support & Maintenance/Final Notes.md",
-    "Desktop Support & Maintenance/3-Components/Motherboards.md",
     "Programming/Common Built-In Methods.md",
     "Programming/Common Built-In Functions.md",
     "Programming/String Arguments.md",
@@ -195,10 +199,6 @@
     "Windows/Active Directory.md",
     "Windows/Skills Exam.md",
     "Windows/Practice Questions.md",
-    "Windows/Partition Tables.md",
-    "Windows/Groups.md",
-    "Windows/Hyper V.md",
-    "Windows/DNS Zones.md",
     "Networking/14-Transport Layer",
     "Networking/12-IPv6",
     "Desktop Support & Maintenance/4-Software",
