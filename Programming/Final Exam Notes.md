@@ -57,7 +57,7 @@ will output
 ## Functions
 ```python
 def test_function(name, age):
-    print("Name: " + str(name) + "\nAge: " + str(age))
+	   print("Name: " + str(name) + "\nAge: " + str(age))
   
 # all output the same thing
 test_function('john', 59)
@@ -68,5 +68,30 @@ test_function('john', age=59)
 - `print` is for humans only
 - `return` gives a value that the program can use
 ## Classes
-#### Special Functions
-`__init__`
+##### Special Functions
+init
+```python
+class Person:
+	# init assigns arguments to the class itself
+	def __init__(self, name, age):  
+	    self.name = name  
+	    self.age = age
+
+p1 = Person("john", 36)  
+print(p1.name)
+# outputs john
+```
+str
+```python
+class Person:  
+	def __init__(self, name, age):  
+		self.name = name  
+		self.age = age
+	# returns a default string for the class
+	def __str__(self):  
+		return f"{self.name}({self.age})"
+  
+p1 = Person("John", 36)  
+print(p1)
+```
+
