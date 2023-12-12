@@ -110,3 +110,27 @@ print(obj1 < obj2)
 - also `le`, `gt`, `ge`, `eq`, `ne`
 
 ## Exceptions
+- used to handle errors that can occur
+```python
+# generalized error
+try:
+	print(undefined)
+except:
+	print("There was an error.")
+
+# specific errors
+try:
+	print(undefined)
+except (NameError, IndexError):
+	print("There was a NameError or IndexError.")
+
+# custom error
+class LessThanZeroError(Exception):
+    def __init__(self, value):
+        self.value = value
+
+if my_num < 0:
+    raise LessThanZeroError('my_num must be greater than 0')
+else:
+    print(f'my_num: {my_num}')
+```
