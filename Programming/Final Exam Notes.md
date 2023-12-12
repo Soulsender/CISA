@@ -136,6 +136,7 @@ else:
     print(f'my_num: {my_num}')
 ```
 ## Files
+##### Regular Files
 - `open()` method can open files to be used in:
 	- `r` - read
 	- `w` - write
@@ -145,5 +146,17 @@ else:
 - `.close()` can close the file when it is finished being read
 - `.readlines()` returns a list of strings
 ```python
-
+# keep a file open for a block of code to run, then close it
+with open('file.txt', 'w') as file:
+	file.write('some text')
+```
+##### CSV files
+```python
+import csv
+with open('grades.csv', 'r') as csvfile:
+    grades_reader = csv.reader(csvfile, delimiter=',')
+    row_num = 1
+    for row in grades_reader:
+        print(f'Row #{row_num}: {row}')
+        row_num += 1
 ```
