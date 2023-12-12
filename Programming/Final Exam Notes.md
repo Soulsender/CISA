@@ -64,3 +64,9 @@ test_function('john', 59)
 test_function(age=59, name='john')
 test_function('john', age=59)
 ```
+##### Return vs Print
+- `print` is for humans only
+- `return` gives a value that the program can use
+## Classes
+#### Special Functions
+`__init__`
