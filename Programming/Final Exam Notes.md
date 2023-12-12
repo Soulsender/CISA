@@ -1,3 +1,12 @@
+## Order of Operations
+> from top down where top is done first
+1. exponents
+2. dividing, multiplying, modulo
+3. addition, subtraction
+4. relational (`==, >=, <=, >`)
+5. `not`
+6. `and`
+7. `or`
 ## Dictionaries
 ##### Accessing and changing dictionaries
 ```python
@@ -23,4 +32,4 @@ dict = {
 - `.pop(key)` - removes and returns value for specified key
 - `.update(other_dict)` - updates dict with key/value pairs from another dict
 
-##
+## 
