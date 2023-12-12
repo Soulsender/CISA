@@ -108,3 +108,5 @@ print(obj1 < obj2)
 # will return YES
 ```
 - also `le`, `gt`, `ge`, `eq`, `ne`
+
+## Exceptions
