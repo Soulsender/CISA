@@ -87,14 +87,24 @@ class Person:
 	def __init__(self, name, age):  
 		self.name = name  
 		self.age = age
-	# will return John(36)
+	
 	def __str__(self):  
 		return f"{self.name}({self.age})"
   
 p1 = Person("John", 36)  
 print(p1)
+# will return John(36)
 ```
 lt
 > defines `<`
+```python
+class GFG: 
+	def __lt__(self, other): 
+		return "YES"
+obj1 = GFG() 
+obj2 = GFG() 
 
-
+print(obj1 < obj2)
+# will return YES
+```
+- also `le`, `gt`, `ge`, `eq`, `ne`
