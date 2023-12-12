@@ -87,7 +87,7 @@ class Person:
 	def __init__(self, name, age):  
 		self.name = name  
 		self.age = age
-	# returns a default string for the class
+	# will retu
 	def __str__(self):  
 		return f"{self.name}({self.age})"
   
