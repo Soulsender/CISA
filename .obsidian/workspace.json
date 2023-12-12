@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,9 +190,9 @@
   },
   "active": "386e0a574d15f851",
   "lastOpenFiles": [
-    "Programming/Common Built-In Methods.md",
-    "Programming/Final Exam Notes.md",
     "Programming/Common Built-In Functions.md",
+    "Programming/Final Exam Notes.md",
+    "Programming/Common Built-In Methods.md",
     "Desktop Support & Maintenance/Final Notes.md",
     "Desktop Support & Maintenance/Cloud Computing.md",
     "Desktop Support & Maintenance/Windows Active Directory.md",

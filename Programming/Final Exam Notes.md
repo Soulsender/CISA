@@ -109,8 +109,9 @@ print(obj1 < obj2)
 ```
 - also `le`, `gt`, `ge`, `eq`, `ne`
 
-## Exceptions
+## Errors
 - used to handle errors that can occur
+- `raise` can manually trigger errors
 ```python
 # generalized error
 try:
@@ -133,4 +134,16 @@ if my_num < 0:
     raise LessThanZeroError('my_num must be greater than 0')
 else:
     print(f'my_num: {my_num}')
+```
+## Files
+- `open()` method can open files to be used in:
+	- `r` - read
+	- `w` - write
+	- `a` - append
+- `.read()` can be used to read from a file
+- `.write()` can write to a files
+- `.close()` can close the file when it is finished being read
+- `.readlines()` returns a list of strings
+```python
+
 ```
