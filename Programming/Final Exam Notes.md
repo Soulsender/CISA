@@ -32,4 +32,22 @@ dict = {
 - `.pop(key)` - removes and returns value for specified key
 - `.update(other_dict)` - updates dict with key/value pairs from another dict
 
-## 
+## Loops
+```python
+# starts at 0
+# goes to 1
+# executed twice
+for i in range(0, 2):
+    print(i)
+    for a in range_char('a', 'b'):
+        print(a)
+```
+will output
+```
+0
+	a
+	b
+1
+	a
+	b
+```
