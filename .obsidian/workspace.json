@@ -13,19 +13,37 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desktop Support & Maintenance/Final Notes.md",
+                "file": "Programming/Final Exam Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "6c2f53e5ec0abf99",
+        "type": "tabs",
+        "children": [
           {
             "id": "039d9f32aafe702a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Final Exam Notes.md",
+                "file": "Programming/Common Built-In Functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b0cc4e3731896aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Common Built-In Methods.md",
                 "mode": "source",
                 "source": false
               }
@@ -171,10 +189,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "039d9f32aafe702a",
+  "active": "386e0a574d15f851",
   "lastOpenFiles": [
-    "Desktop Support & Maintenance/Cloud Computing.md",
+    "Programming/Common Built-In Methods.md",
     "Programming/Final Exam Notes.md",
+    "Programming/Common Built-In Functions.md",
+    "Desktop Support & Maintenance/Final Notes.md",
+    "Desktop Support & Maintenance/Cloud Computing.md",
     "Desktop Support & Maintenance/Windows Active Directory.md",
     "Desktop Support & Maintenance/1-Introduction/1.2 Computing Basics.md",
     "Desktop Support & Maintenance/1-Introduction/1.10 Network and Server Cabinets.md",
@@ -185,9 +206,6 @@
     "Desktop Support & Maintenance/Virtualization.md",
     "Desktop Support & Maintenance/Storage.md",
     "Desktop Support & Maintenance/RAID.md",
-    "Desktop Support & Maintenance/Final Notes.md",
-    "Programming/Common Built-In Methods.md",
-    "Programming/Common Built-In Functions.md",
     "Programming/String Arguments.md",
     "Networking/IOS Commands.md",
     "Database/Security.md",
