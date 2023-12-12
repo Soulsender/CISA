@@ -53,3 +53,10 @@ will output
 	a
 	b
 ```
+
+## Functions
+```python
+def test_function()
+
+test_function('text', 59)
+```
