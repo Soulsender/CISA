@@ -56,7 +56,11 @@ will output
 
 ## Functions
 ```python
-def test_function()
-
-test_function('text', 59)
+def test_function(name, age):
+    print("Name: " + str(name) + "\nAge: " + str(age))
+  
+# all output the same thing
+test_function('john', 59)
+test_function(age=59, name='john')
+test_function('john', age=59)
 ```
