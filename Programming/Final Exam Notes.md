@@ -38,6 +38,8 @@ dict = {
 # goes to 1
 # executed twice
 for i in range(0, 2):
+		# execute once, then execute the nested loop twice
+		# before being executed again
     print(i)
     for a in range_char('a', 'b'):
         print(a)
