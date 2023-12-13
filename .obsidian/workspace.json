@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Midterm Notes.md",
+                "file": "Networking/QUIZ TAKEAWAYS.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Midterm Notes.md",
+                "file": "Networking/QUIZ TAKEAWAYS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Midterm Notes.md",
+                "file": "Networking/QUIZ TAKEAWAYS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Midterm Notes.md"
+                "file": "Networking/QUIZ TAKEAWAYS.md"
               }
             }
           },
@@ -160,10 +160,19 @@
   },
   "active": "386e0a574d15f851",
   "lastOpenFiles": [
-    "Networking/Console with Linux.md",
+    "Networking/Midterm Notes.md",
     "Networking/IOS Commands.md",
-    "Networking/Reference Models.md",
+    "Networking/Console with Linux.md",
     "Networking/Subnet Classes.md",
+    "Networking/Reference Models.md",
+    "Networking/7-Ethernet Switching/7.3 Sending Frames.md",
+    "Networking/7-Ethernet Switching/7.2 Mac Addresses.md",
+    "Networking/14-Transport Layer/UDP vs TCP.md",
+    "Networking/8-Network/8.3 IPv4 and IPv6.md",
+    "Networking/8-Network/8.1 Routing.md",
+    "Networking/12-IPv6/Dynamic Address.md",
+    "Networking/12-IPv6/Compressing addresses.md",
+    "Networking/7-Ethernet Switching/7.1 Encapsulation.md",
     "Programming/Common Built-In Functions.md",
     "Programming/Final Exam Notes.md",
     "Programming/Common Built-In Methods.md",
@@ -177,15 +186,6 @@
     "Desktop Support & Maintenance/3-Components/Motherboards.md",
     "Desktop Support & Maintenance/Advanced Components.md",
     "Desktop Support & Maintenance/Virtualization.md",
-    "Desktop Support & Maintenance/Storage.md",
-    "Desktop Support & Maintenance/RAID.md",
-    "Programming/String Arguments.md",
-    "Database/Security.md",
-    "Database/Windows Server.md",
-    "Database/Backups.md",
-    "Database/Database Terms.md",
-    "Database/Database Objects.md",
-    "Database/Normalization.md",
     "Networking/14-Transport Layer",
     "Networking/12-IPv6",
     "Desktop Support & Maintenance/4-Software",
